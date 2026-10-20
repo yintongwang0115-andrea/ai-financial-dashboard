@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-20T16:16:27.721481+00:00",
+  "retrieved_at": "2026-10-20T18:33:02.910330+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -96,7 +96,7 @@
       },
       {
         "date": "2025-11-10",
-        "close": 198.5742
+        "close": 198.5743
       },
       {
         "date": "2025-11-11",
@@ -128,7 +128,7 @@
       },
       {
         "date": "2025-11-20",
-        "close": 180.2082
+        "close": 180.2083
       },
       {
         "date": "2025-11-21",
@@ -144,7 +144,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8292
+        "close": 179.8291
       },
       {
         "date": "2025-11-28",
@@ -328,7 +328,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7833
+        "close": 173.7834
       },
       {
         "date": "2026-02-05",
@@ -336,7 +336,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9771
+        "close": 184.9772
       },
       {
         "date": "2026-02-09",
@@ -420,7 +420,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3387
+        "close": 184.3386
       },
       {
         "date": "2026-03-11",
@@ -1040,7 +1040,7 @@
       },
       {
         "date": "2026-10-20",
-        "close": 217.06
+        "close": 216.74
       }
     ],
     "Alphabet": [
@@ -1086,7 +1086,7 @@
       },
       {
         "date": "2025-11-03",
-        "close": 282.9841
+        "close": 282.984
       },
       {
         "date": "2025-11-04",
@@ -1102,7 +1102,7 @@
       },
       {
         "date": "2025-11-07",
-        "close": 278.1068
+        "close": 278.1067
       },
       {
         "date": "2025-11-10",
@@ -1126,7 +1126,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 284.2807
+        "close": 284.2806
       },
       {
         "date": "2025-11-18",
@@ -1134,7 +1134,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 292.0505
+        "close": 292.0504
       },
       {
         "date": "2025-11-20",
@@ -1142,7 +1142,7 @@
       },
       {
         "date": "2025-11-21",
-        "close": 298.8828
+        "close": 298.8827
       },
       {
         "date": "2025-11-24",
@@ -1254,7 +1254,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9255
+        "close": 315.9254
       },
       {
         "date": "2026-01-06",
@@ -1318,7 +1318,7 @@
       },
       {
         "date": "2026-01-28",
-        "close": 335.3577
+        "close": 335.3576
       },
       {
         "date": "2026-01-29",
@@ -1366,7 +1366,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1264
+        "close": 305.1265
       },
       {
         "date": "2026-02-17",
@@ -1402,7 +1402,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 311.1547
+        "close": 311.1548
       },
       {
         "date": "2026-03-02",
@@ -1418,7 +1418,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2958
+        "close": 300.2959
       },
       {
         "date": "2026-03-06",
@@ -2050,7 +2050,7 @@
       },
       {
         "date": "2026-10-20",
-        "close": 341.49
+        "close": 340.1
       }
     ],
     "Apple": [
@@ -2072,7 +2072,7 @@
       },
       {
         "date": "2025-10-24",
-        "close": 261.8527
+        "close": 261.8528
       },
       {
         "date": "2025-10-27",
@@ -2088,7 +2088,7 @@
       },
       {
         "date": "2025-10-30",
-        "close": 270.4011
+        "close": 270.4012
       },
       {
         "date": "2025-10-31",
@@ -2124,7 +2124,7 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7277
+        "close": 272.7276
       },
       {
         "date": "2025-11-13",
@@ -2160,7 +2160,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.2182
+        "close": 276.2181
       },
       {
         "date": "2025-11-26",
@@ -2188,7 +2188,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-08",
@@ -2200,11 +2200,11 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-11",
-        "close": 277.2753
+        "close": 277.2752
       },
       {
         "date": "2025-12-12",
@@ -2232,7 +2232,7 @@
       },
       {
         "date": "2025-12-22",
-        "close": 270.2344
+        "close": 270.2345
       },
       {
         "date": "2025-12-23",
@@ -2276,7 +2276,7 @@
       },
       {
         "date": "2026-01-08",
-        "close": 258.3368
+        "close": 258.3369
       },
       {
         "date": "2026-01-09",
@@ -2288,7 +2288,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3414
+        "close": 260.3413
       },
       {
         "date": "2026-01-14",
@@ -2308,7 +2308,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9777
+        "close": 246.9778
       },
       {
         "date": "2026-01-22",
@@ -2512,7 +2512,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3988
+        "close": 258.3989
       },
       {
         "date": "2026-04-07",
@@ -2524,7 +2524,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.0259
+        "close": 260.026
       },
       {
         "date": "2026-04-10",
@@ -2592,7 +2592,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3369
+        "close": 276.3368
       },
       {
         "date": "2026-05-05",
@@ -2600,11 +2600,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9978
+        "close": 286.9979
       },
       {
         "date": "2026-05-07",
-        "close": 286.9279
+        "close": 286.928
       },
       {
         "date": "2026-05-08",
@@ -3060,7 +3060,7 @@
       },
       {
         "date": "2026-10-20",
-        "close": 340.68
+        "close": 339.93
       }
     ]
   },
@@ -4845,6 +4845,13 @@
       },
       {
         "company": "Alphabet",
+        "title": "New Gemini tools for small business owners",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+        "published": "Tue, 20 Oct 2026 16:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "Expanding our defenses against financial scam ads",
         "url": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
         "published": "Tue, 20 Oct 2026 15:00:00 +0000",
@@ -4908,15 +4915,15 @@
       },
       {
         "company": "Alphabet",
-        "title": "How we're helping the world prepare for natural disasters",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
+        "title": "Android earthquake alerts now available in more than 200 regions",
+        "url": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
         "published": "Thu, 15 Oct 2026 16:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
       {
         "company": "Alphabet",
-        "title": "Android earthquake alerts now available in more than 200 regions",
-        "url": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
+        "title": "How we're helping the world prepare for natural disasters",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
         "published": "Thu, 15 Oct 2026 16:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4950,15 +4957,15 @@
       },
       {
         "company": "Alphabet",
-        "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
+        "title": "Data-backed secrets to smarter holiday shopping",
+        "url": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
         "published": "Thu, 15 Oct 2026 13:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
       {
         "company": "Alphabet",
-        "title": "Data-backed secrets to smarter holiday shopping",
-        "url": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
+        "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
         "published": "Thu, 15 Oct 2026 13:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4967,13 +4974,6 @@
         "title": "Research@ 2026: Novel capabilities and intelligence",
         "url": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/",
         "published": "Wed, 14 Oct 2026 16:15:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Guide your campaign spending with new priority and allocation features",
-        "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
-        "published": "Wed, 14 Oct 2026 15:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
@@ -5122,6 +5122,20 @@
     "OpenAI": [
       {
         "company": "OpenAI",
+        "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+        "url": "https://openai.com/index/ted-taylor-restaurant",
+        "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "OpenAI acquires Orchestra Bio",
+        "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+        "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "Advancing coding in low‑resource programming languages",
         "url": "https://openai.com/index/low-resource-programming-languages",
         "published": "Mon, 19 Oct 2026 12:00:00 GMT",
@@ -5213,15 +5227,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "url": "https://openai.com/index/sophos",
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "url": "https://openai.com/index/asana-browser-agent",
         "published": "Fri, 09 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "url": "https://openai.com/index/asana-browser-agent",
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "url": "https://openai.com/index/sophos",
         "published": "Fri, 09 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5349,20 +5363,6 @@
         "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
         "url": "https://openai.com/index/the-den-family-social",
         "published": "Thu, 01 Oct 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Disrupting a coordinated model-distillation campaign",
-        "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-        "published": "Wed, 30 Sep 2026 10:30:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Helping small businesses put AI to work",
-        "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-        "published": "Wed, 30 Sep 2026 10:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
