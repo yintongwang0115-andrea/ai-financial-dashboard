@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-21T12:37:01.598303+00:00",
+  "retrieved_at": "2026-10-21T18:32:24.416639+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -60,7 +60,7 @@
       },
       {
         "date": "2025-10-29",
-        "close": 206.5451
+        "close": 206.5452
       },
       {
         "date": "2025-10-30",
@@ -92,7 +92,7 @@
       },
       {
         "date": "2025-11-10",
-        "close": 198.5743
+        "close": 198.5742
       },
       {
         "date": "2025-11-11",
@@ -124,7 +124,7 @@
       },
       {
         "date": "2025-11-20",
-        "close": 180.2083
+        "close": 180.2082
       },
       {
         "date": "2025-11-21",
@@ -140,7 +140,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8292
+        "close": 179.8291
       },
       {
         "date": "2025-11-28",
@@ -164,7 +164,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9841
+        "close": 181.9842
       },
       {
         "date": "2025-12-08",
@@ -416,7 +416,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3387
+        "close": 184.3386
       },
       {
         "date": "2026-03-11",
@@ -424,7 +424,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7223
+        "close": 182.7224
       },
       {
         "date": "2026-03-13",
@@ -448,7 +448,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3062
+        "close": 172.3061
       },
       {
         "date": "2026-03-23",
@@ -484,7 +484,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9855
+        "close": 176.9854
       },
       {
         "date": "2026-04-06",
@@ -1037,6 +1037,10 @@
       {
         "date": "2026-10-20",
         "close": 216.47
+      },
+      {
+        "date": "2026-10-21",
+        "close": 221.725
       }
     ],
     "Alphabet": [
@@ -1094,7 +1098,7 @@
       },
       {
         "date": "2025-11-07",
-        "close": 278.1067
+        "close": 278.1068
       },
       {
         "date": "2025-11-10",
@@ -2043,6 +2047,10 @@
       {
         "date": "2026-10-20",
         "close": 340.28
+      },
+      {
+        "date": "2026-10-21",
+        "close": 334.915
       }
     ],
     "Apple": [
@@ -2064,11 +2072,11 @@
       },
       {
         "date": "2025-10-27",
-        "close": 267.8207
+        "close": 267.8206
       },
       {
         "date": "2025-10-28",
-        "close": 268.01
+        "close": 268.0099
       },
       {
         "date": "2025-10-29",
@@ -2088,7 +2096,7 @@
       },
       {
         "date": "2025-11-04",
-        "close": 269.0462
+        "close": 269.0461
       },
       {
         "date": "2025-11-05",
@@ -2124,7 +2132,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 266.7339
+        "close": 266.734
       },
       {
         "date": "2025-11-18",
@@ -2168,7 +2176,7 @@
       },
       {
         "date": "2025-12-03",
-        "close": 283.3787
+        "close": 283.3786
       },
       {
         "date": "2025-12-04",
@@ -2216,7 +2224,7 @@
       },
       {
         "date": "2025-12-19",
-        "close": 272.9271
+        "close": 272.9272
       },
       {
         "date": "2025-12-22",
@@ -2248,7 +2256,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2743
+        "close": 270.2744
       },
       {
         "date": "2026-01-05",
@@ -2324,7 +2332,7 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7756
+        "close": 258.7757
       },
       {
         "date": "2026-02-02",
@@ -3049,6 +3057,10 @@
       {
         "date": "2026-10-20",
         "close": 339.5
+      },
+      {
+        "date": "2026-10-21",
+        "close": 344.84
       }
     ]
   },
@@ -4826,6 +4838,27 @@
     "Alphabet": [
       {
         "company": "Alphabet",
+        "title": "Recreating the lost studios of women sculptors with Prune Nourry",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/",
+        "published": "Wed, 21 Oct 2026 14:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
+        "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
+        "published": "Wed, 21 Oct 2026 13:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Drive with “The Cat in the Hat” on Waze.",
+        "url": "https://blog.google/waze/waze-the-cat-in-the-hat/",
+        "published": "Wed, 21 Oct 2026 11:39:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "Southeast Asia’s digital economy to hit $368 billion",
         "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
         "published": "Wed, 21 Oct 2026 04:00:00 +0000",
@@ -4917,20 +4950,6 @@
       },
       {
         "company": "Alphabet",
-        "title": "How we're helping the world prepare for natural disasters",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
-        "published": "Thu, 15 Oct 2026 16:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Android earthquake alerts now available in more than 200 regions",
-        "url": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
-        "published": "Thu, 15 Oct 2026 16:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
         "title": "400 publications are now partnering with us on our News AI pilot program.",
         "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
         "published": "Thu, 15 Oct 2026 16:00:00 +0000",
@@ -4945,23 +4964,16 @@
       },
       {
         "company": "Alphabet",
-        "title": "Making your Pixel devices last longer through design, repair, and reuse",
-        "url": "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/",
-        "published": "Thu, 15 Oct 2026 15:00:00 +0000",
+        "title": "How we're helping the world prepare for natural disasters",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
+        "published": "Thu, 15 Oct 2026 16:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
       {
         "company": "Alphabet",
-        "title": "An intelligent new shopping cart",
-        "url": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
-        "published": "Thu, 15 Oct 2026 13:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Data-backed secrets to smarter holiday shopping",
-        "url": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
-        "published": "Thu, 15 Oct 2026 13:00:00 +0000",
+        "title": "Android earthquake alerts now available in more than 200 regions",
+        "url": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/",
+        "published": "Thu, 15 Oct 2026 16:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
@@ -5108,6 +5120,48 @@
       }
     ],
     "OpenAI": [
+      {
+        "company": "OpenAI",
+        "title": "How AT&T is rethinking in-house legal work with OpenAI",
+        "url": "https://openai.com/index/att-legal",
+        "published": "Wed, 21 Oct 2026 17:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "OpenAI models are coming to Google Cloud",
+        "url": "https://openai.com/index/openai-models-google-cloud",
+        "published": "Wed, 21 Oct 2026 12:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+        "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+        "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+        "published": "Wed, 21 Oct 2026 13:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Using thousands of AI agents to uncover new leads in biological data",
+        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+        "published": "Wed, 21 Oct 2026 04:50:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+        "url": "https://openai.com/index/building-chatgpt-ad-stack",
+        "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
       {
         "company": "OpenAI",
         "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
@@ -5309,48 +5363,6 @@
         "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
         "url": "https://openai.com/index/atlassian-partnership",
         "published": "Tue, 06 Oct 2026 16:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Our approach to EU text provenance rules",
-        "url": "https://openai.com/index/eu-text-provenance",
-        "published": "Mon, 05 Oct 2026 15:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Building advertising for the way people use AI",
-        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-        "published": "Mon, 05 Oct 2026 10:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "A model guide for the GPT-6 family",
-        "url": "https://openai.com/index/practical-guide-building-gpt-6",
-        "published": "Fri, 02 Oct 2026 16:15:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Chatham scales its capital markets expertise with OpenAI",
-        "url": "https://openai.com/index/chatham-financial",
-        "published": "Fri, 02 Oct 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "The eternal complement",
-        "url": "https://openai.com/index/the-eternal-complement",
-        "published": "Thu, 01 Oct 2026 17:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "How Albertsons Companies is reimagining retail from the inside out",
-        "url": "https://openai.com/index/albertsons-reimagining-retail",
-        "published": "Thu, 01 Oct 2026 16:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
