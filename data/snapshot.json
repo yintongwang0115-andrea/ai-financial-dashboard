@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-22T00:37:39.898598+00:00",
+  "retrieved_at": "2026-10-22T06:37:06.897042+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -56,7 +56,7 @@
       },
       {
         "date": "2025-10-29",
-        "close": 206.5452
+        "close": 206.5451
       },
       {
         "date": "2025-10-30",
@@ -64,7 +64,7 @@
       },
       {
         "date": "2025-10-31",
-        "close": 202.006
+        "close": 202.0061
       },
       {
         "date": "2025-11-03",
@@ -76,7 +76,7 @@
       },
       {
         "date": "2025-11-05",
-        "close": 194.7435
+        "close": 194.7434
       },
       {
         "date": "2025-11-06",
@@ -320,7 +320,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7833
+        "close": 173.7834
       },
       {
         "date": "2026-02-05",
@@ -328,7 +328,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9771
+        "close": 184.9772
       },
       {
         "date": "2026-02-09",
@@ -384,7 +384,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 176.7764
+        "close": 176.7763
       },
       {
         "date": "2026-03-02",
@@ -1033,6 +1033,10 @@
       {
         "date": "2026-10-20",
         "close": 216.47
+      },
+      {
+        "date": "2026-10-21",
+        "close": 221.97
       }
     ],
     "Alphabet": [
@@ -1086,7 +1090,7 @@
       },
       {
         "date": "2025-11-07",
-        "close": 278.1067
+        "close": 278.1068
       },
       {
         "date": "2025-11-10",
@@ -1162,7 +1166,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 320.4367
+        "close": 320.4366
       },
       {
         "date": "2025-12-08",
@@ -1218,11 +1222,11 @@
       },
       {
         "date": "2025-12-26",
-        "close": 312.9014
+        "close": 312.9013
       },
       {
         "date": "2025-12-29",
-        "close": 312.9513
+        "close": 312.9512
       },
       {
         "date": "2025-12-30",
@@ -1238,7 +1242,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9254
+        "close": 315.9255
       },
       {
         "date": "2026-01-06",
@@ -1326,7 +1330,7 @@
       },
       {
         "date": "2026-02-05",
-        "close": 330.6069
+        "close": 330.6068
       },
       {
         "date": "2026-02-06",
@@ -1342,7 +1346,7 @@
       },
       {
         "date": "2026-02-11",
-        "close": 310.3562
+        "close": 310.3563
       },
       {
         "date": "2026-02-12",
@@ -1382,7 +1386,7 @@
       },
       {
         "date": "2026-02-26",
-        "close": 306.7832
+        "close": 306.7833
       },
       {
         "date": "2026-02-27",
@@ -1402,7 +1406,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2959
+        "close": 300.2958
       },
       {
         "date": "2026-03-06",
@@ -1482,7 +1486,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4036
+        "close": 295.4035
       },
       {
         "date": "2026-04-06",
@@ -1546,15 +1550,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.9059
+        "close": 349.906
       },
       {
         "date": "2026-04-28",
-        "close": 349.3466
+        "close": 349.3467
       },
       {
         "date": "2026-04-29",
-        "close": 349.5065
+        "close": 349.5064
       },
       {
         "date": "2026-04-30",
@@ -1630,7 +1634,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3482
+        "close": 388.3483
       },
       {
         "date": "2026-05-28",
@@ -2035,6 +2039,10 @@
       {
         "date": "2026-10-20",
         "close": 340.28
+      },
+      {
+        "date": "2026-10-21",
+        "close": 334.76
       }
     ],
     "Apple": [
@@ -2064,7 +2072,7 @@
       },
       {
         "date": "2025-10-30",
-        "close": 270.4011
+        "close": 270.4012
       },
       {
         "date": "2025-10-31",
@@ -3037,6 +3045,10 @@
       {
         "date": "2026-10-20",
         "close": 339.5
+      },
+      {
+        "date": "2026-10-21",
+        "close": 343.99
       }
     ]
   },
@@ -4672,6 +4684,48 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+        "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+        "published": "Thu, 22 Oct 2026 05:00:56 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+        "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+        "published": "Thu, 22 Oct 2026 05:00:27 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+        "url": "https://blogs.nvidia.com/blog/dsx-power/",
+        "published": "Thu, 22 Oct 2026 05:00:25 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+        "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+        "published": "Thu, 22 Oct 2026 05:00:23 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+        "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+        "published": "Thu, 22 Oct 2026 05:00:19 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+        "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+        "published": "Thu, 22 Oct 2026 05:00:02 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
         "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
         "published": "Wed, 21 Oct 2026 10:50:37 GMT",
@@ -4766,48 +4820,6 @@
         "title": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents",
         "url": "https://nvidianews.nvidia.com/news/openshell-reference-architecture",
         "published": "Wed, 21 Oct 2026 09:48:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "European Ecosystem Builds World’s Most Efficient AI Factories With NVIDIA DSX",
-        "url": "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx",
-        "published": "Wed, 21 Oct 2026 09:35:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
-        "published": "Wed, 21 Oct 2026 09:34:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
-        "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-        "published": "Wed, 21 Oct 2026 09:30:16 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
-        "url": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
-        "published": "Tue, 20 Oct 2026 10:30:11 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-        "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
-        "published": "Tue, 20 Oct 2026 05:00:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
-        "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
-        "published": "Mon, 19 Oct 2026 19:27:08 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
@@ -5140,6 +5152,13 @@
       },
       {
         "company": "OpenAI",
+        "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+        "url": "https://openai.com/index/cloudflare-cyber",
+        "published": "Wed, 21 Oct 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
         "url": "https://openai.com/index/building-chatgpt-ad-stack",
         "published": "Wed, 21 Oct 2026 07:00:00 GMT",
@@ -5266,15 +5285,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "url": "https://openai.com/index/sophos",
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "url": "https://openai.com/index/asana-browser-agent",
         "published": "Fri, 09 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "url": "https://openai.com/index/asana-browser-agent",
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "url": "https://openai.com/index/sophos",
         "published": "Fri, 09 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5331,13 +5350,6 @@
         "company": "OpenAI",
         "title": "How Jump Trading is scaling quant research with ChatGPT",
         "url": "https://openai.com/index/jump-trading",
-        "published": "Tue, 06 Oct 2026 12:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Sharing AI progress in mathematics",
-        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
         "published": "Tue, 06 Oct 2026 12:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
