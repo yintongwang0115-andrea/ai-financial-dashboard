@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-23T00:39:36.172557+00:00",
+  "retrieved_at": "2026-10-23T06:36:27.785316+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -132,7 +132,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8292
+        "close": 179.8291
       },
       {
         "date": "2025-11-28",
@@ -316,7 +316,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7833
+        "close": 173.7834
       },
       {
         "date": "2026-02-05",
@@ -324,7 +324,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9771
+        "close": 184.9772
       },
       {
         "date": "2026-02-09",
@@ -408,7 +408,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3387
+        "close": 184.3386
       },
       {
         "date": "2026-03-11",
@@ -1033,6 +1033,10 @@
       {
         "date": "2026-10-21",
         "close": 221.97
+      },
+      {
+        "date": "2026-10-22",
+        "close": 212.21
       }
     ],
     "Alphabet": [
@@ -1066,7 +1070,7 @@
       },
       {
         "date": "2025-11-03",
-        "close": 282.984
+        "close": 282.9841
       },
       {
         "date": "2025-11-04",
@@ -1106,7 +1110,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 284.2807
+        "close": 284.2806
       },
       {
         "date": "2025-11-18",
@@ -1214,11 +1218,11 @@
       },
       {
         "date": "2025-12-26",
-        "close": 312.9013
+        "close": 312.9014
       },
       {
         "date": "2025-12-29",
-        "close": 312.9512
+        "close": 312.9513
       },
       {
         "date": "2025-12-30",
@@ -1234,7 +1238,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9255
+        "close": 315.9254
       },
       {
         "date": "2026-01-06",
@@ -1322,7 +1326,7 @@
       },
       {
         "date": "2026-02-05",
-        "close": 330.6068
+        "close": 330.6069
       },
       {
         "date": "2026-02-06",
@@ -1338,7 +1342,7 @@
       },
       {
         "date": "2026-02-11",
-        "close": 310.3563
+        "close": 310.3562
       },
       {
         "date": "2026-02-12",
@@ -1378,7 +1382,7 @@
       },
       {
         "date": "2026-02-26",
-        "close": 306.7833
+        "close": 306.7832
       },
       {
         "date": "2026-02-27",
@@ -1398,7 +1402,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2958
+        "close": 300.2959
       },
       {
         "date": "2026-03-06",
@@ -1478,7 +1482,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4035
+        "close": 295.4036
       },
       {
         "date": "2026-04-06",
@@ -1542,15 +1546,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.906
+        "close": 349.9059
       },
       {
         "date": "2026-04-28",
-        "close": 349.3467
+        "close": 349.3466
       },
       {
         "date": "2026-04-29",
-        "close": 349.5064
+        "close": 349.5065
       },
       {
         "date": "2026-04-30",
@@ -1626,7 +1630,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3483
+        "close": 388.3482
       },
       {
         "date": "2026-05-28",
@@ -2035,16 +2039,20 @@
       {
         "date": "2026-10-21",
         "close": 334.76
+      },
+      {
+        "date": "2026-10-22",
+        "close": 324.22
       }
     ],
     "Apple": [
       {
         "date": "2025-10-23",
-        "close": 258.6246
+        "close": 258.6247
       },
       {
         "date": "2025-10-24",
-        "close": 261.8528
+        "close": 261.8527
       },
       {
         "date": "2025-10-27",
@@ -2060,7 +2068,7 @@
       },
       {
         "date": "2025-10-30",
-        "close": 270.4011
+        "close": 270.4012
       },
       {
         "date": "2025-10-31",
@@ -2096,11 +2104,11 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7276
+        "close": 272.7277
       },
       {
         "date": "2025-11-13",
-        "close": 272.2091
+        "close": 272.209
       },
       {
         "date": "2025-11-14",
@@ -2112,7 +2120,7 @@
       },
       {
         "date": "2025-11-18",
-        "close": 266.7141
+        "close": 266.714
       },
       {
         "date": "2025-11-19",
@@ -2132,7 +2140,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.2182
+        "close": 276.2181
       },
       {
         "date": "2025-11-26",
@@ -2160,7 +2168,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0233
+        "close": 278.0232
       },
       {
         "date": "2025-12-08",
@@ -2172,7 +2180,7 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0233
+        "close": 278.0232
       },
       {
         "date": "2025-12-11",
@@ -2216,7 +2224,7 @@
       },
       {
         "date": "2025-12-26",
-        "close": 272.6578
+        "close": 272.6579
       },
       {
         "date": "2025-12-29",
@@ -2232,7 +2240,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2743
+        "close": 270.2744
       },
       {
         "date": "2026-01-05",
@@ -2260,7 +2268,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3413
+        "close": 260.3414
       },
       {
         "date": "2026-01-14",
@@ -2280,7 +2288,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9778
+        "close": 246.9777
       },
       {
         "date": "2026-01-22",
@@ -2308,11 +2316,11 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7756
+        "close": 258.7757
       },
       {
         "date": "2026-02-02",
-        "close": 269.2771
+        "close": 269.277
       },
       {
         "date": "2026-02-03",
@@ -2484,7 +2492,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3989
+        "close": 258.3988
       },
       {
         "date": "2026-04-07",
@@ -2496,7 +2504,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.026
+        "close": 260.0259
       },
       {
         "date": "2026-04-10",
@@ -2564,7 +2572,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3368
+        "close": 276.3369
       },
       {
         "date": "2026-05-05",
@@ -2572,11 +2580,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9979
+        "close": 286.9978
       },
       {
         "date": "2026-05-07",
-        "close": 286.928
+        "close": 286.9279
       },
       {
         "date": "2026-05-08",
@@ -3037,6 +3045,10 @@
       {
         "date": "2026-10-21",
         "close": 343.99
+      },
+      {
+        "date": "2026-10-22",
+        "close": 348.22
       }
     ]
   },
@@ -4672,6 +4684,13 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "Kazakhstan Expands Compute for Its AI Future",
+        "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+        "published": "Fri, 23 Oct 2026 02:00:13 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
         "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
         "published": "Thu, 22 Oct 2026 15:00:02 GMT",
@@ -4801,13 +4820,6 @@
         "title": "NVIDIA, Nokia and Leading Telecom Operators Turn Networks Into Distributed Intelligence Platforms",
         "url": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
         "published": "Wed, 21 Oct 2026 10:11:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-        "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
-        "published": "Wed, 21 Oct 2026 10:10:01 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
@@ -5098,6 +5110,13 @@
     "OpenAI": [
       {
         "company": "OpenAI",
+        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+        "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "Build more responsive apps with the Decisions API",
         "url": "https://openai.com/index/decisions-api",
         "published": "Thu, 22 Oct 2026 19:00:00 GMT",
@@ -5217,15 +5236,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Benefit Street Partners answers questions faster with Codex",
-        "url": "https://openai.com/index/benefit-street-partners",
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
         "published": "Fri, 16 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "title": "Benefit Street Partners answers questions faster with Codex",
+        "url": "https://openai.com/index/benefit-street-partners",
         "published": "Fri, 16 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5294,15 +5313,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "url": "https://openai.com/index/sophos",
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "url": "https://openai.com/index/asana-browser-agent",
         "published": "Fri, 09 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "url": "https://openai.com/index/asana-browser-agent",
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "url": "https://openai.com/index/sophos",
         "published": "Fri, 09 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5332,13 +5351,6 @@
         "title": "Disrupting AI-enabled “false front” operations",
         "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
         "published": "Thu, 08 Oct 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Helping teens learn, plan, and shape the future of AI",
-        "url": "https://openai.com/index/teens-learn-and-plan",
-        "published": "Wed, 07 Oct 2026 12:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
