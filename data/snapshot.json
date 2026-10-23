@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-23T12:34:01.663410+00:00",
+  "retrieved_at": "2026-10-23T18:32:06.997533+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -52,7 +52,7 @@
       },
       {
         "date": "2025-10-29",
-        "close": 206.5451
+        "close": 206.5452
       },
       {
         "date": "2025-10-30",
@@ -60,7 +60,7 @@
       },
       {
         "date": "2025-10-31",
-        "close": 202.0061
+        "close": 202.006
       },
       {
         "date": "2025-11-03",
@@ -132,7 +132,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8292
+        "close": 179.8291
       },
       {
         "date": "2025-11-28",
@@ -380,7 +380,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 176.7763
+        "close": 176.7764
       },
       {
         "date": "2026-03-02",
@@ -408,7 +408,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3387
+        "close": 184.3386
       },
       {
         "date": "2026-03-11",
@@ -416,7 +416,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7223
+        "close": 182.7224
       },
       {
         "date": "2026-03-13",
@@ -440,7 +440,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3062
+        "close": 172.3061
       },
       {
         "date": "2026-03-23",
@@ -476,7 +476,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9855
+        "close": 176.9854
       },
       {
         "date": "2026-04-06",
@@ -1037,6 +1037,10 @@
       {
         "date": "2026-10-22",
         "close": 212.21
+      },
+      {
+        "date": "2026-10-23",
+        "close": 212.0259
       }
     ],
     "Alphabet": [
@@ -1070,7 +1074,7 @@
       },
       {
         "date": "2025-11-03",
-        "close": 282.9841
+        "close": 282.984
       },
       {
         "date": "2025-11-04",
@@ -1110,7 +1114,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 284.2807
+        "close": 284.2806
       },
       {
         "date": "2025-11-18",
@@ -1118,7 +1122,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 292.0505
+        "close": 292.0504
       },
       {
         "date": "2025-11-20",
@@ -1218,11 +1222,11 @@
       },
       {
         "date": "2025-12-26",
-        "close": 312.9014
+        "close": 312.9013
       },
       {
         "date": "2025-12-29",
-        "close": 312.9513
+        "close": 312.9512
       },
       {
         "date": "2025-12-30",
@@ -1342,7 +1346,7 @@
       },
       {
         "date": "2026-02-11",
-        "close": 310.3562
+        "close": 310.3563
       },
       {
         "date": "2026-02-12",
@@ -1350,7 +1354,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1264
+        "close": 305.1265
       },
       {
         "date": "2026-02-17",
@@ -1386,7 +1390,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 311.1547
+        "close": 311.1548
       },
       {
         "date": "2026-03-02",
@@ -2043,6 +2047,10 @@
       {
         "date": "2026-10-22",
         "close": 324.22
+      },
+      {
+        "date": "2026-10-23",
+        "close": 321.8901
       }
     ],
     "Apple": [
@@ -2068,7 +2076,7 @@
       },
       {
         "date": "2025-10-30",
-        "close": 270.4012
+        "close": 270.4011
       },
       {
         "date": "2025-10-31",
@@ -2104,7 +2112,7 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7276
+        "close": 272.7277
       },
       {
         "date": "2025-11-13",
@@ -2140,7 +2148,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.2181
+        "close": 276.2182
       },
       {
         "date": "2025-11-26",
@@ -2168,7 +2176,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0233
+        "close": 278.0232
       },
       {
         "date": "2025-12-08",
@@ -2180,11 +2188,11 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0233
+        "close": 278.0232
       },
       {
         "date": "2025-12-11",
-        "close": 277.2752
+        "close": 277.2753
       },
       {
         "date": "2025-12-12",
@@ -2212,7 +2220,7 @@
       },
       {
         "date": "2025-12-22",
-        "close": 270.2345
+        "close": 270.2344
       },
       {
         "date": "2025-12-23",
@@ -2256,7 +2264,7 @@
       },
       {
         "date": "2026-01-08",
-        "close": 258.3369
+        "close": 258.3368
       },
       {
         "date": "2026-01-09",
@@ -2268,7 +2276,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3413
+        "close": 260.3414
       },
       {
         "date": "2026-01-14",
@@ -2288,7 +2296,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9778
+        "close": 246.9777
       },
       {
         "date": "2026-01-22",
@@ -2492,7 +2500,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3989
+        "close": 258.3988
       },
       {
         "date": "2026-04-07",
@@ -2504,7 +2512,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.026
+        "close": 260.0259
       },
       {
         "date": "2026-04-10",
@@ -2572,7 +2580,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3368
+        "close": 276.3369
       },
       {
         "date": "2026-05-05",
@@ -2580,11 +2588,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9979
+        "close": 286.9978
       },
       {
         "date": "2026-05-07",
-        "close": 286.928
+        "close": 286.9279
       },
       {
         "date": "2026-05-08",
@@ -3049,6 +3057,10 @@
       {
         "date": "2026-10-22",
         "close": 348.22
+      },
+      {
+        "date": "2026-10-23",
+        "close": 346.38
       }
     ]
   },
@@ -4826,6 +4838,13 @@
     "Alphabet": [
       {
         "company": "Alphabet",
+        "title": "See what 5 builders are making with Gemini 4 Argon",
+        "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+        "published": "Fri, 23 Oct 2026 16:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.",
         "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
         "published": "Thu, 22 Oct 2026 13:00:00 +0000",
@@ -4956,16 +4975,16 @@
         "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
         "published": "Thu, 15 Oct 2026 16:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "More ways to connect with the web from Search",
-        "url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
-        "published": "Thu, 15 Oct 2026 16:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
       }
     ],
     "Apple": [
+      {
+        "company": "Apple",
+        "title": "iPhone Duo arrives at Apple Store locations worldwide",
+        "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+        "published": "2026-10-23T06:10:35.677Z",
+        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
+      },
       {
         "company": "Apple",
         "title": "Formula 1® United States Grand Prix™ streams live on Apple TV this weekend",
@@ -5098,16 +5117,16 @@
         "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
         "published": "2026-09-16T13:59:28.902Z",
         "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
-      },
-      {
-        "company": "Apple",
-        "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
-        "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
-        "published": "2026-09-15T10:02:42.356Z",
-        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
       }
     ],
     "OpenAI": [
+      {
+        "company": "OpenAI",
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+        "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
       {
         "company": "OpenAI",
         "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
@@ -5344,13 +5363,6 @@
         "title": "LegalOn halves Codex costs while maintaining development speed",
         "url": "https://openai.com/index/legalon-halves-codex-costs",
         "published": "Thu, 08 Oct 2026 12:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Disrupting AI-enabled “false front” operations",
-        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-        "published": "Thu, 08 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
