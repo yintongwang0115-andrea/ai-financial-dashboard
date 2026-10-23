@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-22T18:32:15.324315+00:00",
+  "retrieved_at": "2026-10-23T00:39:36.172557+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -34,10 +34,6 @@
   },
   "stocks": {
     "NVIDIA": [
-      {
-        "date": "2025-10-22",
-        "close": 179.8491
-      },
       {
         "date": "2025-10-23",
         "close": 181.7246
@@ -88,7 +84,7 @@
       },
       {
         "date": "2025-11-10",
-        "close": 198.5742
+        "close": 198.5743
       },
       {
         "date": "2025-11-11",
@@ -420,7 +416,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7223
+        "close": 182.7224
       },
       {
         "date": "2026-03-13",
@@ -444,7 +440,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3062
+        "close": 172.3061
       },
       {
         "date": "2026-03-23",
@@ -480,7 +476,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9855
+        "close": 176.9854
       },
       {
         "date": "2026-04-06",
@@ -1037,17 +1033,9 @@
       {
         "date": "2026-10-21",
         "close": 221.97
-      },
-      {
-        "date": "2026-10-22",
-        "close": 212.49
       }
     ],
     "Alphabet": [
-      {
-        "date": "2025-10-22",
-        "close": 251.0371
-      },
       {
         "date": "2025-10-23",
         "close": 252.4235
@@ -1078,7 +1066,7 @@
       },
       {
         "date": "2025-11-03",
-        "close": 282.9841
+        "close": 282.984
       },
       {
         "date": "2025-11-04",
@@ -1102,7 +1090,7 @@
       },
       {
         "date": "2025-11-11",
-        "close": 290.5543
+        "close": 290.5544
       },
       {
         "date": "2025-11-12",
@@ -1114,7 +1102,7 @@
       },
       {
         "date": "2025-11-14",
-        "close": 275.6931
+        "close": 275.693
       },
       {
         "date": "2025-11-17",
@@ -1246,7 +1234,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9254
+        "close": 315.9255
       },
       {
         "date": "2026-01-06",
@@ -1290,7 +1278,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 327.7424
+        "close": 327.7425
       },
       {
         "date": "2026-01-22",
@@ -1334,7 +1322,7 @@
       },
       {
         "date": "2026-02-05",
-        "close": 330.6069
+        "close": 330.6068
       },
       {
         "date": "2026-02-06",
@@ -1378,7 +1366,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8853
+        "close": 310.8852
       },
       {
         "date": "2026-02-24",
@@ -1390,7 +1378,7 @@
       },
       {
         "date": "2026-02-26",
-        "close": 306.7832
+        "close": 306.7833
       },
       {
         "date": "2026-02-27",
@@ -1410,7 +1398,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2959
+        "close": 300.2958
       },
       {
         "date": "2026-03-06",
@@ -2047,32 +2035,24 @@
       {
         "date": "2026-10-21",
         "close": 334.76
-      },
-      {
-        "date": "2026-10-22",
-        "close": 323.31
       }
     ],
     "Apple": [
-      {
-        "date": "2025-10-22",
-        "close": 257.4988
-      },
       {
         "date": "2025-10-23",
         "close": 258.6246
       },
       {
         "date": "2025-10-24",
-        "close": 261.8527
+        "close": 261.8528
       },
       {
         "date": "2025-10-27",
-        "close": 267.8206
+        "close": 267.8207
       },
       {
         "date": "2025-10-28",
-        "close": 268.0099
+        "close": 268.01
       },
       {
         "date": "2025-10-29",
@@ -2116,11 +2096,11 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7277
+        "close": 272.7276
       },
       {
         "date": "2025-11-13",
-        "close": 272.209
+        "close": 272.2091
       },
       {
         "date": "2025-11-14",
@@ -2132,7 +2112,7 @@
       },
       {
         "date": "2025-11-18",
-        "close": 266.714
+        "close": 266.7141
       },
       {
         "date": "2025-11-19",
@@ -2152,7 +2132,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.2181
+        "close": 276.2182
       },
       {
         "date": "2025-11-26",
@@ -2180,7 +2160,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-08",
@@ -2192,7 +2172,7 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-11",
@@ -2236,7 +2216,7 @@
       },
       {
         "date": "2025-12-26",
-        "close": 272.6579
+        "close": 272.6578
       },
       {
         "date": "2025-12-29",
@@ -2252,7 +2232,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2744
+        "close": 270.2743
       },
       {
         "date": "2026-01-05",
@@ -2280,7 +2260,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3414
+        "close": 260.3413
       },
       {
         "date": "2026-01-14",
@@ -2300,7 +2280,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9777
+        "close": 246.9778
       },
       {
         "date": "2026-01-22",
@@ -2328,11 +2308,11 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7757
+        "close": 258.7756
       },
       {
         "date": "2026-02-02",
-        "close": 269.277
+        "close": 269.2771
       },
       {
         "date": "2026-02-03",
@@ -2504,7 +2484,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3988
+        "close": 258.3989
       },
       {
         "date": "2026-04-07",
@@ -2516,7 +2496,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.0259
+        "close": 260.026
       },
       {
         "date": "2026-04-10",
@@ -2584,7 +2564,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3369
+        "close": 276.3368
       },
       {
         "date": "2026-05-05",
@@ -2592,11 +2572,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9978
+        "close": 286.9979
       },
       {
         "date": "2026-05-07",
-        "close": 286.9279
+        "close": 286.928
       },
       {
         "date": "2026-05-08",
@@ -3057,10 +3037,6 @@
       {
         "date": "2026-10-21",
         "close": 343.99
-      },
-      {
-        "date": "2026-10-22",
-        "close": 346.04
       }
     ]
   },
@@ -5122,6 +5098,13 @@
     "OpenAI": [
       {
         "company": "OpenAI",
+        "title": "Build more responsive apps with the Decisions API",
+        "url": "https://openai.com/index/decisions-api",
+        "published": "Thu, 22 Oct 2026 19:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "What FDE means at OpenAI",
         "url": "https://openai.com/index/forward-deployed-engineering-means",
         "published": "Thu, 22 Oct 2026 06:00:00 GMT",
@@ -5234,15 +5217,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "title": "Benefit Street Partners answers questions faster with Codex",
+        "url": "https://openai.com/index/benefit-street-partners",
         "published": "Fri, 16 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Benefit Street Partners answers questions faster with Codex",
-        "url": "https://openai.com/index/benefit-street-partners",
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
         "published": "Fri, 16 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5311,15 +5294,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "url": "https://openai.com/index/asana-browser-agent",
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "url": "https://openai.com/index/sophos",
         "published": "Fri, 09 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "url": "https://openai.com/index/sophos",
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "url": "https://openai.com/index/asana-browser-agent",
         "published": "Fri, 09 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5356,13 +5339,6 @@
         "title": "Helping teens learn, plan, and shape the future of AI",
         "url": "https://openai.com/index/teens-learn-and-plan",
         "published": "Wed, 07 Oct 2026 12:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-        "url": "https://openai.com/index/radisson",
-        "published": "Wed, 07 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
