@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-23T18:32:06.997533+00:00",
+  "retrieved_at": "2026-10-24T00:42:50.175811+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -35,10 +35,6 @@
   "stocks": {
     "NVIDIA": [
       {
-        "date": "2025-10-23",
-        "close": 181.7246
-      },
-      {
         "date": "2025-10-24",
         "close": 185.8148
       },
@@ -52,7 +48,7 @@
       },
       {
         "date": "2025-10-29",
-        "close": 206.5452
+        "close": 206.5451
       },
       {
         "date": "2025-10-30",
@@ -132,7 +128,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8291
+        "close": 179.8292
       },
       {
         "date": "2025-11-28",
@@ -156,7 +152,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9842
+        "close": 181.9841
       },
       {
         "date": "2025-12-08",
@@ -408,7 +404,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3386
+        "close": 184.3387
       },
       {
         "date": "2026-03-11",
@@ -416,7 +412,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7224
+        "close": 182.7223
       },
       {
         "date": "2026-03-13",
@@ -440,7 +436,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3061
+        "close": 172.3062
       },
       {
         "date": "2026-03-23",
@@ -476,7 +472,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9854
+        "close": 176.9855
       },
       {
         "date": "2026-04-06",
@@ -1037,17 +1033,9 @@
       {
         "date": "2026-10-22",
         "close": 212.21
-      },
-      {
-        "date": "2026-10-23",
-        "close": 212.0259
       }
     ],
     "Alphabet": [
-      {
-        "date": "2025-10-23",
-        "close": 252.4235
-      },
       {
         "date": "2025-10-24",
         "close": 259.2458
@@ -2047,28 +2035,20 @@
       {
         "date": "2026-10-22",
         "close": 324.22
-      },
-      {
-        "date": "2026-10-23",
-        "close": 321.8901
       }
     ],
     "Apple": [
-      {
-        "date": "2025-10-23",
-        "close": 258.6246
-      },
       {
         "date": "2025-10-24",
         "close": 261.8527
       },
       {
         "date": "2025-10-27",
-        "close": 267.8207
+        "close": 267.8206
       },
       {
         "date": "2025-10-28",
-        "close": 268.01
+        "close": 268.0099
       },
       {
         "date": "2025-10-29",
@@ -2116,7 +2096,7 @@
       },
       {
         "date": "2025-11-13",
-        "close": 272.2091
+        "close": 272.209
       },
       {
         "date": "2025-11-14",
@@ -2148,7 +2128,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.2182
+        "close": 276.2181
       },
       {
         "date": "2025-11-26",
@@ -2232,7 +2212,7 @@
       },
       {
         "date": "2025-12-26",
-        "close": 272.6578
+        "close": 272.6579
       },
       {
         "date": "2025-12-29",
@@ -2248,7 +2228,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2743
+        "close": 270.2744
       },
       {
         "date": "2026-01-05",
@@ -2324,11 +2304,11 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7756
+        "close": 258.7757
       },
       {
         "date": "2026-02-02",
-        "close": 269.2771
+        "close": 269.277
       },
       {
         "date": "2026-02-03",
@@ -3057,10 +3037,6 @@
       {
         "date": "2026-10-22",
         "close": 348.22
-      },
-      {
-        "date": "2026-10-23",
-        "close": 346.38
       }
     ]
   },
@@ -5129,6 +5105,13 @@
       },
       {
         "company": "OpenAI",
+        "title": "Securing our frontier model training environment",
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
         "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
         "published": "Fri, 23 Oct 2026 00:00:00 GMT",
@@ -5332,15 +5315,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "url": "https://openai.com/index/asana-browser-agent",
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "url": "https://openai.com/index/sophos",
         "published": "Fri, 09 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "url": "https://openai.com/index/sophos",
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "url": "https://openai.com/index/asana-browser-agent",
         "published": "Fri, 09 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5355,13 +5338,6 @@
         "company": "OpenAI",
         "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
         "url": "https://openai.com/index/pollo-ai",
-        "published": "Thu, 08 Oct 2026 12:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "LegalOn halves Codex costs while maintaining development speed",
-        "url": "https://openai.com/index/legalon-halves-codex-costs",
         "published": "Thu, 08 Oct 2026 12:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
