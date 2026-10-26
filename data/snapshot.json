@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-26T06:42:10.675499+00:00",
+  "retrieved_at": "2026-10-26T14:43:45.270601+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -34,10 +34,6 @@
   },
   "stocks": {
     "NVIDIA": [
-      {
-        "date": "2025-10-24",
-        "close": 185.8148
-      },
       {
         "date": "2025-10-27",
         "close": 191.0323
@@ -1037,13 +1033,13 @@
       {
         "date": "2026-10-23",
         "close": 210.96
+      },
+      {
+        "date": "2026-10-26",
+        "close": 215.585
       }
     ],
     "Alphabet": [
-      {
-        "date": "2025-10-24",
-        "close": 259.2458
-      },
       {
         "date": "2025-10-27",
         "close": 268.5715
@@ -1066,7 +1062,7 @@
       },
       {
         "date": "2025-11-03",
-        "close": 282.9841
+        "close": 282.984
       },
       {
         "date": "2025-11-04",
@@ -1082,7 +1078,7 @@
       },
       {
         "date": "2025-11-07",
-        "close": 278.1068
+        "close": 278.1067
       },
       {
         "date": "2025-11-10",
@@ -1202,7 +1198,7 @@
       },
       {
         "date": "2025-12-22",
-        "close": 309.1786
+        "close": 309.1785
       },
       {
         "date": "2025-12-23",
@@ -1214,11 +1210,11 @@
       },
       {
         "date": "2025-12-26",
-        "close": 312.9014
+        "close": 312.9013
       },
       {
         "date": "2025-12-29",
-        "close": 312.9513
+        "close": 312.9512
       },
       {
         "date": "2025-12-30",
@@ -1338,7 +1334,7 @@
       },
       {
         "date": "2026-02-11",
-        "close": 310.3562
+        "close": 310.3563
       },
       {
         "date": "2026-02-12",
@@ -1346,7 +1342,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1264
+        "close": 305.1265
       },
       {
         "date": "2026-02-17",
@@ -1366,7 +1362,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8852
+        "close": 310.8853
       },
       {
         "date": "2026-02-24",
@@ -1382,7 +1378,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 311.1547
+        "close": 311.1548
       },
       {
         "date": "2026-03-02",
@@ -1394,11 +1390,11 @@
       },
       {
         "date": "2026-03-04",
-        "close": 302.5415
+        "close": 302.5414
       },
       {
         "date": "2026-03-05",
-        "close": 300.2959
+        "close": 300.2958
       },
       {
         "date": "2026-03-06",
@@ -1478,7 +1474,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4036
+        "close": 295.4035
       },
       {
         "date": "2026-04-06",
@@ -1542,15 +1538,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.9059
+        "close": 349.906
       },
       {
         "date": "2026-04-28",
-        "close": 349.3466
+        "close": 349.3467
       },
       {
         "date": "2026-04-29",
-        "close": 349.5065
+        "close": 349.5064
       },
       {
         "date": "2026-04-30",
@@ -1626,7 +1622,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3482
+        "close": 388.3483
       },
       {
         "date": "2026-05-28",
@@ -2043,13 +2039,13 @@
       {
         "date": "2026-10-23",
         "close": 320.21
+      },
+      {
+        "date": "2026-10-26",
+        "close": 320.1336
       }
     ],
     "Apple": [
-      {
-        "date": "2025-10-24",
-        "close": 261.8528
-      },
       {
         "date": "2025-10-27",
         "close": 267.8207
@@ -2100,7 +2096,7 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7277
+        "close": 272.7276
       },
       {
         "date": "2025-11-13",
@@ -2116,7 +2112,7 @@
       },
       {
         "date": "2025-11-18",
-        "close": 266.714
+        "close": 266.7141
       },
       {
         "date": "2025-11-19",
@@ -2164,7 +2160,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-08",
@@ -2176,7 +2172,7 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-11",
@@ -2264,7 +2260,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3414
+        "close": 260.3413
       },
       {
         "date": "2026-01-14",
@@ -2284,7 +2280,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9777
+        "close": 246.9778
       },
       {
         "date": "2026-01-22",
@@ -2488,7 +2484,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3988
+        "close": 258.3989
       },
       {
         "date": "2026-04-07",
@@ -2500,7 +2496,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.0259
+        "close": 260.026
       },
       {
         "date": "2026-04-10",
@@ -2568,7 +2564,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3369
+        "close": 276.3368
       },
       {
         "date": "2026-05-05",
@@ -2576,11 +2572,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9978
+        "close": 286.9979
       },
       {
         "date": "2026-05-07",
-        "close": 286.9279
+        "close": 286.928
       },
       {
         "date": "2026-05-08",
@@ -3049,6 +3045,10 @@
       {
         "date": "2026-10-23",
         "close": 347.73
+      },
+      {
+        "date": "2026-10-26",
+        "close": 345.7245
       }
     ]
   },
@@ -4826,6 +4826,20 @@
     "Alphabet": [
       {
         "company": "Alphabet",
+        "title": "We’re helping farmers around the world connect to essential services online.",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/digital-public-infrastructure-farmers/",
+        "published": "Mon, 26 Oct 2026 14:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "How Google Beam connects military families globally",
+        "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-uso-docuseries-service-members/",
+        "published": "Mon, 26 Oct 2026 13:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "See what 5 builders are making with Gemini 4 Argon",
         "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
         "published": "Fri, 23 Oct 2026 16:00:00 +0000",
@@ -4949,23 +4963,16 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
         "published": "Thu, 15 Oct 2026 18:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Check if a text message is a scam using Circle to Search.",
-        "url": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
-        "published": "Thu, 15 Oct 2026 17:30:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "400 publications are now partnering with us on our News AI pilot program.",
-        "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/",
-        "published": "Thu, 15 Oct 2026 16:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
       }
     ],
     "Apple": [
+      {
+        "company": "Apple",
+        "title": "Apple gives iPad mini its biggest update ever",
+        "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+        "published": "2026-10-26T13:00:22.904Z",
+        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
+      },
       {
         "company": "Apple",
         "title": "iPhone Duo arrives at Apple Store locations worldwide",
@@ -5098,16 +5105,16 @@
         "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
         "published": "2026-09-18T05:02:14.780Z",
         "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
-      },
-      {
-        "company": "Apple",
-        "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
-        "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-        "published": "2026-09-16T13:59:28.902Z",
-        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
       }
     ],
     "OpenAI": [
+      {
+        "company": "OpenAI",
+        "title": "How Fanatics and OpenAI streamline the fan experience",
+        "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+        "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
       {
         "company": "OpenAI",
         "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -5250,15 +5257,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "title": "Benefit Street Partners answers questions faster with Codex",
+        "url": "https://openai.com/index/benefit-street-partners",
         "published": "Fri, 16 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Benefit Street Partners answers questions faster with Codex",
-        "url": "https://openai.com/index/benefit-street-partners",
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
         "published": "Fri, 16 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5327,15 +5334,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "url": "https://openai.com/index/sophos",
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "url": "https://openai.com/index/asana-browser-agent",
         "published": "Fri, 09 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "url": "https://openai.com/index/asana-browser-agent",
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "url": "https://openai.com/index/sophos",
         "published": "Fri, 09 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5344,13 +5351,6 @@
         "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
         "url": "https://openai.com/index/oracle",
         "published": "Thu, 08 Oct 2026 16:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-        "url": "https://openai.com/index/pollo-ai",
-        "published": "Thu, 08 Oct 2026 12:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
