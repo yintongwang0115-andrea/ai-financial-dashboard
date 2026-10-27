@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-26T18:43:23.541127+00:00",
+  "retrieved_at": "2026-10-27T00:37:01.173629+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -56,7 +56,7 @@
       },
       {
         "date": "2025-11-03",
-        "close": 206.3855
+        "close": 206.3856
       },
       {
         "date": "2025-11-04",
@@ -76,7 +76,7 @@
       },
       {
         "date": "2025-11-10",
-        "close": 198.5742
+        "close": 198.5743
       },
       {
         "date": "2025-11-11",
@@ -108,7 +108,7 @@
       },
       {
         "date": "2025-11-20",
-        "close": 180.2082
+        "close": 180.2083
       },
       {
         "date": "2025-11-21",
@@ -148,7 +148,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9842
+        "close": 181.9841
       },
       {
         "date": "2025-12-08",
@@ -252,7 +252,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7124
+        "close": 182.7125
       },
       {
         "date": "2026-01-15",
@@ -324,7 +324,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0998
+        "close": 188.0999
       },
       {
         "date": "2026-02-11",
@@ -1033,10 +1033,6 @@
       {
         "date": "2026-10-23",
         "close": 210.96
-      },
-      {
-        "date": "2026-10-26",
-        "close": 216.04
       }
     ],
     "Alphabet": [
@@ -1062,7 +1058,7 @@
       },
       {
         "date": "2025-11-03",
-        "close": 282.984
+        "close": 282.9841
       },
       {
         "date": "2025-11-04",
@@ -1102,7 +1098,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 284.2806
+        "close": 284.2807
       },
       {
         "date": "2025-11-18",
@@ -1110,7 +1106,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 292.0504
+        "close": 292.0505
       },
       {
         "date": "2025-11-20",
@@ -1210,11 +1206,11 @@
       },
       {
         "date": "2025-12-26",
-        "close": 312.9013
+        "close": 312.9014
       },
       {
         "date": "2025-12-29",
-        "close": 312.9512
+        "close": 312.9513
       },
       {
         "date": "2025-12-30",
@@ -1334,7 +1330,7 @@
       },
       {
         "date": "2026-02-11",
-        "close": 310.3563
+        "close": 310.3562
       },
       {
         "date": "2026-02-12",
@@ -1342,7 +1338,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1265
+        "close": 305.1264
       },
       {
         "date": "2026-02-17",
@@ -1378,7 +1374,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 311.1548
+        "close": 311.1547
       },
       {
         "date": "2026-03-02",
@@ -2039,10 +2035,6 @@
       {
         "date": "2026-10-23",
         "close": 320.21
-      },
-      {
-        "date": "2026-10-26",
-        "close": 317.64
       }
     ],
     "Apple": [
@@ -2072,7 +2064,7 @@
       },
       {
         "date": "2025-11-04",
-        "close": 269.0462
+        "close": 269.0461
       },
       {
         "date": "2025-11-05",
@@ -2096,7 +2088,7 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7277
+        "close": 272.7276
       },
       {
         "date": "2025-11-13",
@@ -2132,7 +2124,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.2182
+        "close": 276.2181
       },
       {
         "date": "2025-11-26",
@@ -2160,7 +2152,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-08",
@@ -2172,11 +2164,11 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-11",
-        "close": 277.2753
+        "close": 277.2752
       },
       {
         "date": "2025-12-12",
@@ -2204,7 +2196,7 @@
       },
       {
         "date": "2025-12-22",
-        "close": 270.2344
+        "close": 270.2345
       },
       {
         "date": "2025-12-23",
@@ -2248,7 +2240,7 @@
       },
       {
         "date": "2026-01-08",
-        "close": 258.3368
+        "close": 258.3369
       },
       {
         "date": "2026-01-09",
@@ -2260,7 +2252,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3414
+        "close": 260.3413
       },
       {
         "date": "2026-01-14",
@@ -2280,7 +2272,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9777
+        "close": 246.9778
       },
       {
         "date": "2026-01-22",
@@ -2484,7 +2476,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3988
+        "close": 258.3989
       },
       {
         "date": "2026-04-07",
@@ -2496,7 +2488,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.0259
+        "close": 260.026
       },
       {
         "date": "2026-04-10",
@@ -2564,7 +2556,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3369
+        "close": 276.3368
       },
       {
         "date": "2026-05-05",
@@ -2572,11 +2564,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9978
+        "close": 286.9979
       },
       {
         "date": "2026-05-07",
-        "close": 286.9279
+        "close": 286.928
       },
       {
         "date": "2026-05-08",
@@ -3045,10 +3037,6 @@
       {
         "date": "2026-10-23",
         "close": 347.73
-      },
-      {
-        "date": "2026-10-26",
-        "close": 342.96
       }
     ]
   },
@@ -5110,6 +5098,27 @@
     "OpenAI": [
       {
         "company": "OpenAI",
+        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
+        "published": "Mon, 26 Oct 2026 22:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Working with academic communities to build scientific understanding",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "published": "Mon, 26 Oct 2026 14:30:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+        "published": "Mon, 26 Oct 2026 13:45:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "ChatGPT’s expanding world of work",
         "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
         "published": "Mon, 26 Oct 2026 10:00:00 GMT",
@@ -5120,6 +5129,20 @@
         "title": "How Fanatics and OpenAI streamline the fan experience",
         "url": "https://openai.com/index/fanatics-streamline-fan-experience",
         "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "url": "https://openai.com/index/openai-cut-incident-investigation",
+        "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Introducing GPT-6.1 Terra",
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+        "published": "Mon, 26 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
@@ -5316,41 +5339,6 @@
         "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
         "url": "https://openai.com/index/third-moment-research",
         "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "How Block is building AI-powered security with OpenAI technology",
-        "url": "https://openai.com/index/block-ai-powered-security",
-        "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "The EU’s next chapter in AI is agentic",
-        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-        "published": "Wed, 14 Oct 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Higgsfield takes AI video from 1 minute to over 10",
-        "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-        "published": "Tue, 13 Oct 2026 12:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "url": "https://openai.com/index/asana-browser-agent",
-        "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "url": "https://openai.com/index/sophos",
-        "published": "Fri, 09 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
