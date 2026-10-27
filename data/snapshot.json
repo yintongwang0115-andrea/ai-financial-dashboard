@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-27T12:40:59.145872+00:00",
+  "retrieved_at": "2026-10-27T18:40:58.460662+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -64,7 +64,7 @@
       },
       {
         "date": "2025-11-05",
-        "close": 194.7435
+        "close": 194.7434
       },
       {
         "date": "2025-11-06",
@@ -408,7 +408,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7223
+        "close": 182.7224
       },
       {
         "date": "2026-03-13",
@@ -432,7 +432,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3062
+        "close": 172.3061
       },
       {
         "date": "2026-03-23",
@@ -468,7 +468,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9855
+        "close": 176.9854
       },
       {
         "date": "2026-04-06",
@@ -1037,6 +1037,10 @@
       {
         "date": "2026-10-26",
         "close": 216.0
+      },
+      {
+        "date": "2026-10-27",
+        "close": 217.51
       }
     ],
     "Alphabet": [
@@ -2043,16 +2047,20 @@
       {
         "date": "2026-10-26",
         "close": 316.8
+      },
+      {
+        "date": "2026-10-27",
+        "close": 321.655
       }
     ],
     "Apple": [
       {
         "date": "2025-10-27",
-        "close": 267.8206
+        "close": 267.8207
       },
       {
         "date": "2025-10-28",
-        "close": 268.0099
+        "close": 268.01
       },
       {
         "date": "2025-10-29",
@@ -2072,7 +2080,7 @@
       },
       {
         "date": "2025-11-04",
-        "close": 269.0461
+        "close": 269.0462
       },
       {
         "date": "2025-11-05",
@@ -2108,7 +2116,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 266.734
+        "close": 266.7339
       },
       {
         "date": "2025-11-18",
@@ -2132,7 +2140,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.2181
+        "close": 276.2182
       },
       {
         "date": "2025-11-26",
@@ -2176,7 +2184,7 @@
       },
       {
         "date": "2025-12-11",
-        "close": 277.2752
+        "close": 277.2753
       },
       {
         "date": "2025-12-12",
@@ -2200,7 +2208,7 @@
       },
       {
         "date": "2025-12-19",
-        "close": 272.9272
+        "close": 272.9271
       },
       {
         "date": "2025-12-22",
@@ -2232,7 +2240,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2744
+        "close": 270.2743
       },
       {
         "date": "2026-01-05",
@@ -2248,7 +2256,7 @@
       },
       {
         "date": "2026-01-08",
-        "close": 258.3369
+        "close": 258.3368
       },
       {
         "date": "2026-01-09",
@@ -2272,7 +2280,7 @@
       },
       {
         "date": "2026-01-16",
-        "close": 254.8364
+        "close": 254.8363
       },
       {
         "date": "2026-01-20",
@@ -2280,7 +2288,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9778
+        "close": 246.9777
       },
       {
         "date": "2026-01-22",
@@ -2328,7 +2336,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 277.3651
+        "close": 277.365
       },
       {
         "date": "2026-02-09",
@@ -2484,7 +2492,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3989
+        "close": 258.3988
       },
       {
         "date": "2026-04-07",
@@ -2496,7 +2504,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.026
+        "close": 260.0259
       },
       {
         "date": "2026-04-10",
@@ -2564,7 +2572,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3368
+        "close": 276.3369
       },
       {
         "date": "2026-05-05",
@@ -2572,11 +2580,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9979
+        "close": 286.9978
       },
       {
         "date": "2026-05-07",
-        "close": 286.928
+        "close": 286.9279
       },
       {
         "date": "2026-05-08",
@@ -3049,6 +3057,10 @@
       {
         "date": "2026-10-26",
         "close": 343.91
+      },
+      {
+        "date": "2026-10-27",
+        "close": 345.85
       }
     ]
   },
@@ -4684,6 +4696,20 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
+        "published": "Tue, 27 Oct 2026 16:00:00 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+        "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+        "published": "Tue, 27 Oct 2026 15:00:20 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
         "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
         "published": "Tue, 27 Oct 2026 05:52:00 GMT",
@@ -4807,34 +4833,41 @@
         "url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
         "published": "Wed, 21 Oct 2026 10:20:00 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "European Mobility Leaders Build Safe Vehicles and Robotaxi Fleets on NVIDIA Hyperion",
-        "url": "https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion",
-        "published": "Wed, 21 Oct 2026 10:14:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "Healthcare and Life Sciences Leaders Build on NVIDIA to Advance Drug Discovery and Expand Patient Care",
-        "url": "https://nvidianews.nvidia.com/news/healthcare-and-life-sciences-leaders-build-on-nvidia-to-advance-drug-discovery-and-expand-patient-care",
-        "published": "Wed, 21 Oct 2026 10:13:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
     "Alphabet": [
       {
         "company": "Alphabet",
-        "title": "Our newest AI Quest: Mapping the human brain",
-        "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-        "published": "Mon, 26 Oct 2026 16:00:00 +0000",
+        "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
+        "published": "Tue, 27 Oct 2026 16:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "8 examples of Gemini 4 Argon in action",
+        "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
+        "published": "Tue, 27 Oct 2026 15:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Fitbit Edge: Premium design for an active life",
+        "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/",
+        "published": "Tue, 27 Oct 2026 13:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
       {
         "company": "Alphabet",
         "title": "15 college students share their favorite Gemini features",
         "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
+        "published": "Mon, 26 Oct 2026 16:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Our newest AI Quest: Mapping the human brain",
+        "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
         "published": "Mon, 26 Oct 2026 16:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4942,30 +4975,30 @@
         "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/arkansas-partnerships/",
         "published": "Mon, 19 Oct 2026 20:15:00 +0000",
         "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "How to shape your slides and videos with Gemini Notebook",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
-        "published": "Mon, 19 Oct 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "See the top style searches from people in big fashion capitals.",
-        "url": "https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/",
-        "published": "Mon, 19 Oct 2026 16:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "4 tips for styling outfits with Gemini",
-        "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/",
-        "published": "Mon, 19 Oct 2026 16:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
       }
     ],
     "Apple": [
+      {
+        "company": "Apple",
+        "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+        "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+        "published": "2026-10-27T12:59:39.082Z",
+        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
+      },
+      {
+        "company": "Apple",
+        "title": "Apple unveils new iMac with M6",
+        "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+        "published": "2026-10-27T12:59:15.245Z",
+        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
+      },
+      {
+        "company": "Apple",
+        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
+        "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+        "published": "2026-10-27T12:58:45.444Z",
+        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
+      },
       {
         "company": "Apple",
         "title": "Siri AI is available in more languages starting today",
@@ -5084,30 +5117,16 @@
         "url": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
         "published": "2026-09-29T17:00:02.643Z",
         "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
-      },
-      {
-        "company": "Apple",
-        "title": "Apple releases new guide to help families build healthy digital habits",
-        "url": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
-        "published": "2026-09-29T16:59:08.275Z",
-        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
-      },
-      {
-        "company": "Apple",
-        "title": "The new Mac mini and Mac Studio are available today",
-        "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
-        "published": "2026-09-22T12:59:21.039Z",
-        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
-      },
-      {
-        "company": "Apple",
-        "title": "Apple opens Apple Music Hall, a state-of-the-art live music venue in London",
-        "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
-        "published": "2026-09-22T05:59:58.127Z",
-        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
       }
     ],
     "OpenAI": [
+      {
+        "company": "OpenAI",
+        "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+        "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
       {
         "company": "OpenAI",
         "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -5169,6 +5188,13 @@
         "title": "Securing our frontier model training environment",
         "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
         "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+        "url": "https://openai.com/index/anima",
+        "published": "Fri, 23 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
@@ -5299,15 +5325,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "title": "Benefit Street Partners answers questions faster with Codex",
+        "url": "https://openai.com/index/benefit-street-partners",
         "published": "Fri, 16 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Benefit Street Partners answers questions faster with Codex",
-        "url": "https://openai.com/index/benefit-street-partners",
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
         "published": "Fri, 16 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5337,20 +5363,6 @@
         "title": "Amp puts AI agents to work beyond code with OpenAI models",
         "url": "https://openai.com/index/amp-beyond-coding",
         "published": "Wed, 14 Oct 2026 12:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "SentinelOne cuts malware analysis from weeks to hours",
-        "url": "https://openai.com/index/sentinelone",
-        "published": "Wed, 14 Oct 2026 12:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-        "url": "https://openai.com/index/third-moment-research",
-        "published": "Wed, 14 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
