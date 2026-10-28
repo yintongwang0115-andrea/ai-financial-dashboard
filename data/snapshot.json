@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-28T06:46:04.207295+00:00",
+  "retrieved_at": "2026-10-28T12:47:15.152899+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -40,7 +40,7 @@
       },
       {
         "date": "2025-10-29",
-        "close": 206.5452
+        "close": 206.5451
       },
       {
         "date": "2025-10-30",
@@ -52,7 +52,7 @@
       },
       {
         "date": "2025-11-03",
-        "close": 206.3855
+        "close": 206.3856
       },
       {
         "date": "2025-11-04",
@@ -144,7 +144,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9842
+        "close": 181.9841
       },
       {
         "date": "2025-12-08",
@@ -248,7 +248,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7124
+        "close": 182.7125
       },
       {
         "date": "2026-01-15",
@@ -320,7 +320,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0998
+        "close": 188.0999
       },
       {
         "date": "2026-02-11",
@@ -1058,7 +1058,7 @@
       },
       {
         "date": "2025-11-03",
-        "close": 282.9841
+        "close": 282.984
       },
       {
         "date": "2025-11-04",
@@ -1074,7 +1074,7 @@
       },
       {
         "date": "2025-11-07",
-        "close": 278.1068
+        "close": 278.1067
       },
       {
         "date": "2025-11-10",
@@ -1094,11 +1094,11 @@
       },
       {
         "date": "2025-11-14",
-        "close": 275.693
+        "close": 275.6931
       },
       {
         "date": "2025-11-17",
-        "close": 284.2807
+        "close": 284.2806
       },
       {
         "date": "2025-11-18",
@@ -1194,7 +1194,7 @@
       },
       {
         "date": "2025-12-22",
-        "close": 309.1786
+        "close": 309.1785
       },
       {
         "date": "2025-12-23",
@@ -1206,11 +1206,11 @@
       },
       {
         "date": "2025-12-26",
-        "close": 312.9014
+        "close": 312.9013
       },
       {
         "date": "2025-12-29",
-        "close": 312.9513
+        "close": 312.9512
       },
       {
         "date": "2025-12-30",
@@ -1330,7 +1330,7 @@
       },
       {
         "date": "2026-02-11",
-        "close": 310.3562
+        "close": 310.3563
       },
       {
         "date": "2026-02-12",
@@ -1338,7 +1338,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1264
+        "close": 305.1265
       },
       {
         "date": "2026-02-17",
@@ -1358,7 +1358,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8852
+        "close": 310.8853
       },
       {
         "date": "2026-02-24",
@@ -1374,7 +1374,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 311.1547
+        "close": 311.1548
       },
       {
         "date": "2026-03-02",
@@ -1386,11 +1386,11 @@
       },
       {
         "date": "2026-03-04",
-        "close": 302.5415
+        "close": 302.5414
       },
       {
         "date": "2026-03-05",
-        "close": 300.2959
+        "close": 300.2958
       },
       {
         "date": "2026-03-06",
@@ -1470,7 +1470,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4036
+        "close": 295.4035
       },
       {
         "date": "2026-04-06",
@@ -1534,15 +1534,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.9059
+        "close": 349.906
       },
       {
         "date": "2026-04-28",
-        "close": 349.3466
+        "close": 349.3467
       },
       {
         "date": "2026-04-29",
-        "close": 349.5065
+        "close": 349.5064
       },
       {
         "date": "2026-04-30",
@@ -1618,7 +1618,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3482
+        "close": 388.3483
       },
       {
         "date": "2026-05-28",
@@ -2048,7 +2048,7 @@
     "Apple": [
       {
         "date": "2025-10-28",
-        "close": 268.0099
+        "close": 268.01
       },
       {
         "date": "2025-10-29",
@@ -2068,7 +2068,7 @@
       },
       {
         "date": "2025-11-04",
-        "close": 269.0461
+        "close": 269.0462
       },
       {
         "date": "2025-11-05",
@@ -2092,7 +2092,7 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7277
+        "close": 272.7276
       },
       {
         "date": "2025-11-13",
@@ -2104,11 +2104,11 @@
       },
       {
         "date": "2025-11-17",
-        "close": 266.734
+        "close": 266.7339
       },
       {
         "date": "2025-11-18",
-        "close": 266.714
+        "close": 266.7141
       },
       {
         "date": "2025-11-19",
@@ -2148,7 +2148,7 @@
       },
       {
         "date": "2025-12-03",
-        "close": 283.3786
+        "close": 283.3787
       },
       {
         "date": "2025-12-04",
@@ -2156,7 +2156,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-08",
@@ -2168,7 +2168,7 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-11",
@@ -2196,7 +2196,7 @@
       },
       {
         "date": "2025-12-19",
-        "close": 272.9272
+        "close": 272.9271
       },
       {
         "date": "2025-12-22",
@@ -2228,7 +2228,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2744
+        "close": 270.2743
       },
       {
         "date": "2026-01-05",
@@ -2256,7 +2256,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3414
+        "close": 260.3413
       },
       {
         "date": "2026-01-14",
@@ -2276,7 +2276,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9777
+        "close": 246.9778
       },
       {
         "date": "2026-01-22",
@@ -2304,7 +2304,7 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7757
+        "close": 258.7756
       },
       {
         "date": "2026-02-02",
@@ -2480,7 +2480,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3988
+        "close": 258.3989
       },
       {
         "date": "2026-04-07",
@@ -2492,7 +2492,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.0259
+        "close": 260.026
       },
       {
         "date": "2026-04-10",
@@ -2560,7 +2560,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3369
+        "close": 276.3368
       },
       {
         "date": "2026-05-05",
@@ -2568,11 +2568,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9978
+        "close": 286.9979
       },
       {
         "date": "2026-05-07",
-        "close": 286.9279
+        "close": 286.928
       },
       {
         "date": "2026-05-08",
@@ -5110,6 +5110,13 @@
     "OpenAI": [
       {
         "company": "OpenAI",
+        "title": "Legora is building the agentic operating system for legal work",
+        "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+        "published": "Wed, 28 Oct 2026 09:30:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "Retell uses OpenAI models to help power 100M monthly calls",
         "url": "https://openai.com/index/retell-ai",
         "published": "Tue, 27 Oct 2026 15:00:00 GMT",
@@ -5327,13 +5334,6 @@
       },
       {
         "company": "OpenAI",
-        "title": "How Localiza reorganized work around generative AI",
-        "url": "https://openai.com/index/localiza-generative-ai",
-        "published": "Fri, 16 Oct 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
         "title": "How Grupo Boticário uses AI to strengthen human connections",
         "url": "https://openai.com/index/grupo-boticario",
         "published": "Fri, 16 Oct 2026 00:00:00 GMT",
@@ -5341,8 +5341,8 @@
       },
       {
         "company": "OpenAI",
-        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "title": "How Localiza reorganized work around generative AI",
+        "url": "https://openai.com/index/localiza-generative-ai",
         "published": "Fri, 16 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
