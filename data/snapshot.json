@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-27T18:40:58.460662+00:00",
+  "retrieved_at": "2026-10-28T00:46:26.340822+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -35,10 +35,6 @@
   "stocks": {
     "NVIDIA": [
       {
-        "date": "2025-10-27",
-        "close": 191.0323
-      },
-      {
         "date": "2025-10-28",
         "close": 200.5495
       },
@@ -64,7 +60,7 @@
       },
       {
         "date": "2025-11-05",
-        "close": 194.7434
+        "close": 194.7435
       },
       {
         "date": "2025-11-06",
@@ -408,7 +404,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7224
+        "close": 182.7223
       },
       {
         "date": "2026-03-13",
@@ -432,7 +428,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3061
+        "close": 172.3062
       },
       {
         "date": "2026-03-23",
@@ -468,7 +464,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9854
+        "close": 176.9855
       },
       {
         "date": "2026-04-06",
@@ -1037,17 +1033,9 @@
       {
         "date": "2026-10-26",
         "close": 216.0
-      },
-      {
-        "date": "2026-10-27",
-        "close": 217.51
       }
     ],
     "Alphabet": [
-      {
-        "date": "2025-10-27",
-        "close": 268.5715
-      },
       {
         "date": "2025-10-28",
         "close": 266.7762
@@ -2047,20 +2035,12 @@
       {
         "date": "2026-10-26",
         "close": 316.8
-      },
-      {
-        "date": "2026-10-27",
-        "close": 321.655
       }
     ],
     "Apple": [
       {
-        "date": "2025-10-27",
-        "close": 267.8207
-      },
-      {
         "date": "2025-10-28",
-        "close": 268.01
+        "close": 268.0099
       },
       {
         "date": "2025-10-29",
@@ -2108,7 +2088,7 @@
       },
       {
         "date": "2025-11-13",
-        "close": 272.2091
+        "close": 272.209
       },
       {
         "date": "2025-11-14",
@@ -2140,7 +2120,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.2182
+        "close": 276.2181
       },
       {
         "date": "2025-11-26",
@@ -2224,7 +2204,7 @@
       },
       {
         "date": "2025-12-26",
-        "close": 272.6578
+        "close": 272.6579
       },
       {
         "date": "2025-12-29",
@@ -2240,7 +2220,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2743
+        "close": 270.2744
       },
       {
         "date": "2026-01-05",
@@ -2316,11 +2296,11 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7756
+        "close": 258.7757
       },
       {
         "date": "2026-02-02",
-        "close": 269.2771
+        "close": 269.277
       },
       {
         "date": "2026-02-03",
@@ -3057,10 +3037,6 @@
       {
         "date": "2026-10-26",
         "close": 343.91
-      },
-      {
-        "date": "2026-10-27",
-        "close": 345.85
       }
     ]
   },
@@ -5122,9 +5098,23 @@
     "OpenAI": [
       {
         "company": "OpenAI",
+        "title": "Retell uses OpenAI models to help power 100M monthly calls",
+        "url": "https://openai.com/index/retell-ai",
+        "published": "Tue, 27 Oct 2026 15:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
         "url": "https://openai.com/index/oracle-apps-in-chatgpt",
         "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "How Check Point accelerates vulnerability research with Daybreak",
+        "url": "https://openai.com/index/check-point-daybreak",
+        "published": "Tue, 27 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
@@ -5325,6 +5315,20 @@
       },
       {
         "company": "OpenAI",
+        "title": "How Grupo Boticário uses AI to strengthen human connections",
+        "url": "https://openai.com/index/grupo-boticario",
+        "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "How Localiza reorganized work around generative AI",
+        "url": "https://openai.com/index/localiza-generative-ai",
+        "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "Benefit Street Partners answers questions faster with Codex",
         "url": "https://openai.com/index/benefit-street-partners",
         "published": "Fri, 16 Oct 2026 00:00:00 GMT",
@@ -5335,34 +5339,6 @@
         "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
         "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
         "published": "Fri, 16 Oct 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Bringing GPT-Rosalind to academic research labs",
-        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-        "published": "Thu, 15 Oct 2026 19:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Teaching students to think and learn through questions",
-        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-        "published": "Thu, 15 Oct 2026 13:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-        "url": "https://openai.com/index/sullivan-cromwell",
-        "published": "Thu, 15 Oct 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Amp puts AI agents to work beyond code with OpenAI models",
-        "url": "https://openai.com/index/amp-beyond-coding",
-        "published": "Wed, 14 Oct 2026 12:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
