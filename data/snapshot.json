@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-28T18:43:05.576696+00:00",
+  "retrieved_at": "2026-10-29T00:47:04.702326+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -34,10 +34,6 @@
   },
   "stocks": {
     "NVIDIA": [
-      {
-        "date": "2025-10-28",
-        "close": 200.5495
-      },
       {
         "date": "2025-10-29",
         "close": 206.5452
@@ -120,7 +116,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8291
+        "close": 179.8292
       },
       {
         "date": "2025-11-28",
@@ -144,7 +140,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9842
+        "close": 181.9841
       },
       {
         "date": "2025-12-08",
@@ -396,7 +392,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3386
+        "close": 184.3387
       },
       {
         "date": "2026-03-11",
@@ -404,7 +400,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7224
+        "close": 182.7223
       },
       {
         "date": "2026-03-13",
@@ -428,7 +424,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3061
+        "close": 172.3062
       },
       {
         "date": "2026-03-23",
@@ -464,7 +460,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9854
+        "close": 176.9855
       },
       {
         "date": "2026-04-06",
@@ -1037,17 +1033,9 @@
       {
         "date": "2026-10-27",
         "close": 217.94
-      },
-      {
-        "date": "2026-10-28",
-        "close": 217.5492
       }
     ],
     "Alphabet": [
-      {
-        "date": "2025-10-28",
-        "close": 266.7762
-      },
       {
         "date": "2025-10-29",
         "close": 273.8578
@@ -1078,7 +1066,7 @@
       },
       {
         "date": "2025-11-07",
-        "close": 278.1067
+        "close": 278.1068
       },
       {
         "date": "2025-11-10",
@@ -2047,17 +2035,9 @@
       {
         "date": "2026-10-27",
         "close": 320.58
-      },
-      {
-        "date": "2026-10-28",
-        "close": 324.92
       }
     ],
     "Apple": [
-      {
-        "date": "2025-10-28",
-        "close": 268.0099
-      },
       {
         "date": "2025-10-29",
         "close": 268.7074
@@ -2076,7 +2056,7 @@
       },
       {
         "date": "2025-11-04",
-        "close": 269.0461
+        "close": 269.0462
       },
       {
         "date": "2025-11-05",
@@ -2112,7 +2092,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 266.734
+        "close": 266.7339
       },
       {
         "date": "2025-11-18",
@@ -2136,7 +2116,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.2181
+        "close": 276.2182
       },
       {
         "date": "2025-11-26",
@@ -2180,7 +2160,7 @@
       },
       {
         "date": "2025-12-11",
-        "close": 277.2752
+        "close": 277.2753
       },
       {
         "date": "2025-12-12",
@@ -2204,7 +2184,7 @@
       },
       {
         "date": "2025-12-19",
-        "close": 272.9272
+        "close": 272.9271
       },
       {
         "date": "2025-12-22",
@@ -2236,7 +2216,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2744
+        "close": 270.2743
       },
       {
         "date": "2026-01-05",
@@ -2252,7 +2232,7 @@
       },
       {
         "date": "2026-01-08",
-        "close": 258.3369
+        "close": 258.3368
       },
       {
         "date": "2026-01-09",
@@ -2276,7 +2256,7 @@
       },
       {
         "date": "2026-01-16",
-        "close": 254.8364
+        "close": 254.8363
       },
       {
         "date": "2026-01-20",
@@ -2284,7 +2264,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9778
+        "close": 246.9777
       },
       {
         "date": "2026-01-22",
@@ -2332,7 +2312,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 277.3651
+        "close": 277.365
       },
       {
         "date": "2026-02-09",
@@ -2488,7 +2468,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3989
+        "close": 258.3988
       },
       {
         "date": "2026-04-07",
@@ -2500,7 +2480,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.026
+        "close": 260.0259
       },
       {
         "date": "2026-04-10",
@@ -2568,7 +2548,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3368
+        "close": 276.3369
       },
       {
         "date": "2026-05-05",
@@ -2576,11 +2556,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9979
+        "close": 286.9978
       },
       {
         "date": "2026-05-07",
-        "close": 286.928
+        "close": 286.9279
       },
       {
         "date": "2026-05-08",
@@ -3057,10 +3037,6 @@
       {
         "date": "2026-10-27",
         "close": 347.1
-      },
-      {
-        "date": "2026-10-28",
-        "close": 344.75
       }
     ]
   },
@@ -4696,6 +4672,13 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
+        "published": "Wed, 28 Oct 2026 21:00:00 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
         "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
         "published": "Wed, 28 Oct 2026 15:00:46 GMT",
@@ -4826,16 +4809,30 @@
         "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
         "published": "Wed, 21 Oct 2026 10:30:25 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-        "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
-        "published": "Wed, 21 Oct 2026 10:30:02 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
     "Alphabet": [
+      {
+        "company": "Alphabet",
+        "title": "Ads in AI Mode expand to new markets.",
+        "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+        "published": "Wed, 28 Oct 2026 21:30:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Q3 2026 earnings call: Remarks from our CEO",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
+        "published": "Wed, 28 Oct 2026 21:05:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Adapt your ad strategy to meet the way people search today.",
+        "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/",
+        "published": "Wed, 28 Oct 2026 19:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
       {
         "company": "Alphabet",
         "title": "Dive into new topics with immersive explorations in the Gemini app.",
@@ -4953,27 +4950,6 @@
         "title": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
         "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/",
         "published": "Thu, 22 Oct 2026 11:30:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Recreating the lost studios of women sculptors with Prune Nourry",
-        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/",
-        "published": "Wed, 21 Oct 2026 14:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
-        "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
-        "published": "Wed, 21 Oct 2026 13:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Drive with “The Cat in the Hat” on Waze.",
-        "url": "https://blog.google/waze/waze-the-cat-in-the-hat/",
-        "published": "Wed, 21 Oct 2026 11:39:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
@@ -5122,16 +5098,16 @@
     "OpenAI": [
       {
         "company": "OpenAI",
-        "title": "The future of the firm",
-        "url": "https://openai.com/index/the-future-of-the-firm",
-        "published": "Wed, 28 Oct 2026 10:00:00 GMT",
+        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "published": "Wed, 28 Oct 2026 13:15:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Legora is building the agentic operating system for legal work",
-        "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-        "published": "Wed, 28 Oct 2026 09:30:00 GMT",
+        "title": "The future of the firm",
+        "url": "https://openai.com/index/the-future-of-the-firm",
+        "published": "Wed, 28 Oct 2026 10:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
