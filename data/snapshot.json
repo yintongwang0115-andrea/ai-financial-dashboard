@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-30T18:42:16.155060+00:00",
+  "retrieved_at": "2026-10-31T00:53:32.002035+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -35,10 +35,6 @@
   "stocks": {
     "NVIDIA": [
       {
-        "date": "2025-10-30",
-        "close": 202.4051
-      },
-      {
         "date": "2025-10-31",
         "close": 202.006
       },
@@ -64,7 +60,7 @@
       },
       {
         "date": "2025-11-10",
-        "close": 198.5743
+        "close": 198.5742
       },
       {
         "date": "2025-11-11",
@@ -112,7 +108,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8291
+        "close": 179.8292
       },
       {
         "date": "2025-11-28",
@@ -136,7 +132,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9841
+        "close": 181.9842
       },
       {
         "date": "2025-12-08",
@@ -240,7 +236,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7125
+        "close": 182.7124
       },
       {
         "date": "2026-01-15",
@@ -296,7 +292,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7834
+        "close": 173.7833
       },
       {
         "date": "2026-02-05",
@@ -304,7 +300,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9772
+        "close": 184.9771
       },
       {
         "date": "2026-02-09",
@@ -312,7 +308,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0999
+        "close": 188.0998
       },
       {
         "date": "2026-02-11",
@@ -388,7 +384,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3386
+        "close": 184.3387
       },
       {
         "date": "2026-03-11",
@@ -396,7 +392,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7224
+        "close": 182.7223
       },
       {
         "date": "2026-03-13",
@@ -420,7 +416,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3061
+        "close": 172.3062
       },
       {
         "date": "2026-03-23",
@@ -456,7 +452,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9854
+        "close": 176.9855
       },
       {
         "date": "2026-04-06",
@@ -1037,24 +1033,16 @@
       {
         "date": "2026-10-29",
         "close": 213.66
-      },
-      {
-        "date": "2026-10-30",
-        "close": 201.77
       }
     ],
     "Alphabet": [
-      {
-        "date": "2025-10-30",
-        "close": 280.7499
-      },
       {
         "date": "2025-10-31",
         "close": 280.4606
       },
       {
         "date": "2025-11-03",
-        "close": 282.984
+        "close": 282.9841
       },
       {
         "date": "2025-11-04",
@@ -1078,7 +1066,7 @@
       },
       {
         "date": "2025-11-11",
-        "close": 290.5544
+        "close": 290.5543
       },
       {
         "date": "2025-11-12",
@@ -1090,11 +1078,11 @@
       },
       {
         "date": "2025-11-14",
-        "close": 275.693
+        "close": 275.6931
       },
       {
         "date": "2025-11-17",
-        "close": 284.2806
+        "close": 284.2807
       },
       {
         "date": "2025-11-18",
@@ -1102,7 +1090,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 292.0504
+        "close": 292.0505
       },
       {
         "date": "2025-11-20",
@@ -1266,7 +1254,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 327.7425
+        "close": 327.7424
       },
       {
         "date": "2026-01-22",
@@ -1334,7 +1322,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1265
+        "close": 305.1264
       },
       {
         "date": "2026-02-17",
@@ -1354,7 +1342,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8852
+        "close": 310.8853
       },
       {
         "date": "2026-02-24",
@@ -1370,7 +1358,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 311.1548
+        "close": 311.1547
       },
       {
         "date": "2026-03-02",
@@ -1466,7 +1454,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4036
+        "close": 295.4035
       },
       {
         "date": "2026-04-06",
@@ -1530,15 +1518,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.9059
+        "close": 349.906
       },
       {
         "date": "2026-04-28",
-        "close": 349.3466
+        "close": 349.3467
       },
       {
         "date": "2026-04-29",
-        "close": 349.5065
+        "close": 349.5064
       },
       {
         "date": "2026-04-30",
@@ -1614,7 +1602,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3482
+        "close": 388.3483
       },
       {
         "date": "2026-05-28",
@@ -2047,17 +2035,9 @@
       {
         "date": "2026-10-29",
         "close": 283.82
-      },
-      {
-        "date": "2026-10-30",
-        "close": 277.765
       }
     ],
     "Apple": [
-      {
-        "date": "2025-10-30",
-        "close": 270.4011
-      },
       {
         "date": "2025-10-31",
         "close": 269.3749
@@ -2092,7 +2072,7 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7276
+        "close": 272.7277
       },
       {
         "date": "2025-11-13",
@@ -2104,11 +2084,11 @@
       },
       {
         "date": "2025-11-17",
-        "close": 266.7339
+        "close": 266.734
       },
       {
         "date": "2025-11-18",
-        "close": 266.7141
+        "close": 266.714
       },
       {
         "date": "2025-11-19",
@@ -2148,7 +2128,7 @@
       },
       {
         "date": "2025-12-03",
-        "close": 283.3787
+        "close": 283.3786
       },
       {
         "date": "2025-12-04",
@@ -2156,7 +2136,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0233
+        "close": 278.0232
       },
       {
         "date": "2025-12-08",
@@ -2168,7 +2148,7 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0233
+        "close": 278.0232
       },
       {
         "date": "2025-12-11",
@@ -2196,7 +2176,7 @@
       },
       {
         "date": "2025-12-19",
-        "close": 272.9271
+        "close": 272.9272
       },
       {
         "date": "2025-12-22",
@@ -2228,7 +2208,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2743
+        "close": 270.2744
       },
       {
         "date": "2026-01-05",
@@ -2256,7 +2236,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3413
+        "close": 260.3414
       },
       {
         "date": "2026-01-14",
@@ -2276,7 +2256,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9778
+        "close": 246.9777
       },
       {
         "date": "2026-01-22",
@@ -2304,7 +2284,7 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7756
+        "close": 258.7757
       },
       {
         "date": "2026-02-02",
@@ -2480,7 +2460,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3989
+        "close": 258.3988
       },
       {
         "date": "2026-04-07",
@@ -2492,7 +2472,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.026
+        "close": 260.0259
       },
       {
         "date": "2026-04-10",
@@ -2560,7 +2540,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3368
+        "close": 276.3369
       },
       {
         "date": "2026-05-05",
@@ -2568,11 +2548,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9979
+        "close": 286.9978
       },
       {
         "date": "2026-05-07",
-        "close": 286.928
+        "close": 286.9279
       },
       {
         "date": "2026-05-08",
@@ -3057,10 +3037,6 @@
       {
         "date": "2026-10-29",
         "close": 348.91
-      },
-      {
-        "date": "2026-10-30",
-        "close": 343.4
       }
     ]
   },
@@ -4838,6 +4814,13 @@
     "Alphabet": [
       {
         "company": "Alphabet",
+        "title": "Google Fitbit Edge: On shelves now",
+        "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
+        "published": "Fri, 30 Oct 2026 20:15:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
         "published": "Fri, 30 Oct 2026 17:00:00 +0000",
@@ -4936,8 +4919,8 @@
       },
       {
         "company": "Alphabet",
-        "title": "Gemini 4 Carbon: our next frontier model",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+        "title": "Build and manage Connected Apps in one place",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
         "published": "Wed, 28 Oct 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4950,8 +4933,8 @@
       },
       {
         "company": "Alphabet",
-        "title": "Build and manage Connected Apps in one place",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+        "title": "Gemini 4 Carbon: our next frontier model",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
         "published": "Wed, 28 Oct 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4967,13 +4950,6 @@
         "title": "Indie Games Fund in Africa: Meet the selected studios",
         "url": "https://blog.google/products-and-platforms/platforms/google-pay/indie-games-fund-africa-selected-studios/",
         "published": "Wed, 28 Oct 2026 14:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
-        "published": "Tue, 27 Oct 2026 16:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
@@ -5132,6 +5108,13 @@
         "title": "Community safety report and new protections for teens",
         "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
         "published": "Fri, 30 Oct 2026 09:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Fair use benefits everyone",
+        "url": "https://openai.com/index/fair-use-benefits-everyone",
+        "published": "Fri, 30 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
@@ -5356,13 +5339,6 @@
         "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
         "url": "https://openai.com/index/building-chatgpt-ad-stack",
         "published": "Wed, 21 Oct 2026 07:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-        "url": "https://openai.com/index/empowering-cyber-defenders",
-        "published": "Wed, 21 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
