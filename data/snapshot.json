@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-02T18:52:47.771788+00:00",
+  "retrieved_at": "2026-11-03T00:54:44.432579+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -36,7 +36,7 @@
     "NVIDIA": [
       {
         "date": "2025-11-03",
-        "close": 206.3855
+        "close": 206.3856
       },
       {
         "date": "2025-11-04",
@@ -104,7 +104,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8292
+        "close": 179.8291
       },
       {
         "date": "2025-11-28",
@@ -128,7 +128,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9842
+        "close": 181.9841
       },
       {
         "date": "2025-12-08",
@@ -232,7 +232,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7124
+        "close": 182.7125
       },
       {
         "date": "2026-01-15",
@@ -288,7 +288,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7833
+        "close": 173.7834
       },
       {
         "date": "2026-02-05",
@@ -296,7 +296,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9771
+        "close": 184.9772
       },
       {
         "date": "2026-02-09",
@@ -304,7 +304,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0998
+        "close": 188.0999
       },
       {
         "date": "2026-02-11",
@@ -380,7 +380,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3387
+        "close": 184.3386
       },
       {
         "date": "2026-03-11",
@@ -1036,13 +1036,13 @@
       },
       {
         "date": "2026-11-02",
-        "close": 205.675
+        "close": 202.06
       }
     ],
     "Alphabet": [
       {
         "date": "2025-11-03",
-        "close": 282.984
+        "close": 282.9841
       },
       {
         "date": "2025-11-04",
@@ -1058,7 +1058,7 @@
       },
       {
         "date": "2025-11-07",
-        "close": 278.1068
+        "close": 278.1067
       },
       {
         "date": "2025-11-10",
@@ -1210,7 +1210,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9255
+        "close": 315.9254
       },
       {
         "date": "2026-01-06",
@@ -1254,7 +1254,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 327.7425
+        "close": 327.7424
       },
       {
         "date": "2026-01-22",
@@ -1298,7 +1298,7 @@
       },
       {
         "date": "2026-02-05",
-        "close": 330.6068
+        "close": 330.6069
       },
       {
         "date": "2026-02-06",
@@ -1342,7 +1342,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8852
+        "close": 310.8853
       },
       {
         "date": "2026-02-24",
@@ -1354,7 +1354,7 @@
       },
       {
         "date": "2026-02-26",
-        "close": 306.7833
+        "close": 306.7832
       },
       {
         "date": "2026-02-27",
@@ -1374,7 +1374,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2958
+        "close": 300.2959
       },
       {
         "date": "2026-03-06",
@@ -2042,7 +2042,7 @@
       },
       {
         "date": "2026-11-02",
-        "close": 283.77
+        "close": 278.99
       }
     ],
     "Apple": [
@@ -2076,7 +2076,7 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7277
+        "close": 272.7276
       },
       {
         "date": "2025-11-13",
@@ -2092,7 +2092,7 @@
       },
       {
         "date": "2025-11-18",
-        "close": 266.714
+        "close": 266.7141
       },
       {
         "date": "2025-11-19",
@@ -2140,7 +2140,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-08",
@@ -2152,7 +2152,7 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-11",
@@ -2240,7 +2240,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3414
+        "close": 260.3413
       },
       {
         "date": "2026-01-14",
@@ -2260,7 +2260,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9777
+        "close": 246.9778
       },
       {
         "date": "2026-01-22",
@@ -2464,7 +2464,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3988
+        "close": 258.3989
       },
       {
         "date": "2026-04-07",
@@ -2476,7 +2476,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.0259
+        "close": 260.026
       },
       {
         "date": "2026-04-10",
@@ -2544,7 +2544,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3369
+        "close": 276.3368
       },
       {
         "date": "2026-05-05",
@@ -2552,11 +2552,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9978
+        "close": 286.9979
       },
       {
         "date": "2026-05-07",
-        "close": 286.9279
+        "close": 286.928
       },
       {
         "date": "2026-05-08",
@@ -3048,7 +3048,7 @@
       },
       {
         "date": "2026-11-02",
-        "close": 337.07
+        "close": 338.32
       }
     ]
   },
@@ -4968,6 +4968,13 @@
     "Apple": [
       {
         "company": "Apple",
+        "title": "Apple reports fourth quarter results",
+        "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+        "published": "2026-11-02T21:30:04.319Z",
+        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
+      },
+      {
+        "company": "Apple",
         "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
         "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
         "published": "2026-10-28T17:09:28.430Z",
@@ -5098,16 +5105,16 @@
         "url": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/",
         "published": "2026-10-07T21:01:58.215Z",
         "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
-      },
-      {
-        "company": "Apple",
-        "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
-        "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
-        "published": "2026-09-29T17:00:57.163Z",
-        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
       }
     ],
     "OpenAI": [
+      {
+        "company": "OpenAI",
+        "title": "Scaling Git at OpenAI",
+        "url": "https://openai.com/index/scaling-git-at-openai",
+        "published": "Mon, 02 Nov 2026 15:30:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
       {
         "company": "OpenAI",
         "title": "Introducing the Grid Protectors Program",
@@ -5120,6 +5127,20 @@
         "title": "LifeVal",
         "url": "https://openai.com/index/lifeval",
         "published": "Mon, 02 Nov 2026 09:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Qodo builds context into AI code review with Codex",
+        "url": "https://openai.com/index/qodo-codex-plugin",
+        "published": "Mon, 02 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "url": "https://openai.com/index/dan-driscoll-joins-openai",
+        "published": "Mon, 02 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
@@ -5330,27 +5351,6 @@
         "title": "OpenAI models are coming to Google Cloud",
         "url": "https://openai.com/index/openai-models-google-cloud",
         "published": "Wed, 21 Oct 2026 12:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-        "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-        "published": "Wed, 21 Oct 2026 07:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-        "published": "Wed, 21 Oct 2026 13:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Using thousands of AI agents to uncover new leads in biological data",
-        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-        "published": "Wed, 21 Oct 2026 04:50:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
