@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-03T12:55:44.864992+00:00",
+  "retrieved_at": "2026-11-03T18:46:39.323501+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -36,7 +36,7 @@
     "NVIDIA": [
       {
         "date": "2025-11-03",
-        "close": 206.3856
+        "close": 206.3855
       },
       {
         "date": "2025-11-04",
@@ -128,7 +128,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9841
+        "close": 181.9842
       },
       {
         "date": "2025-12-08",
@@ -232,7 +232,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7125
+        "close": 182.7124
       },
       {
         "date": "2026-01-15",
@@ -304,7 +304,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0999
+        "close": 188.0998
       },
       {
         "date": "2026-02-11",
@@ -352,7 +352,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 176.7764
+        "close": 176.7763
       },
       {
         "date": "2026-03-02",
@@ -380,7 +380,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3386
+        "close": 184.3387
       },
       {
         "date": "2026-03-11",
@@ -388,7 +388,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7224
+        "close": 182.7223
       },
       {
         "date": "2026-03-13",
@@ -412,7 +412,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3061
+        "close": 172.3062
       },
       {
         "date": "2026-03-23",
@@ -448,7 +448,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9854
+        "close": 176.9855
       },
       {
         "date": "2026-04-06",
@@ -1037,12 +1037,16 @@
       {
         "date": "2026-11-02",
         "close": 202.06
+      },
+      {
+        "date": "2026-11-03",
+        "close": 208.02
       }
     ],
     "Alphabet": [
       {
         "date": "2025-11-03",
-        "close": 282.984
+        "close": 282.9841
       },
       {
         "date": "2025-11-04",
@@ -1210,7 +1214,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9255
+        "close": 315.9254
       },
       {
         "date": "2026-01-06",
@@ -1254,7 +1258,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 327.7425
+        "close": 327.7424
       },
       {
         "date": "2026-01-22",
@@ -1298,7 +1302,7 @@
       },
       {
         "date": "2026-02-05",
-        "close": 330.6068
+        "close": 330.6069
       },
       {
         "date": "2026-02-06",
@@ -1342,7 +1346,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8852
+        "close": 310.8853
       },
       {
         "date": "2026-02-24",
@@ -1354,7 +1358,7 @@
       },
       {
         "date": "2026-02-26",
-        "close": 306.7833
+        "close": 306.7832
       },
       {
         "date": "2026-02-27",
@@ -1374,7 +1378,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2958
+        "close": 300.2959
       },
       {
         "date": "2026-03-06",
@@ -2043,6 +2047,10 @@
       {
         "date": "2026-11-02",
         "close": 278.99
+      },
+      {
+        "date": "2026-11-03",
+        "close": 280.12
       }
     ],
     "Apple": [
@@ -2052,7 +2060,7 @@
       },
       {
         "date": "2025-11-04",
-        "close": 269.0462
+        "close": 269.0461
       },
       {
         "date": "2025-11-05",
@@ -2076,11 +2084,11 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7277
+        "close": 272.7276
       },
       {
         "date": "2025-11-13",
-        "close": 272.209
+        "close": 272.2091
       },
       {
         "date": "2025-11-14",
@@ -2140,7 +2148,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-08",
@@ -2152,11 +2160,11 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-11",
-        "close": 277.2753
+        "close": 277.2752
       },
       {
         "date": "2025-12-12",
@@ -2184,7 +2192,7 @@
       },
       {
         "date": "2025-12-22",
-        "close": 270.2344
+        "close": 270.2345
       },
       {
         "date": "2025-12-23",
@@ -2196,7 +2204,7 @@
       },
       {
         "date": "2025-12-26",
-        "close": 272.6579
+        "close": 272.6578
       },
       {
         "date": "2025-12-29",
@@ -2212,7 +2220,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2744
+        "close": 270.2743
       },
       {
         "date": "2026-01-05",
@@ -2228,7 +2236,7 @@
       },
       {
         "date": "2026-01-08",
-        "close": 258.3368
+        "close": 258.3369
       },
       {
         "date": "2026-01-09",
@@ -2240,7 +2248,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3414
+        "close": 260.3413
       },
       {
         "date": "2026-01-14",
@@ -2260,7 +2268,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9777
+        "close": 246.9778
       },
       {
         "date": "2026-01-22",
@@ -2288,11 +2296,11 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7757
+        "close": 258.7756
       },
       {
         "date": "2026-02-02",
-        "close": 269.277
+        "close": 269.2771
       },
       {
         "date": "2026-02-03",
@@ -2464,7 +2472,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3988
+        "close": 258.3989
       },
       {
         "date": "2026-04-07",
@@ -2476,7 +2484,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.0259
+        "close": 260.026
       },
       {
         "date": "2026-04-10",
@@ -2544,7 +2552,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3369
+        "close": 276.3368
       },
       {
         "date": "2026-05-05",
@@ -2552,11 +2560,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9978
+        "close": 286.9979
       },
       {
         "date": "2026-05-07",
-        "close": 286.9279
+        "close": 286.928
       },
       {
         "date": "2026-05-08",
@@ -3049,6 +3057,10 @@
       {
         "date": "2026-11-02",
         "close": 338.32
+      },
+      {
+        "date": "2026-11-03",
+        "close": 332.13
       }
     ]
   },
@@ -4139,6 +4151,18 @@
     ],
     "Apple": [
       {
+        "end": "2026-09-26",
+        "start": "2025-09-28",
+        "filed": "2026-11-03",
+        "form": "10-K",
+        "fy": 2026,
+        "fp": "FY",
+        "value": 478834000000,
+        "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "period": "annual",
+        "accession": "0000320193-26-000026"
+      },
+      {
         "end": "2026-06-27",
         "start": "2026-03-29",
         "filed": "2026-07-31",
@@ -4177,14 +4201,14 @@
       {
         "end": "2025-09-27",
         "start": "2024-09-29",
-        "filed": "2025-10-31",
+        "filed": "2026-11-03",
         "form": "10-K",
-        "fy": 2025,
+        "fy": 2026,
         "fp": "FY",
         "value": 416161000000,
         "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
         "period": "annual",
-        "accession": "0000320193-25-000079"
+        "accession": "0000320193-26-000026"
       },
       {
         "end": "2025-06-28",
@@ -4225,14 +4249,14 @@
       {
         "end": "2024-09-28",
         "start": "2023-10-01",
-        "filed": "2025-10-31",
+        "filed": "2026-11-03",
         "form": "10-K",
-        "fy": 2025,
+        "fy": 2026,
         "fp": "FY",
         "value": 391035000000,
         "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
         "period": "annual",
-        "accession": "0000320193-25-000079"
+        "accession": "0000320193-26-000026"
       },
       {
         "end": "2024-06-29",
@@ -4665,23 +4689,18 @@
         "tag": "Revenues",
         "period": "annual",
         "accession": "0000320193-18-000145"
-      },
-      {
-        "end": "2016-09-24",
-        "start": "2016-06-26",
-        "filed": "2017-11-03",
-        "form": "10-K",
-        "fy": 2017,
-        "fp": "FY",
-        "value": 46852000000,
-        "tag": "SalesRevenueNet",
-        "period": "quarterly",
-        "accession": "0000320193-17-000070"
       }
     ]
   },
   "news": {
     "NVIDIA": [
+      {
+        "company": "NVIDIA",
+        "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+        "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+        "published": "Tue, 03 Nov 2026 16:00:45 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
       {
         "company": "NVIDIA",
         "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
@@ -4814,20 +4833,48 @@
         "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
         "published": "Wed, 21 Oct 2026 10:45:17 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
-        "published": "Wed, 21 Oct 2026 10:33:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
     "Alphabet": [
       {
         "company": "Alphabet",
+        "title": "New research shows how Guided Learning supports students",
+        "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
+        "published": "Tue, 03 Nov 2026 14:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "We’re providing funding for organizations building AI for teachers.",
+        "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+        "published": "Tue, 03 Nov 2026 14:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "AI in the learning era",
+        "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+        "published": "Tue, 03 Nov 2026 14:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Designing responsible AI for learning",
+        "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+        "published": "Tue, 03 Nov 2026 14:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "Working collaboratively to fight scams in Asia Pacific",
         "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/",
+        "published": "Tue, 03 Nov 2026 14:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Expanding AI educator training to new countries",
+        "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
         "published": "Tue, 03 Nov 2026 14:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4928,44 +4975,16 @@
         "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
         "published": "Thu, 29 Oct 2026 03:30:00 +0000",
         "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Ads in AI Mode expand to new markets.",
-        "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
-        "published": "Wed, 28 Oct 2026 21:30:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Q3 2026 earnings call: Remarks from our CEO",
-        "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
-        "published": "Wed, 28 Oct 2026 21:05:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Adapt your ad strategy to meet the way people search today.",
-        "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/",
-        "published": "Wed, 28 Oct 2026 19:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Dive into new topics with immersive explorations in the Gemini app.",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
-        "published": "Wed, 28 Oct 2026 18:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Build and manage Connected Apps in one place",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
-        "published": "Wed, 28 Oct 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
       }
     ],
     "Apple": [
+      {
+        "company": "Apple",
+        "title": "Redesigned Health app expands language support",
+        "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
+        "published": "2026-11-03T18:24:58.012Z",
+        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
+      },
       {
         "company": "Apple",
         "title": "Apple reports fourth quarter results",
@@ -5098,13 +5117,6 @@
         "url": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
         "published": "2026-10-12T13:59:49.734Z",
         "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
-      },
-      {
-        "company": "Apple",
-        "title": "Apple, The King’s Trust launch initiative to empower young creatives",
-        "url": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/",
-        "published": "2026-10-07T21:01:58.215Z",
-        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
       }
     ],
     "OpenAI": [
@@ -5131,15 +5143,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Rewarding defenders with bigger bug bounties",
-        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+        "title": "Preparing our next security sprint to harden OpenAI",
+        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
         "published": "Mon, 02 Nov 2026 18:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Preparing our next security sprint to harden OpenAI",
-        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+        "title": "Rewarding defenders with bigger bug bounties",
+        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
         "published": "Mon, 02 Nov 2026 18:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5152,15 +5164,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Qodo builds context into AI code review with Codex",
-        "url": "https://openai.com/index/qodo-codex-plugin",
+        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "url": "https://openai.com/index/dan-driscoll-joins-openai",
         "published": "Mon, 02 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-        "url": "https://openai.com/index/dan-driscoll-joins-openai",
+        "title": "Qodo builds context into AI code review with Codex",
+        "url": "https://openai.com/index/qodo-codex-plugin",
         "published": "Mon, 02 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
