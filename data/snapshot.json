@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-04T00:56:22.483905+00:00",
+  "retrieved_at": "2026-11-04T07:04:59.492419+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -1094,7 +1094,7 @@
       },
       {
         "date": "2025-11-21",
-        "close": 298.8828
+        "close": 298.8827
       },
       {
         "date": "2025-11-24",
@@ -1270,7 +1270,7 @@
       },
       {
         "date": "2026-01-28",
-        "close": 335.3577
+        "close": 335.3576
       },
       {
         "date": "2026-01-29",
@@ -1294,7 +1294,7 @@
       },
       {
         "date": "2026-02-05",
-        "close": 330.6069
+        "close": 330.6068
       },
       {
         "date": "2026-02-06",
@@ -1350,7 +1350,7 @@
       },
       {
         "date": "2026-02-26",
-        "close": 306.7832
+        "close": 306.7833
       },
       {
         "date": "2026-02-27",
@@ -1450,7 +1450,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4036
+        "close": 295.4035
       },
       {
         "date": "2026-04-06",
@@ -1514,15 +1514,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.9059
+        "close": 349.906
       },
       {
         "date": "2026-04-28",
-        "close": 349.3466
+        "close": 349.3467
       },
       {
         "date": "2026-04-29",
-        "close": 349.5065
+        "close": 349.5064
       },
       {
         "date": "2026-04-30",
@@ -1598,7 +1598,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3482
+        "close": 388.3483
       },
       {
         "date": "2026-05-28",
@@ -5173,15 +5173,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-        "url": "https://openai.com/index/dan-driscoll-joins-openai",
+        "title": "Qodo builds context into AI code review with Codex",
+        "url": "https://openai.com/index/qodo-codex-plugin",
         "published": "Mon, 02 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Qodo builds context into AI code review with Codex",
-        "url": "https://openai.com/index/qodo-codex-plugin",
+        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "url": "https://openai.com/index/dan-driscoll-joins-openai",
         "published": "Mon, 02 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
