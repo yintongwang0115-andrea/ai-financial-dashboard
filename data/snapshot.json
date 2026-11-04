@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-03T18:46:39.323501+00:00",
+  "retrieved_at": "2026-11-04T00:56:22.483905+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -34,10 +34,6 @@
   },
   "stocks": {
     "NVIDIA": [
-      {
-        "date": "2025-11-03",
-        "close": 206.3855
-      },
       {
         "date": "2025-11-04",
         "close": 198.2151
@@ -104,7 +100,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8291
+        "close": 179.8292
       },
       {
         "date": "2025-11-28",
@@ -128,7 +124,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9842
+        "close": 181.9841
       },
       {
         "date": "2025-12-08",
@@ -352,7 +348,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 176.7763
+        "close": 176.7764
       },
       {
         "date": "2026-03-02",
@@ -1040,14 +1036,10 @@
       },
       {
         "date": "2026-11-03",
-        "close": 208.02
+        "close": 206.69
       }
     ],
     "Alphabet": [
-      {
-        "date": "2025-11-03",
-        "close": 282.9841
-      },
       {
         "date": "2025-11-04",
         "close": 276.8201
@@ -1062,7 +1054,7 @@
       },
       {
         "date": "2025-11-07",
-        "close": 278.1067
+        "close": 278.1068
       },
       {
         "date": "2025-11-10",
@@ -1102,7 +1094,7 @@
       },
       {
         "date": "2025-11-21",
-        "close": 298.8827
+        "close": 298.8828
       },
       {
         "date": "2025-11-24",
@@ -1214,7 +1206,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9254
+        "close": 315.9255
       },
       {
         "date": "2026-01-06",
@@ -1258,7 +1250,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 327.7424
+        "close": 327.7425
       },
       {
         "date": "2026-01-22",
@@ -1278,7 +1270,7 @@
       },
       {
         "date": "2026-01-28",
-        "close": 335.3576
+        "close": 335.3577
       },
       {
         "date": "2026-01-29",
@@ -1346,7 +1338,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8853
+        "close": 310.8852
       },
       {
         "date": "2026-02-24",
@@ -1378,7 +1370,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2959
+        "close": 300.2958
       },
       {
         "date": "2026-03-06",
@@ -1458,7 +1450,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4035
+        "close": 295.4036
       },
       {
         "date": "2026-04-06",
@@ -1522,15 +1514,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.906
+        "close": 349.9059
       },
       {
         "date": "2026-04-28",
-        "close": 349.3467
+        "close": 349.3466
       },
       {
         "date": "2026-04-29",
-        "close": 349.5064
+        "close": 349.5065
       },
       {
         "date": "2026-04-30",
@@ -1606,7 +1598,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3483
+        "close": 388.3482
       },
       {
         "date": "2026-05-28",
@@ -2050,14 +2042,10 @@
       },
       {
         "date": "2026-11-03",
-        "close": 280.12
+        "close": 280.03
       }
     ],
     "Apple": [
-      {
-        "date": "2025-11-03",
-        "close": 268.0598
-      },
       {
         "date": "2025-11-04",
         "close": 269.0461
@@ -2084,7 +2072,7 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7276
+        "close": 272.7277
       },
       {
         "date": "2025-11-13",
@@ -2096,7 +2084,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 266.7339
+        "close": 266.734
       },
       {
         "date": "2025-11-18",
@@ -2148,7 +2136,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0233
+        "close": 278.0232
       },
       {
         "date": "2025-12-08",
@@ -2160,7 +2148,7 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0233
+        "close": 278.0232
       },
       {
         "date": "2025-12-11",
@@ -2188,11 +2176,11 @@
       },
       {
         "date": "2025-12-19",
-        "close": 272.9271
+        "close": 272.9272
       },
       {
         "date": "2025-12-22",
-        "close": 270.2345
+        "close": 270.2344
       },
       {
         "date": "2025-12-23",
@@ -2220,7 +2208,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2743
+        "close": 270.2744
       },
       {
         "date": "2026-01-05",
@@ -2248,7 +2236,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3413
+        "close": 260.3414
       },
       {
         "date": "2026-01-14",
@@ -2260,7 +2248,7 @@
       },
       {
         "date": "2026-01-16",
-        "close": 254.8363
+        "close": 254.8364
       },
       {
         "date": "2026-01-20",
@@ -2316,7 +2304,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 277.365
+        "close": 277.3651
       },
       {
         "date": "2026-02-09",
@@ -3060,7 +3048,7 @@
       },
       {
         "date": "2026-11-03",
-        "close": 332.13
+        "close": 331.9
       }
     ]
   },
@@ -5122,9 +5110,30 @@
     "OpenAI": [
       {
         "company": "OpenAI",
+        "title": "Accelerating engineering for the physical world",
+        "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+        "published": "Tue, 03 Nov 2026 12:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "How Cisco defends at machine speed with OpenAI",
+        "url": "https://openai.com/index/cisco-cyber",
+        "published": "Tue, 03 Nov 2026 08:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "Heimstaden is changing residential real estate management with AI",
         "url": "https://openai.com/index/heimstaden",
         "published": "Tue, 03 Nov 2026 08:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+        "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+        "published": "Tue, 03 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
@@ -5227,6 +5236,13 @@
       },
       {
         "company": "OpenAI",
+        "title": "Evernote turns AI-driven discovery into paid subscriptions",
+        "url": "https://openai.com/ads/customers/evernote",
+        "published": "Wed, 28 Oct 2026 19:40:49 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
         "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
         "published": "Wed, 28 Oct 2026 13:15:00 GMT",
@@ -5276,6 +5292,13 @@
       },
       {
         "company": "OpenAI",
+        "title": "Introducing GPT-6.1 Terra",
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+        "published": "Mon, 26 Oct 2026 18:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "Working with academic communities to build scientific understanding",
         "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
         "published": "Mon, 26 Oct 2026 14:30:00 GMT",
@@ -5311,13 +5334,6 @@
       },
       {
         "company": "OpenAI",
-        "title": "Introducing GPT-6.1 Terra",
-        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-        "published": "Mon, 26 Oct 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
         "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
         "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
         "published": "Fri, 23 Oct 2026 17:00:00 GMT",
@@ -5335,34 +5351,6 @@
         "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
         "url": "https://openai.com/index/anima",
         "published": "Fri, 23 Oct 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-        "published": "Fri, 23 Oct 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Build more responsive apps with the Decisions API",
-        "url": "https://openai.com/index/decisions-api",
-        "published": "Thu, 22 Oct 2026 19:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "What FDE means at OpenAI",
-        "url": "https://openai.com/index/forward-deployed-engineering-means",
-        "published": "Thu, 22 Oct 2026 06:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-        "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-        "published": "Thu, 22 Oct 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
