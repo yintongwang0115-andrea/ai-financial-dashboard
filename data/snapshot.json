@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-04T07:04:59.492419+00:00",
+  "retrieved_at": "2026-11-04T12:56:15.656578+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -40,7 +40,7 @@
       },
       {
         "date": "2025-11-05",
-        "close": 194.7434
+        "close": 194.7435
       },
       {
         "date": "2025-11-06",
@@ -124,7 +124,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9841
+        "close": 181.9842
       },
       {
         "date": "2025-12-08",
@@ -284,7 +284,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7834
+        "close": 173.7833
       },
       {
         "date": "2026-02-05",
@@ -292,7 +292,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9772
+        "close": 184.9771
       },
       {
         "date": "2026-02-09",
@@ -1054,7 +1054,7 @@
       },
       {
         "date": "2025-11-07",
-        "close": 278.1068
+        "close": 278.1067
       },
       {
         "date": "2025-11-10",
@@ -1078,7 +1078,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 284.2807
+        "close": 284.2806
       },
       {
         "date": "2025-11-18",
@@ -1086,7 +1086,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 292.0505
+        "close": 292.0504
       },
       {
         "date": "2025-11-20",
@@ -1206,7 +1206,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9255
+        "close": 315.9254
       },
       {
         "date": "2026-01-06",
@@ -1294,7 +1294,7 @@
       },
       {
         "date": "2026-02-05",
-        "close": 330.6068
+        "close": 330.6069
       },
       {
         "date": "2026-02-06",
@@ -1318,7 +1318,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1264
+        "close": 305.1265
       },
       {
         "date": "2026-02-17",
@@ -1350,11 +1350,11 @@
       },
       {
         "date": "2026-02-26",
-        "close": 306.7833
+        "close": 306.7832
       },
       {
         "date": "2026-02-27",
-        "close": 311.1547
+        "close": 311.1548
       },
       {
         "date": "2026-03-02",
@@ -1370,7 +1370,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2958
+        "close": 300.2959
       },
       {
         "date": "2026-03-06",
@@ -1450,7 +1450,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4035
+        "close": 295.4036
       },
       {
         "date": "2026-04-06",
@@ -1514,15 +1514,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.906
+        "close": 349.9059
       },
       {
         "date": "2026-04-28",
-        "close": 349.3467
+        "close": 349.3466
       },
       {
         "date": "2026-04-29",
-        "close": 349.5064
+        "close": 349.5065
       },
       {
         "date": "2026-04-30",
@@ -1598,7 +1598,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3483
+        "close": 388.3482
       },
       {
         "date": "2026-05-28",
@@ -2048,7 +2048,7 @@
     "Apple": [
       {
         "date": "2025-11-04",
-        "close": 269.0461
+        "close": 269.0462
       },
       {
         "date": "2025-11-05",
@@ -2076,7 +2076,7 @@
       },
       {
         "date": "2025-11-13",
-        "close": 272.2091
+        "close": 272.209
       },
       {
         "date": "2025-11-14",
@@ -2084,7 +2084,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 266.734
+        "close": 266.7339
       },
       {
         "date": "2025-11-18",
@@ -2152,7 +2152,7 @@
       },
       {
         "date": "2025-12-11",
-        "close": 277.2752
+        "close": 277.2753
       },
       {
         "date": "2025-12-12",
@@ -2176,7 +2176,7 @@
       },
       {
         "date": "2025-12-19",
-        "close": 272.9272
+        "close": 272.9271
       },
       {
         "date": "2025-12-22",
@@ -2192,7 +2192,7 @@
       },
       {
         "date": "2025-12-26",
-        "close": 272.6578
+        "close": 272.6579
       },
       {
         "date": "2025-12-29",
@@ -2224,7 +2224,7 @@
       },
       {
         "date": "2026-01-08",
-        "close": 258.3369
+        "close": 258.3368
       },
       {
         "date": "2026-01-09",
@@ -2248,7 +2248,7 @@
       },
       {
         "date": "2026-01-16",
-        "close": 254.8364
+        "close": 254.8363
       },
       {
         "date": "2026-01-20",
@@ -2256,7 +2256,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9778
+        "close": 246.9777
       },
       {
         "date": "2026-01-22",
@@ -2284,11 +2284,11 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7756
+        "close": 258.7757
       },
       {
         "date": "2026-02-02",
-        "close": 269.2771
+        "close": 269.277
       },
       {
         "date": "2026-02-03",
@@ -2304,7 +2304,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 277.3651
+        "close": 277.365
       },
       {
         "date": "2026-02-09",
@@ -2460,7 +2460,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3989
+        "close": 258.3988
       },
       {
         "date": "2026-04-07",
@@ -2472,7 +2472,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.026
+        "close": 260.0259
       },
       {
         "date": "2026-04-10",
@@ -2540,7 +2540,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3368
+        "close": 276.3369
       },
       {
         "date": "2026-05-05",
@@ -2548,11 +2548,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9979
+        "close": 286.9978
       },
       {
         "date": "2026-05-07",
-        "close": 286.928
+        "close": 286.9279
       },
       {
         "date": "2026-05-08",
@@ -4826,6 +4826,13 @@
     "Alphabet": [
       {
         "company": "Alphabet",
+        "title": "Take a closer look at art with the Courtauld",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
+        "published": "Wed, 04 Nov 2026 10:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "New research shows how Guided Learning supports students",
         "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
         "published": "Tue, 03 Nov 2026 14:00:00 +0000",
@@ -4924,15 +4931,15 @@
       },
       {
         "company": "Alphabet",
-        "title": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+        "title": "Celebrate Halloween with these tricks in Google Photos.",
+        "url": "https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/",
         "published": "Thu, 29 Oct 2026 16:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
       {
         "company": "Alphabet",
-        "title": "Celebrate Halloween with these tricks in Google Photos.",
-        "url": "https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/",
+        "title": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
         "published": "Thu, 29 Oct 2026 16:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4955,13 +4962,6 @@
         "title": "How Gemini is helping students and teachers in the classroom",
         "url": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/",
         "published": "Thu, 29 Oct 2026 09:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Partnering with Singapore to bring frontier AI to public health",
-        "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
-        "published": "Thu, 29 Oct 2026 03:30:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
