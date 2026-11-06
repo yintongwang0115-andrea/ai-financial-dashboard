@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-06T12:57:12.417056+00:00",
+  "retrieved_at": "2026-11-06T18:48:58.304951+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -44,7 +44,7 @@
       },
       {
         "date": "2025-11-10",
-        "close": 198.5743
+        "close": 198.5742
       },
       {
         "date": "2025-11-11",
@@ -92,7 +92,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8291
+        "close": 179.8292
       },
       {
         "date": "2025-11-28",
@@ -116,7 +116,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9841
+        "close": 181.9842
       },
       {
         "date": "2025-12-08",
@@ -220,7 +220,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7125
+        "close": 182.7124
       },
       {
         "date": "2026-01-15",
@@ -276,7 +276,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7834
+        "close": 173.7833
       },
       {
         "date": "2026-02-05",
@@ -284,7 +284,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9772
+        "close": 184.9771
       },
       {
         "date": "2026-02-09",
@@ -292,7 +292,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0999
+        "close": 188.0998
       },
       {
         "date": "2026-02-11",
@@ -368,7 +368,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3386
+        "close": 184.3387
       },
       {
         "date": "2026-03-11",
@@ -376,7 +376,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7224
+        "close": 182.7223
       },
       {
         "date": "2026-03-13",
@@ -400,7 +400,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3061
+        "close": 172.3062
       },
       {
         "date": "2026-03-23",
@@ -436,7 +436,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9854
+        "close": 176.9855
       },
       {
         "date": "2026-04-06",
@@ -1037,6 +1037,10 @@
       {
         "date": "2026-11-05",
         "close": 181.6
+      },
+      {
+        "date": "2026-11-06",
+        "close": 187.32
       }
     ],
     "Alphabet": [
@@ -1070,7 +1074,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 284.2807
+        "close": 284.2806
       },
       {
         "date": "2025-11-18",
@@ -1078,7 +1082,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 292.0504
+        "close": 292.0505
       },
       {
         "date": "2025-11-20",
@@ -1198,7 +1202,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9254
+        "close": 315.9255
       },
       {
         "date": "2026-01-06",
@@ -1262,7 +1266,7 @@
       },
       {
         "date": "2026-01-28",
-        "close": 335.3576
+        "close": 335.3577
       },
       {
         "date": "2026-01-29",
@@ -1310,7 +1314,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1265
+        "close": 305.1264
       },
       {
         "date": "2026-02-17",
@@ -1346,7 +1350,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 311.1548
+        "close": 311.1547
       },
       {
         "date": "2026-03-02",
@@ -1362,7 +1366,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2959
+        "close": 300.2958
       },
       {
         "date": "2026-03-06",
@@ -2043,6 +2047,10 @@
       {
         "date": "2026-11-05",
         "close": 282.57
+      },
+      {
+        "date": "2026-11-06",
+        "close": 286.25
       }
     ],
     "Apple": [
@@ -2064,7 +2072,7 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7276
+        "close": 272.7277
       },
       {
         "date": "2025-11-13",
@@ -2080,7 +2088,7 @@
       },
       {
         "date": "2025-11-18",
-        "close": 266.7141
+        "close": 266.714
       },
       {
         "date": "2025-11-19",
@@ -2128,7 +2136,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0233
+        "close": 278.0232
       },
       {
         "date": "2025-12-08",
@@ -2140,7 +2148,7 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0233
+        "close": 278.0232
       },
       {
         "date": "2025-12-11",
@@ -2228,7 +2236,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3413
+        "close": 260.3414
       },
       {
         "date": "2026-01-14",
@@ -2248,7 +2256,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9778
+        "close": 246.9777
       },
       {
         "date": "2026-01-22",
@@ -2452,7 +2460,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3989
+        "close": 258.3988
       },
       {
         "date": "2026-04-07",
@@ -2464,7 +2472,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.026
+        "close": 260.0259
       },
       {
         "date": "2026-04-10",
@@ -2532,7 +2540,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3368
+        "close": 276.3369
       },
       {
         "date": "2026-05-05",
@@ -2540,11 +2548,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9979
+        "close": 286.9978
       },
       {
         "date": "2026-05-07",
-        "close": 286.928
+        "close": 286.9279
       },
       {
         "date": "2026-05-08",
@@ -3049,6 +3057,10 @@
       {
         "date": "2026-11-05",
         "close": 344.17
+      },
+      {
+        "date": "2026-11-06",
+        "close": 344.435
       }
     ]
   },
@@ -4684,6 +4696,13 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+        "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+        "published": "Fri, 06 Nov 2026 16:00:00 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
         "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
         "published": "Thu, 05 Nov 2026 20:00:41 GMT",
@@ -4813,13 +4832,6 @@
         "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
         "url": "https://blogs.nvidia.com/blog/dsx-power/",
         "published": "Thu, 22 Oct 2026 05:00:25 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-        "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
-        "published": "Thu, 22 Oct 2026 05:00:23 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
@@ -5110,6 +5122,13 @@
     "OpenAI": [
       {
         "company": "OpenAI",
+        "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "url": "https://openai.com/index/partnering-with-hacktron",
+        "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "Australian universities are creating AI-native graduates",
         "url": "https://openai.com/index/australian-universities-ai-native-graduates",
         "published": "Thu, 05 Nov 2026 17:00:00 GMT",
@@ -5257,15 +5276,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Qodo builds context into AI code review with Codex",
-        "url": "https://openai.com/index/qodo-codex-plugin",
+        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "url": "https://openai.com/index/dan-driscoll-joins-openai",
         "published": "Mon, 02 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-        "url": "https://openai.com/index/dan-driscoll-joins-openai",
+        "title": "Qodo builds context into AI code review with Codex",
+        "url": "https://openai.com/index/qodo-codex-plugin",
         "published": "Mon, 02 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5344,13 +5363,6 @@
         "title": "Legora is building the agentic operating system for legal work",
         "url": "https://openai.com/index/legora",
         "published": "Wed, 28 Oct 2026 09:30:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Retell uses OpenAI models to help power 100M monthly calls",
-        "url": "https://openai.com/index/retell-ai",
-        "published": "Tue, 27 Oct 2026 15:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
