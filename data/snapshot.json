@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-06T18:48:58.304951+00:00",
+  "retrieved_at": "2026-11-07T00:54:14.856757+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -35,16 +35,12 @@
   "stocks": {
     "NVIDIA": [
       {
-        "date": "2025-11-06",
-        "close": 187.6305
-      },
-      {
         "date": "2025-11-07",
         "close": 187.7003
       },
       {
         "date": "2025-11-10",
-        "close": 198.5742
+        "close": 198.5743
       },
       {
         "date": "2025-11-11",
@@ -92,7 +88,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8292
+        "close": 179.8291
       },
       {
         "date": "2025-11-28",
@@ -116,7 +112,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9842
+        "close": 181.9841
       },
       {
         "date": "2025-12-08",
@@ -220,7 +216,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7124
+        "close": 182.7125
       },
       {
         "date": "2026-01-15",
@@ -276,7 +272,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7833
+        "close": 173.7834
       },
       {
         "date": "2026-02-05",
@@ -284,7 +280,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9771
+        "close": 184.9772
       },
       {
         "date": "2026-02-09",
@@ -292,7 +288,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0998
+        "close": 188.0999
       },
       {
         "date": "2026-02-11",
@@ -368,7 +364,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3387
+        "close": 184.3386
       },
       {
         "date": "2026-03-11",
@@ -376,7 +372,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7223
+        "close": 182.7224
       },
       {
         "date": "2026-03-13",
@@ -400,7 +396,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3062
+        "close": 172.3061
       },
       {
         "date": "2026-03-23",
@@ -436,7 +432,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9855
+        "close": 176.9854
       },
       {
         "date": "2026-04-06",
@@ -1040,14 +1036,10 @@
       },
       {
         "date": "2026-11-06",
-        "close": 187.32
+        "close": 186.64
       }
     ],
     "Alphabet": [
-      {
-        "date": "2025-11-06",
-        "close": 284.0114
-      },
       {
         "date": "2025-11-07",
         "close": 278.1067
@@ -1082,7 +1074,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 292.0505
+        "close": 292.0504
       },
       {
         "date": "2025-11-20",
@@ -1202,7 +1194,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9255
+        "close": 315.9254
       },
       {
         "date": "2026-01-06",
@@ -1266,7 +1258,7 @@
       },
       {
         "date": "2026-01-28",
-        "close": 335.3577
+        "close": 335.3576
       },
       {
         "date": "2026-01-29",
@@ -1314,7 +1306,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1264
+        "close": 305.1265
       },
       {
         "date": "2026-02-17",
@@ -1350,7 +1342,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 311.1547
+        "close": 311.1548
       },
       {
         "date": "2026-03-02",
@@ -1366,7 +1358,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2958
+        "close": 300.2959
       },
       {
         "date": "2026-03-06",
@@ -2050,14 +2042,10 @@
       },
       {
         "date": "2026-11-06",
-        "close": 286.25
+        "close": 284.78
       }
     ],
     "Apple": [
-      {
-        "date": "2025-11-06",
-        "close": 268.7771
-      },
       {
         "date": "2025-11-07",
         "close": 267.4819
@@ -2084,7 +2072,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 266.7339
+        "close": 266.734
       },
       {
         "date": "2025-11-18",
@@ -2128,7 +2116,7 @@
       },
       {
         "date": "2025-12-03",
-        "close": 283.3787
+        "close": 283.3786
       },
       {
         "date": "2025-12-04",
@@ -2176,7 +2164,7 @@
       },
       {
         "date": "2025-12-19",
-        "close": 272.9271
+        "close": 272.9272
       },
       {
         "date": "2025-12-22",
@@ -2208,7 +2196,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2743
+        "close": 270.2744
       },
       {
         "date": "2026-01-05",
@@ -2284,7 +2272,7 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7756
+        "close": 258.7757
       },
       {
         "date": "2026-02-02",
@@ -3060,7 +3048,7 @@
       },
       {
         "date": "2026-11-06",
-        "close": 344.435
+        "close": 342.37
       }
     ]
   },
@@ -5129,6 +5117,13 @@
       },
       {
         "company": "OpenAI",
+        "title": "Measuring how AI agents handle everyday wet-lab science",
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "published": "Fri, 06 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "Australian universities are creating AI-native graduates",
         "url": "https://openai.com/index/australian-universities-ai-native-graduates",
         "published": "Thu, 05 Nov 2026 17:00:00 GMT",
@@ -5255,15 +5250,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Rewarding defenders with bigger bug bounties",
-        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+        "title": "Preparing our next security sprint to harden OpenAI",
+        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
         "published": "Mon, 02 Nov 2026 18:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Preparing our next security sprint to harden OpenAI",
-        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+        "title": "Rewarding defenders with bigger bug bounties",
+        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
         "published": "Mon, 02 Nov 2026 18:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5356,13 +5351,6 @@
         "title": "The future of the firm",
         "url": "https://openai.com/index/the-future-of-the-firm",
         "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Legora is building the agentic operating system for legal work",
-        "url": "https://openai.com/index/legora",
-        "published": "Wed, 28 Oct 2026 09:30:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
