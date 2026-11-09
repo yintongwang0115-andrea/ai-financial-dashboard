@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-09T07:21:15.101871+00:00",
+  "retrieved_at": "2026-11-09T13:04:16.780926+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -40,7 +40,7 @@
       },
       {
         "date": "2025-11-10",
-        "close": 198.5742
+        "close": 198.5743
       },
       {
         "date": "2025-11-11",
@@ -72,7 +72,7 @@
       },
       {
         "date": "2025-11-20",
-        "close": 180.2082
+        "close": 180.2083
       },
       {
         "date": "2025-11-21",
@@ -112,7 +112,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9842
+        "close": 181.9841
       },
       {
         "date": "2025-12-08",
@@ -216,7 +216,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7124
+        "close": 182.7125
       },
       {
         "date": "2026-01-15",
@@ -288,7 +288,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0998
+        "close": 188.0999
       },
       {
         "date": "2026-02-11",
@@ -1062,7 +1062,7 @@
       },
       {
         "date": "2025-11-14",
-        "close": 275.693
+        "close": 275.6931
       },
       {
         "date": "2025-11-17",
@@ -1074,7 +1074,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 292.0504
+        "close": 292.0505
       },
       {
         "date": "2025-11-20",
@@ -1162,7 +1162,7 @@
       },
       {
         "date": "2025-12-22",
-        "close": 309.1786
+        "close": 309.1785
       },
       {
         "date": "2025-12-23",
@@ -1326,7 +1326,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8852
+        "close": 310.8853
       },
       {
         "date": "2026-02-24",
@@ -1354,11 +1354,11 @@
       },
       {
         "date": "2026-03-04",
-        "close": 302.5415
+        "close": 302.5414
       },
       {
         "date": "2026-03-05",
-        "close": 300.2959
+        "close": 300.2958
       },
       {
         "date": "2026-03-06",
@@ -1438,7 +1438,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4036
+        "close": 295.4035
       },
       {
         "date": "2026-04-06",
@@ -1502,15 +1502,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.9059
+        "close": 349.906
       },
       {
         "date": "2026-04-28",
-        "close": 349.3466
+        "close": 349.3467
       },
       {
         "date": "2026-04-29",
-        "close": 349.5065
+        "close": 349.5064
       },
       {
         "date": "2026-04-30",
@@ -1586,7 +1586,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3482
+        "close": 388.3483
       },
       {
         "date": "2026-05-28",
@@ -2096,7 +2096,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.2182
+        "close": 276.2181
       },
       {
         "date": "2025-11-26",
@@ -2116,7 +2116,7 @@
       },
       {
         "date": "2025-12-03",
-        "close": 283.3786
+        "close": 283.3787
       },
       {
         "date": "2025-12-04",
@@ -2140,7 +2140,7 @@
       },
       {
         "date": "2025-12-11",
-        "close": 277.2753
+        "close": 277.2752
       },
       {
         "date": "2025-12-12",
@@ -2212,7 +2212,7 @@
       },
       {
         "date": "2026-01-08",
-        "close": 258.3368
+        "close": 258.3369
       },
       {
         "date": "2026-01-09",
@@ -2236,7 +2236,7 @@
       },
       {
         "date": "2026-01-16",
-        "close": 254.8363
+        "close": 254.8364
       },
       {
         "date": "2026-01-20",
@@ -2244,7 +2244,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9777
+        "close": 246.9778
       },
       {
         "date": "2026-01-22",
@@ -2272,7 +2272,7 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7757
+        "close": 258.7756
       },
       {
         "date": "2026-02-02",
@@ -2292,7 +2292,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 277.365
+        "close": 277.3651
       },
       {
         "date": "2026-02-09",
@@ -2448,7 +2448,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3988
+        "close": 258.3989
       },
       {
         "date": "2026-04-07",
@@ -2460,7 +2460,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.0259
+        "close": 260.026
       },
       {
         "date": "2026-04-10",
@@ -2528,7 +2528,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3369
+        "close": 276.3368
       },
       {
         "date": "2026-05-05",
@@ -2536,11 +2536,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9978
+        "close": 286.9979
       },
       {
         "date": "2026-05-07",
-        "close": 286.9279
+        "close": 286.928
       },
       {
         "date": "2026-05-08",
@@ -4684,6 +4684,13 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+        "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+        "published": "Mon, 09 Nov 2026 08:00:53 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "Korea Advances Physical AI Across Industries With NVIDIA",
         "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
         "published": "Mon, 09 Nov 2026 05:00:40 GMT",
@@ -4814,16 +4821,23 @@
         "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
         "published": "Tue, 27 Oct 2026 16:00:00 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-        "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-        "published": "Tue, 27 Oct 2026 15:00:20 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
     "Alphabet": [
+      {
+        "company": "Alphabet",
+        "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+        "published": "Mon, 09 Nov 2026 13:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Holiday 100: Your guide to this year’s top trending gifts",
+        "url": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
+        "published": "Mon, 09 Nov 2026 12:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
       {
         "company": "Alphabet",
         "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
@@ -4889,8 +4903,8 @@
       },
       {
         "company": "Alphabet",
-        "title": "New research shows how Guided Learning supports students",
-        "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
+        "title": "AI in the learning era",
+        "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
         "published": "Tue, 03 Nov 2026 14:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4910,8 +4924,8 @@
       },
       {
         "company": "Alphabet",
-        "title": "AI in the learning era",
-        "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+        "title": "New research shows how Guided Learning supports students",
+        "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
         "published": "Tue, 03 Nov 2026 14:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4948,20 +4962,6 @@
         "title": "Google Fitbit Edge: On shelves now",
         "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
         "published": "Fri, 30 Oct 2026 20:15:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
-        "published": "Fri, 30 Oct 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "See who has access to your Gmail inbox in 2 minutes.",
-        "url": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
-        "published": "Fri, 30 Oct 2026 16:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
