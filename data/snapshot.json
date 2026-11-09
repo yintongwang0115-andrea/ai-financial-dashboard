@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-08T18:38:27.630283+00:00",
+  "retrieved_at": "2026-11-09T00:58:02.380369+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -112,7 +112,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9841
+        "close": 181.9842
       },
       {
         "date": "2025-12-08",
@@ -216,7 +216,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7125
+        "close": 182.7124
       },
       {
         "date": "2026-01-15",
@@ -288,7 +288,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0999
+        "close": 188.0998
       },
       {
         "date": "2026-02-11",
@@ -1162,7 +1162,7 @@
       },
       {
         "date": "2025-12-22",
-        "close": 309.1786
+        "close": 309.1785
       },
       {
         "date": "2025-12-23",
@@ -1194,7 +1194,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9255
+        "close": 315.9254
       },
       {
         "date": "2026-01-06",
@@ -1282,7 +1282,7 @@
       },
       {
         "date": "2026-02-05",
-        "close": 330.6068
+        "close": 330.6069
       },
       {
         "date": "2026-02-06",
@@ -1306,7 +1306,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1264
+        "close": 305.1265
       },
       {
         "date": "2026-02-17",
@@ -1326,7 +1326,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8852
+        "close": 310.8853
       },
       {
         "date": "2026-02-24",
@@ -1338,11 +1338,11 @@
       },
       {
         "date": "2026-02-26",
-        "close": 306.7833
+        "close": 306.7832
       },
       {
         "date": "2026-02-27",
-        "close": 311.1547
+        "close": 311.1548
       },
       {
         "date": "2026-03-02",
@@ -1354,7 +1354,7 @@
       },
       {
         "date": "2026-03-04",
-        "close": 302.5415
+        "close": 302.5414
       },
       {
         "date": "2026-03-05",
@@ -2060,7 +2060,7 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7277
+        "close": 272.7276
       },
       {
         "date": "2025-11-13",
@@ -2072,11 +2072,11 @@
       },
       {
         "date": "2025-11-17",
-        "close": 266.734
+        "close": 266.7339
       },
       {
         "date": "2025-11-18",
-        "close": 266.714
+        "close": 266.7141
       },
       {
         "date": "2025-11-19",
@@ -2096,7 +2096,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.2181
+        "close": 276.2182
       },
       {
         "date": "2025-11-26",
@@ -2124,7 +2124,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-08",
@@ -2136,11 +2136,11 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-11",
-        "close": 277.2752
+        "close": 277.2753
       },
       {
         "date": "2025-12-12",
@@ -2164,7 +2164,7 @@
       },
       {
         "date": "2025-12-19",
-        "close": 272.9272
+        "close": 272.9271
       },
       {
         "date": "2025-12-22",
@@ -2196,7 +2196,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2744
+        "close": 270.2743
       },
       {
         "date": "2026-01-05",
@@ -2212,7 +2212,7 @@
       },
       {
         "date": "2026-01-08",
-        "close": 258.3369
+        "close": 258.3368
       },
       {
         "date": "2026-01-09",
@@ -2224,7 +2224,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3414
+        "close": 260.3413
       },
       {
         "date": "2026-01-14",
@@ -2236,7 +2236,7 @@
       },
       {
         "date": "2026-01-16",
-        "close": 254.8364
+        "close": 254.8363
       },
       {
         "date": "2026-01-20",
@@ -2292,7 +2292,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 277.3651
+        "close": 277.365
       },
       {
         "date": "2026-02-09",
@@ -4684,6 +4684,20 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "A Message to Our Company",
+        "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+        "published": "Sun, 08 Nov 2026 21:02:00 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "Statement from NVIDIA Board of Directors",
+        "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+        "published": "Sun, 08 Nov 2026 20:00:00 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
         "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
         "published": "Fri, 06 Nov 2026 16:00:00 GMT",
@@ -4806,20 +4820,6 @@
         "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
         "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
         "published": "Thu, 22 Oct 2026 05:00:56 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-        "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-        "published": "Thu, 22 Oct 2026 05:00:27 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-        "url": "https://blogs.nvidia.com/blog/dsx-power/",
-        "published": "Thu, 22 Oct 2026 05:00:25 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
