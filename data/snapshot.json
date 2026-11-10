@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-09T18:51:37.244997+00:00",
+  "retrieved_at": "2026-11-10T00:55:51.279969+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -84,7 +84,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8291
+        "close": 179.8292
       },
       {
         "date": "2025-11-28",
@@ -108,7 +108,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9841
+        "close": 181.9842
       },
       {
         "date": "2025-12-08",
@@ -212,7 +212,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7125
+        "close": 182.7124
       },
       {
         "date": "2026-01-15",
@@ -284,7 +284,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0999
+        "close": 188.0998
       },
       {
         "date": "2026-02-11",
@@ -332,7 +332,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 176.7764
+        "close": 176.7763
       },
       {
         "date": "2026-03-02",
@@ -360,7 +360,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3386
+        "close": 184.3387
       },
       {
         "date": "2026-03-11",
@@ -368,7 +368,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7224
+        "close": 182.7223
       },
       {
         "date": "2026-03-13",
@@ -392,7 +392,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3061
+        "close": 172.3062
       },
       {
         "date": "2026-03-23",
@@ -428,7 +428,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9854
+        "close": 176.9855
       },
       {
         "date": "2026-04-06",
@@ -1036,7 +1036,7 @@
       },
       {
         "date": "2026-11-09",
-        "close": 176.9899
+        "close": 178.67
       }
     ],
     "Alphabet": [
@@ -1070,7 +1070,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 292.0504
+        "close": 292.0505
       },
       {
         "date": "2025-11-20",
@@ -1190,7 +1190,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9254
+        "close": 315.9255
       },
       {
         "date": "2026-01-06",
@@ -1254,7 +1254,7 @@
       },
       {
         "date": "2026-01-28",
-        "close": 335.3576
+        "close": 335.3577
       },
       {
         "date": "2026-01-29",
@@ -1302,7 +1302,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1265
+        "close": 305.1264
       },
       {
         "date": "2026-02-17",
@@ -1338,7 +1338,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 311.1548
+        "close": 311.1547
       },
       {
         "date": "2026-03-02",
@@ -1354,7 +1354,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2959
+        "close": 300.2958
       },
       {
         "date": "2026-03-06",
@@ -2042,7 +2042,7 @@
       },
       {
         "date": "2026-11-09",
-        "close": 290.05
+        "close": 288.15
       }
     ],
     "Apple": [
@@ -2056,7 +2056,7 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7277
+        "close": 272.7276
       },
       {
         "date": "2025-11-13",
@@ -2092,7 +2092,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.2182
+        "close": 276.2181
       },
       {
         "date": "2025-11-26",
@@ -2120,7 +2120,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-08",
@@ -2132,11 +2132,11 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-11",
-        "close": 277.2753
+        "close": 277.2752
       },
       {
         "date": "2025-12-12",
@@ -2164,7 +2164,7 @@
       },
       {
         "date": "2025-12-22",
-        "close": 270.2344
+        "close": 270.2345
       },
       {
         "date": "2025-12-23",
@@ -2208,7 +2208,7 @@
       },
       {
         "date": "2026-01-08",
-        "close": 258.3368
+        "close": 258.3369
       },
       {
         "date": "2026-01-09",
@@ -2220,7 +2220,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3414
+        "close": 260.3413
       },
       {
         "date": "2026-01-14",
@@ -2240,7 +2240,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9777
+        "close": 246.9778
       },
       {
         "date": "2026-01-22",
@@ -2444,7 +2444,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3988
+        "close": 258.3989
       },
       {
         "date": "2026-04-07",
@@ -2456,7 +2456,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.0259
+        "close": 260.026
       },
       {
         "date": "2026-04-10",
@@ -2524,7 +2524,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3369
+        "close": 276.3368
       },
       {
         "date": "2026-05-05",
@@ -2532,11 +2532,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9978
+        "close": 286.9979
       },
       {
         "date": "2026-05-07",
-        "close": 286.9279
+        "close": 286.928
       },
       {
         "date": "2026-05-08",
@@ -3048,7 +3048,7 @@
       },
       {
         "date": "2026-11-09",
-        "close": 350.395
+        "close": 350.69
       }
     ]
   },
@@ -5110,6 +5110,34 @@
     "OpenAI": [
       {
         "company": "OpenAI",
+        "title": "ChatGPT Enterprise now available in AWS Marketplace",
+        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+        "published": "Mon, 09 Nov 2026 19:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "url": "https://openai.com/index/control-room",
+        "published": "Mon, 09 Nov 2026 13:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "CodeRabbit scales agentic software development and ships 20x more",
+        "url": "https://openai.com/index/coderabbit-codex-daybreak",
+        "published": "Mon, 09 Nov 2026 08:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Kuken Industries searches 70 years of drawings in minutes",
+        "url": "https://openai.com/index/kuken",
+        "published": "Mon, 09 Nov 2026 08:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
         "url": "https://openai.com/index/partnering-with-hacktron",
         "published": "Fri, 06 Nov 2026 08:00:00 GMT",
@@ -5250,15 +5278,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Preparing our next security sprint to harden OpenAI",
-        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+        "title": "Rewarding defenders with bigger bug bounties",
+        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
         "published": "Mon, 02 Nov 2026 18:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Rewarding defenders with bigger bug bounties",
-        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+        "title": "Preparing our next security sprint to harden OpenAI",
+        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
         "published": "Mon, 02 Nov 2026 18:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5323,34 +5351,6 @@
         "title": "How Ropes & Gray is developing AI for transactional diligence",
         "url": "https://openai.com/index/ropes-gray-ai-diligence",
         "published": "Thu, 29 Oct 2026 07:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-        "url": "https://openai.com/index/credit-saison",
-        "published": "Thu, 29 Oct 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Evernote turns AI-driven discovery into paid subscriptions",
-        "url": "https://openai.com/ads/customers/evernote",
-        "published": "Wed, 28 Oct 2026 19:40:49 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-        "published": "Wed, 28 Oct 2026 13:15:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "The future of the firm",
-        "url": "https://openai.com/index/the-future-of-the-firm",
-        "published": "Wed, 28 Oct 2026 10:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
