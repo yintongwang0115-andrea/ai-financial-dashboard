@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-10T07:00:04.765101+00:00",
+  "retrieved_at": "2026-11-10T12:57:29.035755+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -84,7 +84,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8291
+        "close": 179.8292
       },
       {
         "date": "2025-11-28",
@@ -212,7 +212,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7125
+        "close": 182.7124
       },
       {
         "date": "2026-01-15",
@@ -284,7 +284,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0999
+        "close": 188.0998
       },
       {
         "date": "2026-02-11",
@@ -360,7 +360,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3386
+        "close": 184.3387
       },
       {
         "date": "2026-03-11",
@@ -368,7 +368,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7224
+        "close": 182.7223
       },
       {
         "date": "2026-03-13",
@@ -392,7 +392,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3061
+        "close": 172.3062
       },
       {
         "date": "2026-03-23",
@@ -428,7 +428,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9854
+        "close": 176.9855
       },
       {
         "date": "2026-04-06",
@@ -1062,7 +1062,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 284.2806
+        "close": 284.2807
       },
       {
         "date": "2025-11-18",
@@ -1078,7 +1078,7 @@
       },
       {
         "date": "2025-11-21",
-        "close": 298.8827
+        "close": 298.8828
       },
       {
         "date": "2025-11-24",
@@ -1170,11 +1170,11 @@
       },
       {
         "date": "2025-12-26",
-        "close": 312.9014
+        "close": 312.9013
       },
       {
         "date": "2025-12-29",
-        "close": 312.9513
+        "close": 312.9512
       },
       {
         "date": "2025-12-30",
@@ -1190,7 +1190,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9254
+        "close": 315.9255
       },
       {
         "date": "2026-01-06",
@@ -1254,7 +1254,7 @@
       },
       {
         "date": "2026-01-28",
-        "close": 335.3576
+        "close": 335.3577
       },
       {
         "date": "2026-01-29",
@@ -1294,7 +1294,7 @@
       },
       {
         "date": "2026-02-11",
-        "close": 310.3562
+        "close": 310.3563
       },
       {
         "date": "2026-02-12",
@@ -1354,7 +1354,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2959
+        "close": 300.2958
       },
       {
         "date": "2026-03-06",
@@ -2056,7 +2056,7 @@
       },
       {
         "date": "2025-11-12",
-        "close": 272.7277
+        "close": 272.7276
       },
       {
         "date": "2025-11-13",
@@ -2068,7 +2068,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 266.734
+        "close": 266.7339
       },
       {
         "date": "2025-11-18",
@@ -2092,7 +2092,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.2182
+        "close": 276.2181
       },
       {
         "date": "2025-11-26",
@@ -2112,7 +2112,7 @@
       },
       {
         "date": "2025-12-03",
-        "close": 283.3786
+        "close": 283.3787
       },
       {
         "date": "2025-12-04",
@@ -2120,7 +2120,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-08",
@@ -2132,11 +2132,11 @@
       },
       {
         "date": "2025-12-10",
-        "close": 278.0232
+        "close": 278.0233
       },
       {
         "date": "2025-12-11",
-        "close": 277.2753
+        "close": 277.2752
       },
       {
         "date": "2025-12-12",
@@ -2160,11 +2160,11 @@
       },
       {
         "date": "2025-12-19",
-        "close": 272.9272
+        "close": 272.9271
       },
       {
         "date": "2025-12-22",
-        "close": 270.2344
+        "close": 270.2345
       },
       {
         "date": "2025-12-23",
@@ -2192,7 +2192,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2744
+        "close": 270.2743
       },
       {
         "date": "2026-01-05",
@@ -2208,7 +2208,7 @@
       },
       {
         "date": "2026-01-08",
-        "close": 258.3368
+        "close": 258.3369
       },
       {
         "date": "2026-01-09",
@@ -2220,7 +2220,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.3414
+        "close": 260.3413
       },
       {
         "date": "2026-01-14",
@@ -2240,7 +2240,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 246.9777
+        "close": 246.9778
       },
       {
         "date": "2026-01-22",
@@ -2268,7 +2268,7 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7757
+        "close": 258.7756
       },
       {
         "date": "2026-02-02",
@@ -2444,7 +2444,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.3988
+        "close": 258.3989
       },
       {
         "date": "2026-04-07",
@@ -2456,7 +2456,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 260.0259
+        "close": 260.026
       },
       {
         "date": "2026-04-10",
@@ -2524,7 +2524,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 276.3369
+        "close": 276.3368
       },
       {
         "date": "2026-05-05",
@@ -2532,11 +2532,11 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.9978
+        "close": 286.9979
       },
       {
         "date": "2026-05-07",
-        "close": 286.9279
+        "close": 286.928
       },
       {
         "date": "2026-05-08",
@@ -4826,6 +4826,13 @@
     "Alphabet": [
       {
         "company": "Alphabet",
+        "title": "Waze and Garmin team up to boost driver awareness of cyclists.",
+        "url": "https://blog.google/waze/garmin-safety-cyclists/",
+        "published": "Tue, 10 Nov 2026 12:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "Developers can now build with Google Maps Platform in AI Studio.",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
         "published": "Mon, 09 Nov 2026 17:00:00 +0000",
@@ -4910,13 +4917,6 @@
       },
       {
         "company": "Alphabet",
-        "title": "We’re providing funding for organizations building AI for teachers.",
-        "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
-        "published": "Tue, 03 Nov 2026 14:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
         "title": "AI in the learning era",
         "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
         "published": "Tue, 03 Nov 2026 14:00:00 +0000",
@@ -4945,6 +4945,13 @@
       },
       {
         "company": "Alphabet",
+        "title": "We’re providing funding for organizations building AI for teachers.",
+        "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+        "published": "Tue, 03 Nov 2026 14:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "Advancing research and partnering with universities in Singapore",
         "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
         "published": "Tue, 03 Nov 2026 04:30:00 +0000",
@@ -4955,13 +4962,6 @@
         "title": "The latest AI news we announced in October 2026",
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
         "published": "Mon, 02 Nov 2026 17:45:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Google Messages, Phone by Google, and Google Contacts get new, updated icons.",
-        "url": "https://blog.google/products-and-platforms/products/messages/updated-icons-messages-phone-contacts/",
-        "published": "Mon, 02 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
@@ -5108,6 +5108,20 @@
       }
     ],
     "OpenAI": [
+      {
+        "company": "OpenAI",
+        "title": "Helping caregivers use AI in everyday life",
+        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+        "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Closing the AI guidance gap in education",
+        "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+        "published": "Tue, 10 Nov 2026 09:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
       {
         "company": "OpenAI",
         "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -5278,15 +5292,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Rewarding defenders with bigger bug bounties",
-        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+        "title": "Preparing our next security sprint to harden OpenAI",
+        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
         "published": "Mon, 02 Nov 2026 18:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Preparing our next security sprint to harden OpenAI",
-        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+        "title": "Rewarding defenders with bigger bug bounties",
+        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
         "published": "Mon, 02 Nov 2026 18:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5337,20 +5351,6 @@
         "title": "An updated Model Spec for more capable and beneficial AI",
         "url": "https://openai.com/index/updated-model-spec",
         "published": "Thu, 29 Oct 2026 17:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "How we detect frontier model misalignment",
-        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-        "published": "Thu, 29 Oct 2026 09:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "How Ropes & Gray is developing AI for transactional diligence",
-        "url": "https://openai.com/index/ropes-gray-ai-diligence",
-        "published": "Thu, 29 Oct 2026 07:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
