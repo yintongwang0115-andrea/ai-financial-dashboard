@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-10T18:45:43.794473+00:00",
+  "retrieved_at": "2026-11-11T00:56:17.394101+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -34,10 +34,6 @@
   },
   "stocks": {
     "NVIDIA": [
-      {
-        "date": "2025-11-10",
-        "close": 198.5743
-      },
       {
         "date": "2025-11-11",
         "close": 192.6983
@@ -108,7 +104,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9841
+        "close": 181.9842
       },
       {
         "date": "2025-12-08",
@@ -268,7 +264,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7834
+        "close": 173.7833
       },
       {
         "date": "2026-02-05",
@@ -276,7 +272,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9772
+        "close": 184.9771
       },
       {
         "date": "2026-02-09",
@@ -368,7 +364,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7223
+        "close": 182.7224
       },
       {
         "date": "2026-03-13",
@@ -392,7 +388,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3062
+        "close": 172.3061
       },
       {
         "date": "2026-03-23",
@@ -428,7 +424,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9855
+        "close": 176.9854
       },
       {
         "date": "2026-04-06",
@@ -1040,14 +1036,10 @@
       },
       {
         "date": "2026-11-10",
-        "close": 168.545
+        "close": 168.89
       }
     ],
     "Alphabet": [
-      {
-        "date": "2025-11-10",
-        "close": 289.3475
-      },
       {
         "date": "2025-11-11",
         "close": 290.5544
@@ -1066,7 +1058,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 284.2807
+        "close": 284.2806
       },
       {
         "date": "2025-11-18",
@@ -1074,7 +1066,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 292.0505
+        "close": 292.0504
       },
       {
         "date": "2025-11-20",
@@ -1194,7 +1186,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9255
+        "close": 315.9254
       },
       {
         "date": "2026-01-06",
@@ -1282,7 +1274,7 @@
       },
       {
         "date": "2026-02-05",
-        "close": 330.6068
+        "close": 330.6069
       },
       {
         "date": "2026-02-06",
@@ -1306,7 +1298,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1264
+        "close": 305.1265
       },
       {
         "date": "2026-02-17",
@@ -1338,11 +1330,11 @@
       },
       {
         "date": "2026-02-26",
-        "close": 306.7833
+        "close": 306.7832
       },
       {
         "date": "2026-02-27",
-        "close": 311.1547
+        "close": 311.1548
       },
       {
         "date": "2026-03-02",
@@ -1358,7 +1350,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2958
+        "close": 300.2959
       },
       {
         "date": "2026-03-06",
@@ -1438,7 +1430,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4035
+        "close": 295.4036
       },
       {
         "date": "2026-04-06",
@@ -1502,15 +1494,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.906
+        "close": 349.9059
       },
       {
         "date": "2026-04-28",
-        "close": 349.3467
+        "close": 349.3466
       },
       {
         "date": "2026-04-29",
-        "close": 349.5064
+        "close": 349.5065
       },
       {
         "date": "2026-04-30",
@@ -1586,7 +1578,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3483
+        "close": 388.3482
       },
       {
         "date": "2026-05-28",
@@ -2050,14 +2042,10 @@
       },
       {
         "date": "2026-11-10",
-        "close": 286.01
+        "close": 287.38
       }
     ],
     "Apple": [
-      {
-        "date": "2025-11-10",
-        "close": 268.6986
-      },
       {
         "date": "2025-11-11",
         "close": 274.5028
@@ -2068,7 +2056,7 @@
       },
       {
         "date": "2025-11-13",
-        "close": 272.2091
+        "close": 272.209
       },
       {
         "date": "2025-11-14",
@@ -2100,7 +2088,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.2182
+        "close": 276.2181
       },
       {
         "date": "2025-11-26",
@@ -2184,7 +2172,7 @@
       },
       {
         "date": "2025-12-26",
-        "close": 272.6578
+        "close": 272.6579
       },
       {
         "date": "2025-12-29",
@@ -2200,7 +2188,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2743
+        "close": 270.2744
       },
       {
         "date": "2026-01-05",
@@ -2276,11 +2264,11 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7756
+        "close": 258.7757
       },
       {
         "date": "2026-02-02",
-        "close": 269.2771
+        "close": 269.277
       },
       {
         "date": "2026-02-03",
@@ -3060,7 +3048,7 @@
       },
       {
         "date": "2026-11-10",
-        "close": 347.74
+        "close": 348.51
       }
     ]
   },
@@ -4696,6 +4684,13 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "Statement From the Independent Members of the NVIDIA Board",
+        "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
+        "published": "Tue, 10 Nov 2026 19:07:00 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
         "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
         "published": "Tue, 10 Nov 2026 16:00:03 GMT",
@@ -4826,16 +4821,30 @@
         "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
         "published": "Thu, 29 Oct 2026 13:00:16 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
-        "published": "Wed, 28 Oct 2026 21:00:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
     "Alphabet": [
+      {
+        "company": "Alphabet",
+        "title": "Gemini Intelligence: New features, on more devices",
+        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+        "published": "Tue, 10 Nov 2026 19:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+        "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
+        "published": "Tue, 10 Nov 2026 19:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Get step-by-step workout guidance on your Pixel Watch.",
+        "url": "https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/",
+        "published": "Tue, 10 Nov 2026 19:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
       {
         "company": "Alphabet",
         "title": "Introducing Google Fi’s new super network",
@@ -4953,27 +4962,6 @@
         "title": "Check out our free livestream during National Veterans Small Business Week.",
         "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
         "published": "Thu, 05 Nov 2026 14:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Watch Henry Cavill build a video game on his Googlebook",
-        "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/",
-        "published": "Wed, 04 Nov 2026 18:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "We're sharing our framework for building safer and more helpful AI for health.",
-        "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
-        "published": "Wed, 04 Nov 2026 14:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Take a closer look at art with the Courtauld",
-        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
-        "published": "Wed, 04 Nov 2026 10:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
@@ -5120,6 +5108,13 @@
       }
     ],
     "OpenAI": [
+      {
+        "company": "OpenAI",
+        "title": "Gilbert + Tobin rethinks the business of law with AI",
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+        "published": "Thu, 12 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
       {
         "company": "OpenAI",
         "title": "Helping caregivers use AI in everyday life",
@@ -5318,15 +5313,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Rewarding defenders with bigger bug bounties",
-        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+        "title": "Preparing our next security sprint to harden OpenAI",
+        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
         "published": "Mon, 02 Nov 2026 18:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Preparing our next security sprint to harden OpenAI",
-        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+        "title": "Rewarding defenders with bigger bug bounties",
+        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
         "published": "Mon, 02 Nov 2026 18:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5339,15 +5334,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-        "url": "https://openai.com/index/dan-driscoll-joins-openai",
+        "title": "Qodo builds context into AI code review with Codex",
+        "url": "https://openai.com/index/qodo-codex-plugin",
         "published": "Mon, 02 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Qodo builds context into AI code review with Codex",
-        "url": "https://openai.com/index/qodo-codex-plugin",
+        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "url": "https://openai.com/index/dan-driscoll-joins-openai",
         "published": "Mon, 02 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5356,13 +5351,6 @@
         "title": "Making it easier for websites to express AI training preferences",
         "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
         "published": "Fri, 30 Oct 2026 09:30:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Community safety report and new protections for teens",
-        "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-        "published": "Fri, 30 Oct 2026 09:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
