@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-11T07:05:50.210083+00:00",
+  "retrieved_at": "2026-11-11T13:00:40.049308+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -80,7 +80,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8292
+        "close": 179.8291
       },
       {
         "date": "2025-11-28",
@@ -104,7 +104,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9841
+        "close": 181.9842
       },
       {
         "date": "2025-12-08",
@@ -328,7 +328,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 176.7764
+        "close": 176.7763
       },
       {
         "date": "2026-03-02",
@@ -1058,7 +1058,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 284.2806
+        "close": 284.2807
       },
       {
         "date": "2025-11-18",
@@ -1066,7 +1066,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 292.0504
+        "close": 292.0505
       },
       {
         "date": "2025-11-20",
@@ -1166,11 +1166,11 @@
       },
       {
         "date": "2025-12-26",
-        "close": 312.9013
+        "close": 312.9014
       },
       {
         "date": "2025-12-29",
-        "close": 312.9512
+        "close": 312.9513
       },
       {
         "date": "2025-12-30",
@@ -1290,7 +1290,7 @@
       },
       {
         "date": "2026-02-11",
-        "close": 310.3563
+        "close": 310.3562
       },
       {
         "date": "2026-02-12",
@@ -1298,7 +1298,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1265
+        "close": 305.1264
       },
       {
         "date": "2026-02-17",
@@ -1334,7 +1334,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 311.1548
+        "close": 311.1547
       },
       {
         "date": "2026-03-02",
@@ -4826,6 +4826,13 @@
     "Alphabet": [
       {
         "company": "Alphabet",
+        "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+        "published": "Wed, 11 Nov 2026 09:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "Gemini Intelligence: New features, on more devices",
         "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
         "published": "Tue, 10 Nov 2026 19:00:00 +0000",
@@ -4955,13 +4962,6 @@
         "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
         "published": "Thu, 05 Nov 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Check out our free livestream during National Veterans Small Business Week.",
-        "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
-        "published": "Thu, 05 Nov 2026 14:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
