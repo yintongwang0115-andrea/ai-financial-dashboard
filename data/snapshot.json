@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-12T13:02:11.440748+00:00",
+  "retrieved_at": "2026-11-12T18:51:43.062723+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -76,7 +76,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8292
+        "close": 179.8291
       },
       {
         "date": "2025-11-28",
@@ -260,7 +260,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7833
+        "close": 173.7834
       },
       {
         "date": "2026-02-05",
@@ -268,7 +268,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9771
+        "close": 184.9772
       },
       {
         "date": "2026-02-09",
@@ -352,7 +352,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3387
+        "close": 184.3386
       },
       {
         "date": "2026-03-11",
@@ -360,7 +360,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7223
+        "close": 182.7224
       },
       {
         "date": "2026-03-13",
@@ -384,7 +384,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3062
+        "close": 172.3061
       },
       {
         "date": "2026-03-23",
@@ -420,7 +420,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9855
+        "close": 176.9854
       },
       {
         "date": "2026-04-06",
@@ -1037,6 +1037,10 @@
       {
         "date": "2026-11-11",
         "close": 173.73
+      },
+      {
+        "date": "2026-11-12",
+        "close": 164.51
       }
     ],
     "Alphabet": [
@@ -1050,7 +1054,7 @@
       },
       {
         "date": "2025-11-14",
-        "close": 275.693
+        "close": 275.6931
       },
       {
         "date": "2025-11-17",
@@ -1062,7 +1066,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 292.0504
+        "close": 292.0505
       },
       {
         "date": "2025-11-20",
@@ -1106,7 +1110,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 320.4367
+        "close": 320.4366
       },
       {
         "date": "2025-12-08",
@@ -1182,7 +1186,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9254
+        "close": 315.9255
       },
       {
         "date": "2026-01-06",
@@ -1270,7 +1274,7 @@
       },
       {
         "date": "2026-02-05",
-        "close": 330.6069
+        "close": 330.6068
       },
       {
         "date": "2026-02-06",
@@ -1294,7 +1298,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1265
+        "close": 305.1264
       },
       {
         "date": "2026-02-17",
@@ -1326,11 +1330,11 @@
       },
       {
         "date": "2026-02-26",
-        "close": 306.7832
+        "close": 306.7833
       },
       {
         "date": "2026-02-27",
-        "close": 311.1548
+        "close": 311.1547
       },
       {
         "date": "2026-03-02",
@@ -1346,7 +1350,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2959
+        "close": 300.2958
       },
       {
         "date": "2026-03-06",
@@ -1426,7 +1430,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4036
+        "close": 295.4035
       },
       {
         "date": "2026-04-06",
@@ -1490,15 +1494,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.9059
+        "close": 349.906
       },
       {
         "date": "2026-04-28",
-        "close": 349.3466
+        "close": 349.3467
       },
       {
         "date": "2026-04-29",
-        "close": 349.5065
+        "close": 349.5064
       },
       {
         "date": "2026-04-30",
@@ -1574,7 +1578,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3482
+        "close": 388.3483
       },
       {
         "date": "2026-05-28",
@@ -2043,6 +2047,10 @@
       {
         "date": "2026-11-11",
         "close": 293.45
+      },
+      {
+        "date": "2026-11-12",
+        "close": 300.665
       }
     ],
     "Apple": [
@@ -2060,7 +2068,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 266.734
+        "close": 266.7339
       },
       {
         "date": "2025-11-18",
@@ -2104,7 +2112,7 @@
       },
       {
         "date": "2025-12-03",
-        "close": 283.3786
+        "close": 283.3787
       },
       {
         "date": "2025-12-04",
@@ -2152,7 +2160,7 @@
       },
       {
         "date": "2025-12-19",
-        "close": 272.9272
+        "close": 272.9271
       },
       {
         "date": "2025-12-22",
@@ -2184,7 +2192,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2744
+        "close": 270.2743
       },
       {
         "date": "2026-01-05",
@@ -2260,7 +2268,7 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7757
+        "close": 258.7756
       },
       {
         "date": "2026-02-02",
@@ -3049,6 +3057,10 @@
       {
         "date": "2026-11-11",
         "close": 355.63
+      },
+      {
+        "date": "2026-11-12",
+        "close": 355.91
       }
     ]
   },
@@ -4684,6 +4696,20 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+        "published": "Thu, 12 Nov 2026 14:00:59 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "NVIDIA Announces CEO Transition",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+        "published": "Thu, 12 Nov 2026 13:48:00 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
         "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
         "published": "Wed, 11 Nov 2026 03:00:20 GMT",
@@ -4807,23 +4833,72 @@
         "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
         "published": "Tue, 03 Nov 2026 16:00:45 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-        "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-        "published": "Tue, 03 Nov 2026 07:00:12 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-        "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-        "published": "Fri, 30 Oct 2026 15:00:10 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
     "Alphabet": [
+      {
+        "company": "Alphabet",
+        "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+        "published": "Thu, 12 Nov 2026 18:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+        "published": "Thu, 12 Nov 2026 18:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Introducing Gemini 4 Hydrogen",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+        "published": "Thu, 12 Nov 2026 18:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Scientists are using Google AI to help restore giant kelp forests.",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
+        "published": "Thu, 12 Nov 2026 17:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Meet the 2026 Google PhD Fellows",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
+        "published": "Thu, 12 Nov 2026 17:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "We're launching a $10 million Energy Impact Program in West Virginia.",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/",
+        "published": "Thu, 12 Nov 2026 17:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Get quick answers from Gemini on any website.",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+        "published": "Thu, 12 Nov 2026 17:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Designing for privacy on intelligent eyewear",
+        "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
+        "published": "Thu, 12 Nov 2026 14:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "See our intelligent eyewear lineup and pre-order your pair",
+        "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+        "published": "Thu, 12 Nov 2026 14:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
       {
         "company": "Alphabet",
         "title": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
@@ -4854,6 +4929,13 @@
       },
       {
         "company": "Alphabet",
+        "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
+        "published": "Wed, 11 Nov 2026 17:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "Google’s ongoing commitment to the veteran community",
         "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/",
         "published": "Wed, 11 Nov 2026 17:00:00 +0000",
@@ -4863,13 +4945,6 @@
         "company": "Alphabet",
         "title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
         "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/",
-        "published": "Wed, 11 Nov 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Get certified as a Google Cloud Professional Agentic Architect.",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
         "published": "Wed, 11 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4899,69 +4974,6 @@
         "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
         "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
         "published": "Tue, 10 Nov 2026 19:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Get step-by-step workout guidance on your Pixel Watch.",
-        "url": "https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/",
-        "published": "Tue, 10 Nov 2026 19:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Introducing Google Fi’s new super network",
-        "url": "https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/",
-        "published": "Tue, 10 Nov 2026 17:20:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Gemini 4 Carbon is now available for developers.",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
-        "published": "Tue, 10 Nov 2026 16:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Introducing the Multimodal Knowledge Agent benchmark",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
-        "published": "Tue, 10 Nov 2026 16:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Gemini 4 Carbon is now available",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-        "published": "Tue, 10 Nov 2026 16:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Introducing 3 new domains: .eat, .fly, and .here",
-        "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
-        "published": "Tue, 10 Nov 2026 16:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-        "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-        "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "40 years of American culinary history with the James Beard Foundation",
-        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/",
-        "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Google Cloud launches Gemini for healthcare.",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-        "published": "Tue, 10 Nov 2026 13:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
