@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-12T07:09:45.369587+00:00",
+  "retrieved_at": "2026-11-12T13:02:11.440748+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -2060,7 +2060,7 @@
       },
       {
         "date": "2025-11-17",
-        "close": 266.7339
+        "close": 266.734
       },
       {
         "date": "2025-11-18",
@@ -2104,7 +2104,7 @@
       },
       {
         "date": "2025-12-03",
-        "close": 283.3787
+        "close": 283.3786
       },
       {
         "date": "2025-12-04",
@@ -2152,7 +2152,7 @@
       },
       {
         "date": "2025-12-19",
-        "close": 272.9271
+        "close": 272.9272
       },
       {
         "date": "2025-12-22",
@@ -2184,7 +2184,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.2743
+        "close": 270.2744
       },
       {
         "date": "2026-01-05",
@@ -2260,7 +2260,7 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.7756
+        "close": 258.7757
       },
       {
         "date": "2026-02-02",
@@ -4826,6 +4826,13 @@
     "Alphabet": [
       {
         "company": "Alphabet",
+        "title": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
+        "url": "https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/",
+        "published": "Thu, 12 Nov 2026 13:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
         "published": "Wed, 11 Nov 2026 18:00:00 +0000",
@@ -4917,8 +4924,8 @@
       },
       {
         "company": "Alphabet",
-        "title": "Introducing 3 new domains: .eat, .fly, and .here",
-        "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
+        "title": "Introducing the Multimodal Knowledge Agent benchmark",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
         "published": "Tue, 10 Nov 2026 16:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4931,8 +4938,8 @@
       },
       {
         "company": "Alphabet",
-        "title": "Introducing the Multimodal Knowledge Agent benchmark",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+        "title": "Introducing 3 new domains: .eat, .fly, and .here",
+        "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
         "published": "Tue, 10 Nov 2026 16:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4955,13 +4962,6 @@
         "title": "Google Cloud launches Gemini for healthcare.",
         "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
         "published": "Tue, 10 Nov 2026 13:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Waze and Garmin team up to boost driver awareness of cyclists.",
-        "url": "https://blog.google/waze/garmin-safety-cyclists/",
-        "published": "Tue, 10 Nov 2026 12:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
@@ -5108,6 +5108,20 @@
       }
     ],
     "OpenAI": [
+      {
+        "company": "OpenAI",
+        "title": "Holiday Extras is rethinking what it can build with Codex",
+        "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+        "published": "Thu, 12 Nov 2026 09:30:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Supporting research on AI and children’s safety",
+        "url": "https://openai.com/index/children-first-declaration",
+        "published": "Thu, 12 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
       {
         "company": "OpenAI",
         "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -5337,20 +5351,6 @@
         "title": "Introducing the Grid Protectors Program",
         "url": "https://openai.com/index/grid-protectors-program",
         "published": "Mon, 02 Nov 2026 15:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Rewarding defenders with bigger bug bounties",
-        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-        "published": "Mon, 02 Nov 2026 18:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Preparing our next security sprint to harden OpenAI",
-        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-        "published": "Mon, 02 Nov 2026 18:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
