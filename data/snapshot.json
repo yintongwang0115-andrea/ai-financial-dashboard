@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-13T13:00:15.229734+00:00",
+  "retrieved_at": "2026-11-13T18:48:59.643759+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -96,7 +96,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9842
+        "close": 181.9841
       },
       {
         "date": "2025-12-08",
@@ -256,7 +256,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7833
+        "close": 173.7834
       },
       {
         "date": "2026-02-05",
@@ -264,7 +264,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9771
+        "close": 184.9772
       },
       {
         "date": "2026-02-09",
@@ -1037,6 +1037,10 @@
       {
         "date": "2026-11-12",
         "close": 166.19
+      },
+      {
+        "date": "2026-11-13",
+        "close": 161.97
       }
     ],
     "Alphabet": [
@@ -1102,7 +1106,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 320.4367
+        "close": 320.4366
       },
       {
         "date": "2025-12-08",
@@ -1158,11 +1162,11 @@
       },
       {
         "date": "2025-12-26",
-        "close": 312.9014
+        "close": 312.9013
       },
       {
         "date": "2025-12-29",
-        "close": 312.9513
+        "close": 312.9512
       },
       {
         "date": "2025-12-30",
@@ -1222,7 +1226,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 327.7425
+        "close": 327.7424
       },
       {
         "date": "2026-01-22",
@@ -1282,7 +1286,7 @@
       },
       {
         "date": "2026-02-11",
-        "close": 310.3562
+        "close": 310.3563
       },
       {
         "date": "2026-02-12",
@@ -1310,7 +1314,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8852
+        "close": 310.8853
       },
       {
         "date": "2026-02-24",
@@ -1422,7 +1426,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4036
+        "close": 295.4035
       },
       {
         "date": "2026-04-06",
@@ -1486,15 +1490,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.9059
+        "close": 349.906
       },
       {
         "date": "2026-04-28",
-        "close": 349.3466
+        "close": 349.3467
       },
       {
         "date": "2026-04-29",
-        "close": 349.5065
+        "close": 349.5064
       },
       {
         "date": "2026-04-30",
@@ -1570,7 +1574,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3482
+        "close": 388.3483
       },
       {
         "date": "2026-05-28",
@@ -2043,6 +2047,10 @@
       {
         "date": "2026-11-12",
         "close": 298.7
+      },
+      {
+        "date": "2026-11-13",
+        "close": 295.75
       }
     ],
     "Apple": [
@@ -2052,11 +2060,11 @@
       },
       {
         "date": "2025-11-14",
-        "close": 271.4642
+        "close": 271.4643
       },
       {
         "date": "2025-11-17",
-        "close": 266.5314
+        "close": 266.5315
       },
       {
         "date": "2025-11-18",
@@ -2072,7 +2080,7 @@
       },
       {
         "date": "2025-11-21",
-        "close": 270.5474
+        "close": 270.5475
       },
       {
         "date": "2025-11-24",
@@ -2080,7 +2088,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.0085
+        "close": 276.0084
       },
       {
         "date": "2025-11-26",
@@ -2092,7 +2100,7 @@
       },
       {
         "date": "2025-12-01",
-        "close": 282.1172
+        "close": 282.1171
       },
       {
         "date": "2025-12-02",
@@ -2108,7 +2116,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 277.8121
+        "close": 277.8122
       },
       {
         "date": "2025-12-08",
@@ -2120,11 +2128,11 @@
       },
       {
         "date": "2025-12-10",
-        "close": 277.8121
+        "close": 277.8122
       },
       {
         "date": "2025-12-11",
-        "close": 277.0648
+        "close": 277.0647
       },
       {
         "date": "2025-12-12",
@@ -2132,7 +2140,7 @@
       },
       {
         "date": "2025-12-15",
-        "close": 273.1583
+        "close": 273.1584
       },
       {
         "date": "2025-12-16",
@@ -2144,7 +2152,7 @@
       },
       {
         "date": "2025-12-18",
-        "close": 271.2451
+        "close": 271.245
       },
       {
         "date": "2025-12-19",
@@ -2172,15 +2180,15 @@
       },
       {
         "date": "2025-12-30",
-        "close": 272.132
+        "close": 272.1319
       },
       {
         "date": "2025-12-31",
-        "close": 270.9162
+        "close": 270.9161
       },
       {
         "date": "2026-01-02",
-        "close": 270.0691
+        "close": 270.0692
       },
       {
         "date": "2026-01-05",
@@ -2244,7 +2252,7 @@
       },
       {
         "date": "2026-01-27",
-        "close": 257.3733
+        "close": 257.3734
       },
       {
         "date": "2026-01-28",
@@ -2368,7 +2376,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 255.1105
+        "close": 255.1106
       },
       {
         "date": "2026-03-13",
@@ -2420,7 +2428,7 @@
       },
       {
         "date": "2026-03-31",
-        "close": 253.1455
+        "close": 253.1456
       },
       {
         "date": "2026-04-01",
@@ -2432,7 +2440,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.2026
+        "close": 258.2027
       },
       {
         "date": "2026-04-07",
@@ -2444,7 +2452,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 259.8285
+        "close": 259.8286
       },
       {
         "date": "2026-04-10",
@@ -2456,7 +2464,7 @@
       },
       {
         "date": "2026-04-14",
-        "close": 258.1727
+        "close": 258.1728
       },
       {
         "date": "2026-04-15",
@@ -2464,7 +2472,7 @@
       },
       {
         "date": "2026-04-16",
-        "close": 262.7311
+        "close": 262.7312
       },
       {
         "date": "2026-04-17",
@@ -2508,7 +2516,7 @@
       },
       {
         "date": "2026-05-01",
-        "close": 279.4286
+        "close": 279.4287
       },
       {
         "date": "2026-05-04",
@@ -2520,7 +2528,7 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.7799
+        "close": 286.78
       },
       {
         "date": "2026-05-07",
@@ -3049,6 +3057,10 @@
       {
         "date": "2026-11-12",
         "close": 354.88
+      },
+      {
+        "date": "2026-11-13",
+        "close": 358.16
       }
     ]
   },
@@ -4684,6 +4696,13 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+        "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+        "published": "Fri, 13 Nov 2026 13:00:42 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
         "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
         "published": "Thu, 12 Nov 2026 14:00:59 GMT",
@@ -4814,16 +4833,16 @@
         "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
         "published": "Thu, 05 Nov 2026 14:00:34 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-        "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-        "published": "Tue, 03 Nov 2026 16:00:45 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
     "Alphabet": [
+      {
+        "company": "Alphabet",
+        "title": "Connect Google Wallet to Gemini for personal finance insights",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+        "published": "Fri, 13 Nov 2026 17:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
       {
         "company": "Alphabet",
         "title": "5 new Google Flow Tools designed by visual artists",
@@ -4956,16 +4975,16 @@
         "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
         "published": "Wed, 11 Nov 2026 09:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
-        "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
-        "published": "Tue, 10 Nov 2026 19:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
       }
     ],
     "Apple": [
+      {
+        "company": "Apple",
+        "title": "Apple HomeView available today",
+        "url": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/",
+        "published": "2026-11-13T13:59:07.218Z",
+        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
+      },
       {
         "company": "Apple",
         "title": "Apple TV introduces new Sign Language interpretation feature",
@@ -5098,16 +5117,16 @@
         "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
         "published": "2026-10-13T12:59:16.617Z",
         "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
-      },
-      {
-        "company": "Apple",
-        "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
-        "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-        "published": "2026-10-13T12:58:10.680Z",
-        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
       }
     ],
     "OpenAI": [
+      {
+        "company": "OpenAI",
+        "title": "Introducing ChatGPT Wallet",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet",
+        "published": "Fri, 13 Nov 2026 15:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
       {
         "company": "OpenAI",
         "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
@@ -5344,13 +5363,6 @@
         "title": "Heimstaden is changing residential real estate management with AI",
         "url": "https://openai.com/index/heimstaden",
         "published": "Tue, 03 Nov 2026 08:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-        "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-        "published": "Tue, 03 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
