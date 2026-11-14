@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-13T18:48:59.643759+00:00",
+  "retrieved_at": "2026-11-14T00:54:10.787377+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -34,10 +34,6 @@
   },
   "stocks": {
     "NVIDIA": [
-      {
-        "date": "2025-11-13",
-        "close": 186.4134
-      },
       {
         "date": "2025-11-14",
         "close": 189.7155
@@ -96,7 +92,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9841
+        "close": 181.9842
       },
       {
         "date": "2025-12-08",
@@ -256,7 +252,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7834
+        "close": 173.7833
       },
       {
         "date": "2026-02-05",
@@ -264,7 +260,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9772
+        "close": 184.9771
       },
       {
         "date": "2026-02-09",
@@ -1040,14 +1036,10 @@
       },
       {
         "date": "2026-11-13",
-        "close": 161.97
+        "close": 162.85
       }
     ],
     "Alphabet": [
-      {
-        "date": "2025-11-13",
-        "close": 277.8474
-      },
       {
         "date": "2025-11-14",
         "close": 275.693
@@ -1162,11 +1154,11 @@
       },
       {
         "date": "2025-12-26",
-        "close": 312.9013
+        "close": 312.9014
       },
       {
         "date": "2025-12-29",
-        "close": 312.9512
+        "close": 312.9513
       },
       {
         "date": "2025-12-30",
@@ -1226,7 +1218,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 327.7424
+        "close": 327.7425
       },
       {
         "date": "2026-01-22",
@@ -1286,7 +1278,7 @@
       },
       {
         "date": "2026-02-11",
-        "close": 310.3563
+        "close": 310.3562
       },
       {
         "date": "2026-02-12",
@@ -1314,7 +1306,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8853
+        "close": 310.8852
       },
       {
         "date": "2026-02-24",
@@ -1426,7 +1418,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4035
+        "close": 295.4036
       },
       {
         "date": "2026-04-06",
@@ -1490,15 +1482,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.906
+        "close": 349.9059
       },
       {
         "date": "2026-04-28",
-        "close": 349.3467
+        "close": 349.3466
       },
       {
         "date": "2026-04-29",
-        "close": 349.5064
+        "close": 349.5065
       },
       {
         "date": "2026-04-30",
@@ -1574,7 +1566,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3483
+        "close": 388.3482
       },
       {
         "date": "2026-05-28",
@@ -2050,21 +2042,17 @@
       },
       {
         "date": "2026-11-13",
-        "close": 295.75
+        "close": 295.77
       }
     ],
     "Apple": [
-      {
-        "date": "2025-11-13",
-        "close": 272.0024
-      },
       {
         "date": "2025-11-14",
         "close": 271.4643
       },
       {
         "date": "2025-11-17",
-        "close": 266.5315
+        "close": 266.5314
       },
       {
         "date": "2025-11-18",
@@ -2080,7 +2068,7 @@
       },
       {
         "date": "2025-11-21",
-        "close": 270.5475
+        "close": 270.5474
       },
       {
         "date": "2025-11-24",
@@ -2088,7 +2076,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.0084
+        "close": 276.0085
       },
       {
         "date": "2025-11-26",
@@ -2100,7 +2088,7 @@
       },
       {
         "date": "2025-12-01",
-        "close": 282.1171
+        "close": 282.1172
       },
       {
         "date": "2025-12-02",
@@ -2120,7 +2108,7 @@
       },
       {
         "date": "2025-12-08",
-        "close": 276.9252
+        "close": 276.9253
       },
       {
         "date": "2025-12-09",
@@ -2140,7 +2128,7 @@
       },
       {
         "date": "2025-12-15",
-        "close": 273.1584
+        "close": 273.1583
       },
       {
         "date": "2025-12-16",
@@ -2184,7 +2172,7 @@
       },
       {
         "date": "2025-12-31",
-        "close": 270.9161
+        "close": 270.9162
       },
       {
         "date": "2026-01-02",
@@ -2224,7 +2212,7 @@
       },
       {
         "date": "2026-01-15",
-        "close": 257.3135
+        "close": 257.3136
       },
       {
         "date": "2026-01-16",
@@ -2252,7 +2240,7 @@
       },
       {
         "date": "2026-01-27",
-        "close": 257.3734
+        "close": 257.3733
       },
       {
         "date": "2026-01-28",
@@ -2376,7 +2364,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 255.1106
+        "close": 255.1105
       },
       {
         "date": "2026-03-13",
@@ -2480,7 +2468,7 @@
       },
       {
         "date": "2026-04-20",
-        "close": 272.3566
+        "close": 272.3567
       },
       {
         "date": "2026-04-21",
@@ -2516,7 +2504,7 @@
       },
       {
         "date": "2026-05-01",
-        "close": 279.4287
+        "close": 279.4286
       },
       {
         "date": "2026-05-04",
@@ -2528,7 +2516,7 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.78
+        "close": 286.7799
       },
       {
         "date": "2026-05-07",
@@ -3060,7 +3048,7 @@
       },
       {
         "date": "2026-11-13",
-        "close": 358.16
+        "close": 356.27
       }
     ]
   },
@@ -4838,6 +4826,13 @@
     "Alphabet": [
       {
         "company": "Alphabet",
+        "title": "Claim your Google Cloud Credits in Google AI Studio",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+        "published": "Fri, 13 Nov 2026 20:30:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "Connect Google Wallet to Gemini for personal finance insights",
         "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
         "published": "Fri, 13 Nov 2026 17:00:00 +0000",
@@ -4936,8 +4931,8 @@
       },
       {
         "company": "Alphabet",
-        "title": "Talk it through with Gemini, now on Apple CarPlay",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+        "title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/",
         "published": "Wed, 11 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4950,15 +4945,15 @@
       },
       {
         "company": "Alphabet",
-        "title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/",
+        "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
         "published": "Wed, 11 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
       {
         "company": "Alphabet",
-        "title": "Get certified as a Google Cloud Professional Agentic Architect.",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
+        "title": "Talk it through with Gemini, now on Apple CarPlay",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
         "published": "Wed, 11 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4967,13 +4962,6 @@
         "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
         "published": "Wed, 11 Nov 2026 16:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-        "published": "Wed, 11 Nov 2026 09:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
@@ -5125,6 +5113,13 @@
         "title": "Introducing ChatGPT Wallet",
         "url": "https://openai.com/index/introducing-chatgpt-wallet",
         "published": "Fri, 13 Nov 2026 15:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "url": "https://openai.com/business/customer-stories/shield",
+        "published": "Fri, 13 Nov 2026 08:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
@@ -5355,13 +5350,6 @@
         "company": "OpenAI",
         "title": "How Cisco defends at machine speed with OpenAI",
         "url": "https://openai.com/index/cisco-cyber",
-        "published": "Tue, 03 Nov 2026 08:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Heimstaden is changing residential real estate management with AI",
-        "url": "https://openai.com/index/heimstaden",
         "published": "Tue, 03 Nov 2026 08:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
