@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-16T01:16:22.268000+00:00",
+  "retrieved_at": "2026-11-16T08:39:04.490296+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -52,7 +52,7 @@
       },
       {
         "date": "2025-11-20",
-        "close": 180.2083
+        "close": 180.2082
       },
       {
         "date": "2025-11-21",
@@ -68,7 +68,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8291
+        "close": 179.8292
       },
       {
         "date": "2025-11-28",
@@ -92,7 +92,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9841
+        "close": 181.9842
       },
       {
         "date": "2025-12-08",
@@ -196,7 +196,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7125
+        "close": 182.7124
       },
       {
         "date": "2026-01-15",
@@ -252,7 +252,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7834
+        "close": 173.7833
       },
       {
         "date": "2026-02-05",
@@ -260,7 +260,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9772
+        "close": 184.9771
       },
       {
         "date": "2026-02-09",
@@ -268,7 +268,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0999
+        "close": 188.0998
       },
       {
         "date": "2026-02-11",
@@ -344,7 +344,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3386
+        "close": 184.3387
       },
       {
         "date": "2026-03-11",
@@ -1142,7 +1142,7 @@
       },
       {
         "date": "2025-12-22",
-        "close": 309.1785
+        "close": 309.1786
       },
       {
         "date": "2025-12-23",
@@ -1218,7 +1218,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 327.7425
+        "close": 327.7424
       },
       {
         "date": "2026-01-22",
@@ -1286,7 +1286,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1265
+        "close": 305.1264
       },
       {
         "date": "2026-02-17",
@@ -1322,7 +1322,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 311.1548
+        "close": 311.1547
       },
       {
         "date": "2026-03-02",
@@ -1334,11 +1334,11 @@
       },
       {
         "date": "2026-03-04",
-        "close": 302.5414
+        "close": 302.5415
       },
       {
         "date": "2026-03-05",
-        "close": 300.2958
+        "close": 300.2959
       },
       {
         "date": "2026-03-06",
@@ -2060,7 +2060,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 267.6277
+        "close": 267.6276
       },
       {
         "date": "2025-11-20",
@@ -2120,7 +2120,7 @@
       },
       {
         "date": "2025-12-11",
-        "close": 277.0648
+        "close": 277.0647
       },
       {
         "date": "2025-12-12",
@@ -2152,7 +2152,7 @@
       },
       {
         "date": "2025-12-23",
-        "close": 271.4145
+        "close": 271.4144
       },
       {
         "date": "2025-12-24",
@@ -2184,7 +2184,7 @@
       },
       {
         "date": "2026-01-06",
-        "close": 261.4492
+        "close": 261.4491
       },
       {
         "date": "2026-01-07",
@@ -2260,7 +2260,7 @@
       },
       {
         "date": "2026-02-03",
-        "close": 268.5445
+        "close": 268.5444
       },
       {
         "date": "2026-02-04",
@@ -2300,7 +2300,7 @@
       },
       {
         "date": "2026-02-18",
-        "close": 263.6787
+        "close": 263.6788
       },
       {
         "date": "2026-02-19",
@@ -2308,7 +2308,7 @@
       },
       {
         "date": "2026-02-20",
-        "close": 263.9082
+        "close": 263.9081
       },
       {
         "date": "2026-02-23",
@@ -2412,7 +2412,7 @@
       },
       {
         "date": "2026-03-30",
-        "close": 246.0038
+        "close": 246.0037
       },
       {
         "date": "2026-03-31",
@@ -2440,7 +2440,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 259.8285
+        "close": 259.8286
       },
       {
         "date": "2026-04-10",
@@ -2456,11 +2456,11 @@
       },
       {
         "date": "2026-04-15",
-        "close": 265.7535
+        "close": 265.7534
       },
       {
         "date": "2026-04-16",
-        "close": 262.7311
+        "close": 262.7312
       },
       {
         "date": "2026-04-17",
@@ -2468,7 +2468,7 @@
       },
       {
         "date": "2026-04-20",
-        "close": 272.3566
+        "close": 272.3567
       },
       {
         "date": "2026-04-21",
@@ -2488,7 +2488,7 @@
       },
       {
         "date": "2026-04-27",
-        "close": 266.9304
+        "close": 266.9305
       },
       {
         "date": "2026-04-28",
@@ -2496,7 +2496,7 @@
       },
       {
         "date": "2026-04-29",
-        "close": 269.484
+        "close": 269.4839
       },
       {
         "date": "2026-04-30",
@@ -2528,7 +2528,7 @@
       },
       {
         "date": "2026-05-11",
-        "close": 292.2057
+        "close": 292.2058
       },
       {
         "date": "2026-05-12",
@@ -2628,7 +2628,7 @@
       },
       {
         "date": "2026-06-16",
-        "close": 298.7551
+        "close": 298.7552
       },
       {
         "date": "2026-06-17",
@@ -2636,7 +2636,7 @@
       },
       {
         "date": "2026-06-18",
-        "close": 297.5272
+        "close": 297.5271
       },
       {
         "date": "2026-06-22",
@@ -2696,7 +2696,7 @@
       },
       {
         "date": "2026-07-13",
-        "close": 316.7959
+        "close": 316.7958
       },
       {
         "date": "2026-07-14",
@@ -2740,7 +2740,7 @@
       },
       {
         "date": "2026-07-28",
-        "close": 339.529
+        "close": 339.5289
       },
       {
         "date": "2026-07-29",
@@ -4826,6 +4826,27 @@
     "Alphabet": [
       {
         "company": "Alphabet",
+        "title": "What teenagers really think about online safety and AI",
+        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
+        "published": "Mon, 16 Nov 2026 08:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Helping teens navigate online news and information",
+        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/helping-teens-navigate-online-news-and-information/",
+        "published": "Mon, 16 Nov 2026 08:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Listening to teens on online safety",
+        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/listening-to-teens-on-online-safety/",
+        "published": "Mon, 16 Nov 2026 08:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "Claim your Google Cloud Credits in Google AI Studio",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
         "published": "Fri, 13 Nov 2026 20:30:00 +0000",
@@ -4917,15 +4938,15 @@
       },
       {
         "company": "Alphabet",
-        "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+        "title": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
+        "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/",
         "published": "Wed, 11 Nov 2026 18:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
       {
         "company": "Alphabet",
-        "title": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
-        "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/",
+        "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
         "published": "Wed, 11 Nov 2026 18:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4942,30 +4963,16 @@
         "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/",
         "published": "Wed, 11 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Get certified as a Google Cloud Professional Agentic Architect.",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
-        "published": "Wed, 11 Nov 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Talk it through with Gemini, now on Apple CarPlay",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
-        "published": "Wed, 11 Nov 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-        "published": "Wed, 11 Nov 2026 16:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
       }
     ],
     "Apple": [
+      {
+        "company": "Apple",
+        "title": "Apple launches research study to explore the use of AI for health",
+        "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+        "published": "2026-11-16T01:18:33.934Z",
+        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
+      },
       {
         "company": "Apple",
         "title": "Apple HomeView available today",
@@ -5097,13 +5104,6 @@
         "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
         "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
         "published": "2026-10-14T17:39:29.065Z",
-        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
-      },
-      {
-        "company": "Apple",
-        "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
-        "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-        "published": "2026-10-13T12:59:16.617Z",
         "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
       }
     ],
