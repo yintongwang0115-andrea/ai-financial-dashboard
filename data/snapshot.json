@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-16T14:58:57.757521+00:00",
+  "retrieved_at": "2026-11-16T18:51:44.000202+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -48,7 +48,7 @@
       },
       {
         "date": "2025-11-20",
-        "close": 180.2082
+        "close": 180.2083
       },
       {
         "date": "2025-11-21",
@@ -64,7 +64,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8292
+        "close": 179.8291
       },
       {
         "date": "2025-11-28",
@@ -248,7 +248,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7833
+        "close": 173.7834
       },
       {
         "date": "2026-02-05",
@@ -256,7 +256,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9771
+        "close": 184.9772
       },
       {
         "date": "2026-02-09",
@@ -340,7 +340,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3387
+        "close": 184.3386
       },
       {
         "date": "2026-03-11",
@@ -1036,13 +1036,13 @@
       },
       {
         "date": "2026-11-16",
-        "close": 160.9
+        "close": 156.3402
       }
     ],
     "Alphabet": [
       {
         "date": "2025-11-17",
-        "close": 284.2806
+        "close": 284.2807
       },
       {
         "date": "2025-11-18",
@@ -1138,7 +1138,7 @@
       },
       {
         "date": "2025-12-22",
-        "close": 309.1786
+        "close": 309.1785
       },
       {
         "date": "2025-12-23",
@@ -1170,7 +1170,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9255
+        "close": 315.9254
       },
       {
         "date": "2026-01-06",
@@ -1234,7 +1234,7 @@
       },
       {
         "date": "2026-01-28",
-        "close": 335.3577
+        "close": 335.3576
       },
       {
         "date": "2026-01-29",
@@ -1282,7 +1282,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1264
+        "close": 305.1265
       },
       {
         "date": "2026-02-17",
@@ -1302,7 +1302,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8852
+        "close": 310.8853
       },
       {
         "date": "2026-02-24",
@@ -1318,7 +1318,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 311.1547
+        "close": 311.1548
       },
       {
         "date": "2026-03-02",
@@ -1330,7 +1330,7 @@
       },
       {
         "date": "2026-03-04",
-        "close": 302.5415
+        "close": 302.5414
       },
       {
         "date": "2026-03-05",
@@ -1414,7 +1414,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4036
+        "close": 295.4035
       },
       {
         "date": "2026-04-06",
@@ -1478,15 +1478,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.9059
+        "close": 349.906
       },
       {
         "date": "2026-04-28",
-        "close": 349.3466
+        "close": 349.3467
       },
       {
         "date": "2026-04-29",
-        "close": 349.5065
+        "close": 349.5064
       },
       {
         "date": "2026-04-30",
@@ -1562,7 +1562,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3482
+        "close": 388.3483
       },
       {
         "date": "2026-05-28",
@@ -2042,7 +2042,7 @@
       },
       {
         "date": "2026-11-16",
-        "close": 288.97
+        "close": 286.17
       }
     ],
     "Apple": [
@@ -2056,7 +2056,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 267.6277
+        "close": 267.6276
       },
       {
         "date": "2025-11-20",
@@ -2064,7 +2064,7 @@
       },
       {
         "date": "2025-11-21",
-        "close": 270.5474
+        "close": 270.5475
       },
       {
         "date": "2025-11-24",
@@ -2076,7 +2076,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 276.5865
+        "close": 276.5864
       },
       {
         "date": "2025-11-28",
@@ -2084,7 +2084,7 @@
       },
       {
         "date": "2025-12-01",
-        "close": 282.1172
+        "close": 282.1171
       },
       {
         "date": "2025-12-02",
@@ -2100,11 +2100,11 @@
       },
       {
         "date": "2025-12-05",
-        "close": 277.8121
+        "close": 277.8122
       },
       {
         "date": "2025-12-08",
-        "close": 276.9252
+        "close": 276.9253
       },
       {
         "date": "2025-12-09",
@@ -2112,15 +2112,15 @@
       },
       {
         "date": "2025-12-10",
-        "close": 277.8121
+        "close": 277.8122
       },
       {
         "date": "2025-12-11",
-        "close": 277.0648
+        "close": 277.0647
       },
       {
         "date": "2025-12-12",
-        "close": 277.3138
+        "close": 277.3139
       },
       {
         "date": "2025-12-15",
@@ -2136,7 +2136,7 @@
       },
       {
         "date": "2025-12-18",
-        "close": 271.2451
+        "close": 271.245
       },
       {
         "date": "2025-12-19",
@@ -2156,7 +2156,7 @@
       },
       {
         "date": "2025-12-26",
-        "close": 272.4509
+        "close": 272.4508
       },
       {
         "date": "2025-12-29",
@@ -2180,7 +2180,7 @@
       },
       {
         "date": "2026-01-06",
-        "close": 261.4492
+        "close": 261.4491
       },
       {
         "date": "2026-01-07",
@@ -2236,7 +2236,7 @@
       },
       {
         "date": "2026-01-27",
-        "close": 257.3734
+        "close": 257.3733
       },
       {
         "date": "2026-01-28",
@@ -2412,7 +2412,7 @@
       },
       {
         "date": "2026-03-31",
-        "close": 253.1455
+        "close": 253.1456
       },
       {
         "date": "2026-04-01",
@@ -2424,7 +2424,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.2026
+        "close": 258.2027
       },
       {
         "date": "2026-04-07",
@@ -2436,7 +2436,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 259.8285
+        "close": 259.8286
       },
       {
         "date": "2026-04-10",
@@ -2448,7 +2448,7 @@
       },
       {
         "date": "2026-04-14",
-        "close": 258.1727
+        "close": 258.1728
       },
       {
         "date": "2026-04-15",
@@ -2456,7 +2456,7 @@
       },
       {
         "date": "2026-04-16",
-        "close": 262.7311
+        "close": 262.7312
       },
       {
         "date": "2026-04-17",
@@ -2464,7 +2464,7 @@
       },
       {
         "date": "2026-04-20",
-        "close": 272.3566
+        "close": 272.3567
       },
       {
         "date": "2026-04-21",
@@ -3048,7 +3048,7 @@
       },
       {
         "date": "2026-11-16",
-        "close": 354.3429
+        "close": 353.15
       }
     ]
   },
@@ -4684,6 +4684,69 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+        "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+        "published": "Mon, 16 Nov 2026 16:00:51 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+        "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+        "published": "Mon, 16 Nov 2026 16:00:47 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+        "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+        "published": "Mon, 16 Nov 2026 16:00:25 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+        "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+        "published": "Mon, 16 Nov 2026 16:00:16 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+        "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
+        "published": "Mon, 16 Nov 2026 16:00:11 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+        "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+        "published": "Mon, 16 Nov 2026 16:00:01 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing",
+        "published": "Mon, 16 Nov 2026 16:00:00 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "NVIDIA Expands Vera CPU Platform to Accelerate Scientific Discovery",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery",
+        "published": "Mon, 16 Nov 2026 16:00:00 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents",
+        "published": "Mon, 16 Nov 2026 16:00:00 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
         "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
         "published": "Mon, 16 Nov 2026 00:00:28 GMT",
@@ -4758,76 +4821,41 @@
         "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
         "published": "Mon, 09 Nov 2026 05:00:39 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-        "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-        "published": "Mon, 09 Nov 2026 05:00:04 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-        "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
-        "published": "Mon, 09 Nov 2026 05:00:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
-        "published": "Mon, 09 Nov 2026 05:00:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "A Message to Our Company",
-        "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-        "published": "Sun, 08 Nov 2026 21:02:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "Statement From NVIDIA Board of Directors",
-        "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-        "published": "Sun, 08 Nov 2026 20:00:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-        "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
-        "published": "Fri, 06 Nov 2026 16:00:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-        "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
-        "published": "Thu, 05 Nov 2026 20:00:41 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-        "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
-        "published": "Thu, 05 Nov 2026 16:00:05 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
-        "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
-        "published": "Thu, 05 Nov 2026 16:00:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
     "Alphabet": [
       {
         "company": "Alphabet",
+        "title": "The era of autonomous attacks has arrived.",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
+        "published": "Mon, 16 Nov 2026 18:30:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+        "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
+        "published": "Mon, 16 Nov 2026 17:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "New AI training performance benchmarks for Google TPUs",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
+        "published": "Mon, 16 Nov 2026 16:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "How to find the best Black Friday deals and shop smarter",
         "url": "https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/",
+        "published": "Mon, 16 Nov 2026 14:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Ask Maps is coming to Europe.",
+        "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
         "published": "Mon, 16 Nov 2026 14:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4849,13 +4877,6 @@
         "company": "Alphabet",
         "title": "4 ways Search can help with your holiday plans",
         "url": "https://blog.google/products-and-platforms/products/search/holiday-prep-search-2026/",
-        "published": "Mon, 16 Nov 2026 14:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Ask Maps is coming to Europe.",
-        "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
         "published": "Mon, 16 Nov 2026 14:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4924,15 +4945,8 @@
       },
       {
         "company": "Alphabet",
-        "title": "Meet the 2026 Google PhD Fellows",
-        "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
-        "published": "Thu, 12 Nov 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Get quick answers from Gemini on any website.",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+        "title": "We're launching a $10 million Energy Impact Program in West Virginia.",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/",
         "published": "Thu, 12 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4945,23 +4959,9 @@
       },
       {
         "company": "Alphabet",
-        "title": "We're launching a $10 million Energy Impact Program in West Virginia.",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/",
+        "title": "Get quick answers from Gemini on any website.",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
         "published": "Thu, 12 Nov 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Designing for privacy on intelligent eyewear",
-        "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/",
-        "published": "Thu, 12 Nov 2026 14:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "See our intelligent eyewear lineup and pre-order your pair",
-        "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
-        "published": "Thu, 12 Nov 2026 14:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
@@ -5110,9 +5110,37 @@
     "OpenAI": [
       {
         "company": "OpenAI",
+        "title": "Broadening access to AI for scientists",
+        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "published": "Mon, 16 Nov 2026 17:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+        "url": "https://openai.com/index/strengthening-online-child-safety",
+        "published": "Mon, 16 Nov 2026 17:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Science at the Frontier: How scientists use ChatGPT",
+        "url": "https://openai.com/index/science-at-the-frontier",
+        "published": "Mon, 16 Nov 2026 12:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
         "url": "https://openai.com/index/lvmh-media-division-partnership",
         "published": "Mon, 16 Nov 2026 09:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Our first phase of embedded assessments",
+        "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+        "published": "Mon, 16 Nov 2026 08:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
@@ -5323,34 +5351,6 @@
         "title": "Merge builds product and business tools with OpenAI technology",
         "url": "https://openai.com/index/merge-builds-with-openai",
         "published": "Thu, 05 Nov 2026 08:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Setting a new standard for responsible AI infrastructure",
-        "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-        "published": "Thu, 05 Nov 2026 02:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Flipsnack grows product signups with conversion optimization",
-        "url": "https://openai.com/ads/customers/flipsnack",
-        "published": "Thu, 05 Nov 2026 00:45:15 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Franklin Templeton uses OpenAI to support investment research",
-        "url": "https://openai.com/index/franklin-templeton",
-        "published": "Thu, 05 Nov 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-        "url": "https://openai.com/index/openai-to-acquire-pierre",
-        "published": "Wed, 04 Nov 2026 14:30:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
