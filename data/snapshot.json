@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-17T07:11:51.640322+00:00",
+  "retrieved_at": "2026-11-17T13:00:01.778827+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -48,7 +48,7 @@
       },
       {
         "date": "2025-11-20",
-        "close": 180.2083
+        "close": 180.2082
       },
       {
         "date": "2025-11-21",
@@ -88,7 +88,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9841
+        "close": 181.9842
       },
       {
         "date": "2025-12-08",
@@ -192,7 +192,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7125
+        "close": 182.7124
       },
       {
         "date": "2026-01-15",
@@ -264,7 +264,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0999
+        "close": 188.0998
       },
       {
         "date": "2026-02-11",
@@ -1094,7 +1094,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 320.4367
+        "close": 320.4366
       },
       {
         "date": "2025-12-08",
@@ -1150,11 +1150,11 @@
       },
       {
         "date": "2025-12-26",
-        "close": 312.9014
+        "close": 312.9013
       },
       {
         "date": "2025-12-29",
-        "close": 312.9513
+        "close": 312.9512
       },
       {
         "date": "2025-12-30",
@@ -1214,7 +1214,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 327.7425
+        "close": 327.7424
       },
       {
         "date": "2026-01-22",
@@ -1274,7 +1274,7 @@
       },
       {
         "date": "2026-02-11",
-        "close": 310.3562
+        "close": 310.3563
       },
       {
         "date": "2026-02-12",
@@ -1302,7 +1302,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8852
+        "close": 310.8853
       },
       {
         "date": "2026-02-24",
@@ -1414,7 +1414,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4036
+        "close": 295.4035
       },
       {
         "date": "2026-04-06",
@@ -1478,15 +1478,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.9059
+        "close": 349.906
       },
       {
         "date": "2026-04-28",
-        "close": 349.3466
+        "close": 349.3467
       },
       {
         "date": "2026-04-29",
-        "close": 349.5065
+        "close": 349.5064
       },
       {
         "date": "2026-04-30",
@@ -1562,7 +1562,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3482
+        "close": 388.3483
       },
       {
         "date": "2026-05-28",
@@ -2056,7 +2056,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 267.6276
+        "close": 267.6277
       },
       {
         "date": "2025-11-20",
@@ -2064,7 +2064,7 @@
       },
       {
         "date": "2025-11-21",
-        "close": 270.5475
+        "close": 270.5474
       },
       {
         "date": "2025-11-24",
@@ -2072,7 +2072,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.0084
+        "close": 276.0085
       },
       {
         "date": "2025-11-26",
@@ -2104,7 +2104,7 @@
       },
       {
         "date": "2025-12-08",
-        "close": 276.9252
+        "close": 276.9253
       },
       {
         "date": "2025-12-09",
@@ -2124,7 +2124,7 @@
       },
       {
         "date": "2025-12-15",
-        "close": 273.1584
+        "close": 273.1583
       },
       {
         "date": "2025-12-16",
@@ -2168,7 +2168,7 @@
       },
       {
         "date": "2025-12-31",
-        "close": 270.9161
+        "close": 270.9162
       },
       {
         "date": "2026-01-02",
@@ -2180,7 +2180,7 @@
       },
       {
         "date": "2026-01-06",
-        "close": 261.4491
+        "close": 261.4492
       },
       {
         "date": "2026-01-07",
@@ -2208,7 +2208,7 @@
       },
       {
         "date": "2026-01-15",
-        "close": 257.3135
+        "close": 257.3136
       },
       {
         "date": "2026-01-16",
@@ -2228,7 +2228,7 @@
       },
       {
         "date": "2026-01-23",
-        "close": 247.1789
+        "close": 247.1788
       },
       {
         "date": "2026-01-26",
@@ -2236,7 +2236,7 @@
       },
       {
         "date": "2026-01-27",
-        "close": 257.3734
+        "close": 257.3733
       },
       {
         "date": "2026-01-28",
@@ -2296,7 +2296,7 @@
       },
       {
         "date": "2026-02-18",
-        "close": 263.6788
+        "close": 263.6787
       },
       {
         "date": "2026-02-19",
@@ -2304,7 +2304,7 @@
       },
       {
         "date": "2026-02-20",
-        "close": 263.9081
+        "close": 263.9082
       },
       {
         "date": "2026-02-23",
@@ -2360,7 +2360,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 255.1106
+        "close": 255.1105
       },
       {
         "date": "2026-03-13",
@@ -2408,7 +2408,7 @@
       },
       {
         "date": "2026-03-30",
-        "close": 246.0037
+        "close": 246.0038
       },
       {
         "date": "2026-03-31",
@@ -2436,7 +2436,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 259.8286
+        "close": 259.8285
       },
       {
         "date": "2026-04-10",
@@ -2452,11 +2452,11 @@
       },
       {
         "date": "2026-04-15",
-        "close": 265.7534
+        "close": 265.7535
       },
       {
         "date": "2026-04-16",
-        "close": 262.7312
+        "close": 262.7311
       },
       {
         "date": "2026-04-17",
@@ -2484,7 +2484,7 @@
       },
       {
         "date": "2026-04-27",
-        "close": 266.9305
+        "close": 266.9304
       },
       {
         "date": "2026-04-28",
@@ -2492,7 +2492,7 @@
       },
       {
         "date": "2026-04-29",
-        "close": 269.4839
+        "close": 269.484
       },
       {
         "date": "2026-04-30",
@@ -2500,7 +2500,7 @@
       },
       {
         "date": "2026-05-01",
-        "close": 279.4287
+        "close": 279.4286
       },
       {
         "date": "2026-05-04",
@@ -2512,7 +2512,7 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.78
+        "close": 286.7799
       },
       {
         "date": "2026-05-07",
@@ -2524,7 +2524,7 @@
       },
       {
         "date": "2026-05-11",
-        "close": 292.2058
+        "close": 292.2057
       },
       {
         "date": "2026-05-12",
@@ -2624,7 +2624,7 @@
       },
       {
         "date": "2026-06-16",
-        "close": 298.7552
+        "close": 298.7551
       },
       {
         "date": "2026-06-17",
@@ -2632,7 +2632,7 @@
       },
       {
         "date": "2026-06-18",
-        "close": 297.5271
+        "close": 297.5272
       },
       {
         "date": "2026-06-22",
@@ -2692,7 +2692,7 @@
       },
       {
         "date": "2026-07-13",
-        "close": 316.7958
+        "close": 316.7959
       },
       {
         "date": "2026-07-14",
@@ -2736,7 +2736,7 @@
       },
       {
         "date": "2026-07-28",
-        "close": 339.5289
+        "close": 339.529
       },
       {
         "date": "2026-07-29",
@@ -4684,6 +4684,13 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee",
+        "published": "Tue, 17 Nov 2026 10:00:00 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
         "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
         "published": "Mon, 16 Nov 2026 23:00:05 GMT",
@@ -4813,13 +4820,6 @@
         "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
         "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
         "published": "Mon, 09 Nov 2026 14:00:01 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-        "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-        "published": "Mon, 09 Nov 2026 08:00:53 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
@@ -4968,6 +4968,13 @@
     "Apple": [
       {
         "company": "Apple",
+        "title": "Apple Podcasts names Baby, this is Keke Palmer the 2026 Show of the Year",
+        "url": "https://www.apple.com/newsroom/2026/11/apple-podcasts-names-baby-this-is-keke-palmer-the-2026-show-of-the-year/",
+        "published": "2026-11-17T10:59:28.025Z",
+        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
+      },
+      {
+        "company": "Apple",
         "title": "Apple launches research study to explore the use of AI for health",
         "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
         "published": "2026-11-16T01:18:33.934Z",
@@ -5098,16 +5105,16 @@
         "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
         "published": "2026-10-15T12:59:28.566Z",
         "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
-      },
-      {
-        "company": "Apple",
-        "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
-        "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
-        "published": "2026-10-14T17:39:29.065Z",
-        "source_feed": "https://www.apple.com/newsroom/rss-feed.rss"
       }
     ],
     "OpenAI": [
+      {
+        "company": "OpenAI",
+        "title": "Strengthening NATO and allied cyber defenses with AI",
+        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "published": "Tue, 17 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
       {
         "company": "OpenAI",
         "title": "Broadening access to AI for scientists",
@@ -5152,15 +5159,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Advancing computer-use agents for healthcare teams",
-        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+        "title": "More ways to move care forward with ChatGPT for Healthcare",
+        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
         "published": "Mon, 16 Nov 2026 06:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "More ways to move care forward with ChatGPT for Healthcare",
-        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+        "title": "Advancing computer-use agents for healthcare teams",
+        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
         "published": "Mon, 16 Nov 2026 06:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5344,13 +5351,6 @@
         "title": "Australian universities are creating AI-native graduates",
         "url": "https://openai.com/index/australian-universities-ai-native-graduates",
         "published": "Thu, 05 Nov 2026 17:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Cult.fit builds operational muscle with Codex",
-        "url": "https://openai.com/index/cultfit-builds-with-codex",
-        "published": "Thu, 05 Nov 2026 20:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
