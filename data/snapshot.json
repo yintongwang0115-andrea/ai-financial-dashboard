@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-16T18:51:44.000202+00:00",
+  "retrieved_at": "2026-11-17T00:58:49.769404+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -1036,7 +1036,7 @@
       },
       {
         "date": "2026-11-16",
-        "close": 156.3402
+        "close": 156.14
       }
     ],
     "Alphabet": [
@@ -1050,7 +1050,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 292.0505
+        "close": 292.0504
       },
       {
         "date": "2025-11-20",
@@ -1138,7 +1138,7 @@
       },
       {
         "date": "2025-12-22",
-        "close": 309.1785
+        "close": 309.1786
       },
       {
         "date": "2025-12-23",
@@ -1302,7 +1302,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8853
+        "close": 310.8852
       },
       {
         "date": "2026-02-24",
@@ -1330,11 +1330,11 @@
       },
       {
         "date": "2026-03-04",
-        "close": 302.5414
+        "close": 302.5415
       },
       {
         "date": "2026-03-05",
-        "close": 300.2958
+        "close": 300.2959
       },
       {
         "date": "2026-03-06",
@@ -1414,7 +1414,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 295.4035
+        "close": 295.4036
       },
       {
         "date": "2026-04-06",
@@ -1478,15 +1478,15 @@
       },
       {
         "date": "2026-04-27",
-        "close": 349.906
+        "close": 349.9059
       },
       {
         "date": "2026-04-28",
-        "close": 349.3467
+        "close": 349.3466
       },
       {
         "date": "2026-04-29",
-        "close": 349.5064
+        "close": 349.5065
       },
       {
         "date": "2026-04-30",
@@ -1562,7 +1562,7 @@
       },
       {
         "date": "2026-05-27",
-        "close": 388.3483
+        "close": 388.3482
       },
       {
         "date": "2026-05-28",
@@ -2042,13 +2042,13 @@
       },
       {
         "date": "2026-11-16",
-        "close": 286.17
+        "close": 283.72
       }
     ],
     "Apple": [
       {
         "date": "2025-11-17",
-        "close": 266.5314
+        "close": 266.5315
       },
       {
         "date": "2025-11-18",
@@ -2084,7 +2084,7 @@
       },
       {
         "date": "2025-12-01",
-        "close": 282.1171
+        "close": 282.1172
       },
       {
         "date": "2025-12-02",
@@ -2100,11 +2100,11 @@
       },
       {
         "date": "2025-12-05",
-        "close": 277.8122
+        "close": 277.8121
       },
       {
         "date": "2025-12-08",
-        "close": 276.9253
+        "close": 276.9252
       },
       {
         "date": "2025-12-09",
@@ -2112,11 +2112,11 @@
       },
       {
         "date": "2025-12-10",
-        "close": 277.8122
+        "close": 277.8121
       },
       {
         "date": "2025-12-11",
-        "close": 277.0647
+        "close": 277.0648
       },
       {
         "date": "2025-12-12",
@@ -2124,7 +2124,7 @@
       },
       {
         "date": "2025-12-15",
-        "close": 273.1583
+        "close": 273.1584
       },
       {
         "date": "2025-12-16",
@@ -2168,11 +2168,11 @@
       },
       {
         "date": "2025-12-31",
-        "close": 270.9162
+        "close": 270.9161
       },
       {
         "date": "2026-01-02",
-        "close": 270.0692
+        "close": 270.0691
       },
       {
         "date": "2026-01-05",
@@ -2208,7 +2208,7 @@
       },
       {
         "date": "2026-01-15",
-        "close": 257.3136
+        "close": 257.3135
       },
       {
         "date": "2026-01-16",
@@ -2236,7 +2236,7 @@
       },
       {
         "date": "2026-01-27",
-        "close": 257.3733
+        "close": 257.3734
       },
       {
         "date": "2026-01-28",
@@ -2256,7 +2256,7 @@
       },
       {
         "date": "2026-02-03",
-        "close": 268.5445
+        "close": 268.5444
       },
       {
         "date": "2026-02-04",
@@ -3048,7 +3048,7 @@
       },
       {
         "date": "2026-11-16",
-        "close": 353.15
+        "close": 352.78
       }
     ]
   },
@@ -4684,6 +4684,20 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+        "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+        "published": "Mon, 16 Nov 2026 23:00:05 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+        "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+        "published": "Mon, 16 Nov 2026 20:00:37 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
         "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
         "published": "Mon, 16 Nov 2026 16:00:51 GMT",
@@ -4807,23 +4821,16 @@
         "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
         "published": "Mon, 09 Nov 2026 08:00:53 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-        "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
-        "published": "Mon, 09 Nov 2026 05:00:40 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-        "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
-        "published": "Mon, 09 Nov 2026 05:00:39 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
     "Alphabet": [
+      {
+        "company": "Alphabet",
+        "title": "Regional voices are rolling out in the Gemini app.",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+        "published": "Mon, 16 Nov 2026 18:45:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
       {
         "company": "Alphabet",
         "title": "The era of autonomous attacks has arrived.",
@@ -4847,15 +4854,15 @@
       },
       {
         "company": "Alphabet",
-        "title": "How to find the best Black Friday deals and shop smarter",
-        "url": "https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/",
-        "published": "Mon, 16 Nov 2026 14:00:00 +0000",
+        "title": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+        "published": "Mon, 16 Nov 2026 16:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
       {
         "company": "Alphabet",
-        "title": "Ask Maps is coming to Europe.",
-        "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
+        "title": "How to find the best Black Friday deals and shop smarter",
+        "url": "https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/",
         "published": "Mon, 16 Nov 2026 14:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4877,6 +4884,13 @@
         "company": "Alphabet",
         "title": "4 ways Search can help with your holiday plans",
         "url": "https://blog.google/products-and-platforms/products/search/holiday-prep-search-2026/",
+        "published": "Mon, 16 Nov 2026 14:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Ask Maps is coming to Europe.",
+        "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
         "published": "Mon, 16 Nov 2026 14:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4924,13 +4938,6 @@
       },
       {
         "company": "Alphabet",
-        "title": "Introducing Gemini 4 Hydrogen",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-        "published": "Thu, 12 Nov 2026 18:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
         "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
         "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
         "published": "Thu, 12 Nov 2026 18:00:00 +0000",
@@ -4945,22 +4952,15 @@
       },
       {
         "company": "Alphabet",
+        "title": "Introducing Gemini 4 Hydrogen",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+        "published": "Thu, 12 Nov 2026 18:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "We're launching a $10 million Energy Impact Program in West Virginia.",
         "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/",
-        "published": "Thu, 12 Nov 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Scientists are using Google AI to help restore giant kelp forests.",
-        "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
-        "published": "Thu, 12 Nov 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Get quick answers from Gemini on any website.",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
         "published": "Thu, 12 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
@@ -5166,6 +5166,13 @@
       },
       {
         "company": "OpenAI",
+        "title": "At Holiday Extras, dots get to work before anyone asks",
+        "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+        "published": "Mon, 16 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "A step toward defining the Standard Model on a lattice",
         "url": "https://openai.com/index/step-toward-defining-the-standard-model",
         "published": "Sun, 15 Nov 2026 22:00:01 GMT",
@@ -5344,13 +5351,6 @@
         "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
         "url": "https://openai.com/index/introducing-gpt-6-cyber",
         "published": "Thu, 05 Nov 2026 09:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Merge builds product and business tools with OpenAI technology",
-        "url": "https://openai.com/index/merge-builds-with-openai",
-        "published": "Thu, 05 Nov 2026 08:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
