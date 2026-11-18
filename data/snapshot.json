@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-18T07:11:11.372477+00:00",
+  "retrieved_at": "2026-11-18T13:04:37.732146+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -84,7 +84,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9841
+        "close": 181.9842
       },
       {
         "date": "2025-12-08",
@@ -308,7 +308,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 176.7764
+        "close": 176.7763
       },
       {
         "date": "2026-03-02",
@@ -1134,7 +1134,7 @@
       },
       {
         "date": "2025-12-22",
-        "close": 309.1785
+        "close": 309.1786
       },
       {
         "date": "2025-12-23",
@@ -1210,7 +1210,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 327.7425
+        "close": 327.7424
       },
       {
         "date": "2026-01-22",
@@ -1278,7 +1278,7 @@
       },
       {
         "date": "2026-02-13",
-        "close": 305.1265
+        "close": 305.1264
       },
       {
         "date": "2026-02-17",
@@ -1314,7 +1314,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 311.1548
+        "close": 311.1547
       },
       {
         "date": "2026-03-02",
@@ -1326,11 +1326,11 @@
       },
       {
         "date": "2026-03-04",
-        "close": 302.5414
+        "close": 302.5415
       },
       {
         "date": "2026-03-05",
-        "close": 300.2958
+        "close": 300.2959
       },
       {
         "date": "2026-03-06",
@@ -2052,7 +2052,7 @@
       },
       {
         "date": "2025-11-19",
-        "close": 267.6277
+        "close": 267.6276
       },
       {
         "date": "2025-11-20",
@@ -2060,7 +2060,7 @@
       },
       {
         "date": "2025-11-21",
-        "close": 270.5475
+        "close": 270.5474
       },
       {
         "date": "2025-11-24",
@@ -2068,7 +2068,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.0084
+        "close": 276.0085
       },
       {
         "date": "2025-11-26",
@@ -2096,7 +2096,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 277.8121
+        "close": 277.8122
       },
       {
         "date": "2025-12-08",
@@ -2108,11 +2108,11 @@
       },
       {
         "date": "2025-12-10",
-        "close": 277.8121
+        "close": 277.8122
       },
       {
         "date": "2025-12-11",
-        "close": 277.0648
+        "close": 277.0647
       },
       {
         "date": "2025-12-12",
@@ -2120,7 +2120,7 @@
       },
       {
         "date": "2025-12-15",
-        "close": 273.1584
+        "close": 273.1583
       },
       {
         "date": "2025-12-16",
@@ -2164,11 +2164,11 @@
       },
       {
         "date": "2025-12-31",
-        "close": 270.9161
+        "close": 270.9162
       },
       {
         "date": "2026-01-02",
-        "close": 270.0691
+        "close": 270.0692
       },
       {
         "date": "2026-01-05",
@@ -2176,11 +2176,11 @@
       },
       {
         "date": "2026-01-06",
-        "close": 261.4492
+        "close": 261.4491
       },
       {
         "date": "2026-01-07",
-        "close": 259.4262
+        "close": 259.4261
       },
       {
         "date": "2026-01-08",
@@ -2224,7 +2224,7 @@
       },
       {
         "date": "2026-01-23",
-        "close": 247.1788
+        "close": 247.1789
       },
       {
         "date": "2026-01-26",
@@ -2232,7 +2232,7 @@
       },
       {
         "date": "2026-01-27",
-        "close": 257.3734
+        "close": 257.3733
       },
       {
         "date": "2026-01-28",
@@ -2244,7 +2244,7 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.5792
+        "close": 258.5791
       },
       {
         "date": "2026-02-02",
@@ -2404,7 +2404,7 @@
       },
       {
         "date": "2026-03-30",
-        "close": 246.0037
+        "close": 246.0038
       },
       {
         "date": "2026-03-31",
@@ -2416,7 +2416,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 255.2701
+        "close": 255.2702
       },
       {
         "date": "2026-04-06",
@@ -2460,7 +2460,7 @@
       },
       {
         "date": "2026-04-20",
-        "close": 272.3567
+        "close": 272.3566
       },
       {
         "date": "2026-04-21",
@@ -5110,6 +5110,13 @@
     "OpenAI": [
       {
         "company": "OpenAI",
+        "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "published": "Wed, 18 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "Introducing GPT-6.2 Astra and Sol",
         "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
         "published": "Tue, 17 Nov 2026 17:45:00 GMT",
@@ -5187,15 +5194,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "More ways to move care forward with ChatGPT for Healthcare",
-        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+        "title": "Advancing computer-use agents for healthcare teams",
+        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
         "published": "Mon, 16 Nov 2026 06:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Advancing computer-use agents for healthcare teams",
-        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+        "title": "More ways to move care forward with ChatGPT for Healthcare",
+        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
         "published": "Mon, 16 Nov 2026 06:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5344,13 +5351,6 @@
         "title": "ChatGPT Enterprise now available in AWS Marketplace",
         "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
         "published": "Mon, 09 Nov 2026 19:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-        "url": "https://openai.com/index/control-room",
-        "published": "Mon, 09 Nov 2026 13:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
