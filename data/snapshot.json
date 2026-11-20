@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-19T18:56:55.265543+00:00",
+  "retrieved_at": "2026-11-20T06:55:09.110007+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -34,10 +34,6 @@
   },
   "stocks": {
     "NVIDIA": [
-      {
-        "date": "2025-11-19",
-        "close": 186.0742
-      },
       {
         "date": "2025-11-20",
         "close": 180.2083
@@ -1040,14 +1036,10 @@
       },
       {
         "date": "2026-11-19",
-        "close": 148.4961
+        "close": 145.98
       }
     ],
     "Alphabet": [
-      {
-        "date": "2025-11-19",
-        "close": 292.0505
-      },
       {
         "date": "2025-11-20",
         "close": 288.6992
@@ -1166,7 +1158,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9254
+        "close": 315.9255
       },
       {
         "date": "2026-01-06",
@@ -1210,7 +1202,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 327.7424
+        "close": 327.7425
       },
       {
         "date": "2026-01-22",
@@ -1254,7 +1246,7 @@
       },
       {
         "date": "2026-02-05",
-        "close": 330.6069
+        "close": 330.6068
       },
       {
         "date": "2026-02-06",
@@ -1298,7 +1290,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8853
+        "close": 310.8852
       },
       {
         "date": "2026-02-24",
@@ -1310,7 +1302,7 @@
       },
       {
         "date": "2026-02-26",
-        "close": 306.7832
+        "close": 306.7833
       },
       {
         "date": "2026-02-27",
@@ -1330,7 +1322,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2959
+        "close": 300.2958
       },
       {
         "date": "2026-03-06",
@@ -2050,21 +2042,17 @@
       },
       {
         "date": "2026-11-19",
-        "close": 279.305
+        "close": 272.66
       }
     ],
     "Apple": [
-      {
-        "date": "2025-11-19",
-        "close": 267.6277
-      },
       {
         "date": "2025-11-20",
         "close": 265.3257
       },
       {
         "date": "2025-11-21",
-        "close": 270.5475
+        "close": 270.5474
       },
       {
         "date": "2025-11-24",
@@ -2072,7 +2060,7 @@
       },
       {
         "date": "2025-11-25",
-        "close": 276.0084
+        "close": 276.0085
       },
       {
         "date": "2025-11-26",
@@ -2080,7 +2068,7 @@
       },
       {
         "date": "2025-11-28",
-        "close": 277.882
+        "close": 277.8819
       },
       {
         "date": "2025-12-01",
@@ -2100,11 +2088,11 @@
       },
       {
         "date": "2025-12-05",
-        "close": 277.8121
+        "close": 277.8122
       },
       {
         "date": "2025-12-08",
-        "close": 276.9253
+        "close": 276.9252
       },
       {
         "date": "2025-12-09",
@@ -2112,7 +2100,7 @@
       },
       {
         "date": "2025-12-10",
-        "close": 277.8121
+        "close": 277.8122
       },
       {
         "date": "2025-12-11",
@@ -2124,7 +2112,7 @@
       },
       {
         "date": "2025-12-15",
-        "close": 273.1584
+        "close": 273.1583
       },
       {
         "date": "2025-12-16",
@@ -2136,7 +2124,7 @@
       },
       {
         "date": "2025-12-18",
-        "close": 271.245
+        "close": 271.2451
       },
       {
         "date": "2025-12-19",
@@ -2168,11 +2156,11 @@
       },
       {
         "date": "2025-12-31",
-        "close": 270.9161
+        "close": 270.9162
       },
       {
         "date": "2026-01-02",
-        "close": 270.0692
+        "close": 270.0691
       },
       {
         "date": "2026-01-05",
@@ -2180,7 +2168,7 @@
       },
       {
         "date": "2026-01-06",
-        "close": 261.4492
+        "close": 261.4491
       },
       {
         "date": "2026-01-07",
@@ -2236,7 +2224,7 @@
       },
       {
         "date": "2026-01-27",
-        "close": 257.3734
+        "close": 257.3733
       },
       {
         "date": "2026-01-28",
@@ -2296,7 +2284,7 @@
       },
       {
         "date": "2026-02-18",
-        "close": 263.6787
+        "close": 263.6788
       },
       {
         "date": "2026-02-19",
@@ -2304,7 +2292,7 @@
       },
       {
         "date": "2026-02-20",
-        "close": 263.9082
+        "close": 263.9081
       },
       {
         "date": "2026-02-23",
@@ -2360,7 +2348,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 255.1105
+        "close": 255.1106
       },
       {
         "date": "2026-03-13",
@@ -2408,7 +2396,7 @@
       },
       {
         "date": "2026-03-30",
-        "close": 246.0038
+        "close": 246.0037
       },
       {
         "date": "2026-03-31",
@@ -2436,7 +2424,7 @@
       },
       {
         "date": "2026-04-09",
-        "close": 259.8285
+        "close": 259.8286
       },
       {
         "date": "2026-04-10",
@@ -2452,11 +2440,11 @@
       },
       {
         "date": "2026-04-15",
-        "close": 265.7535
+        "close": 265.7534
       },
       {
         "date": "2026-04-16",
-        "close": 262.7311
+        "close": 262.7312
       },
       {
         "date": "2026-04-17",
@@ -2484,7 +2472,7 @@
       },
       {
         "date": "2026-04-27",
-        "close": 266.9304
+        "close": 266.9305
       },
       {
         "date": "2026-04-28",
@@ -2500,7 +2488,7 @@
       },
       {
         "date": "2026-05-01",
-        "close": 279.4286
+        "close": 279.4287
       },
       {
         "date": "2026-05-04",
@@ -2512,7 +2500,7 @@
       },
       {
         "date": "2026-05-06",
-        "close": 286.7799
+        "close": 286.78
       },
       {
         "date": "2026-05-07",
@@ -2524,7 +2512,7 @@
       },
       {
         "date": "2026-05-11",
-        "close": 292.2057
+        "close": 292.2058
       },
       {
         "date": "2026-05-12",
@@ -2624,7 +2612,7 @@
       },
       {
         "date": "2026-06-16",
-        "close": 298.7551
+        "close": 298.7552
       },
       {
         "date": "2026-06-17",
@@ -2632,7 +2620,7 @@
       },
       {
         "date": "2026-06-18",
-        "close": 297.5272
+        "close": 297.5271
       },
       {
         "date": "2026-06-22",
@@ -2692,7 +2680,7 @@
       },
       {
         "date": "2026-07-13",
-        "close": 316.7959
+        "close": 316.7958
       },
       {
         "date": "2026-07-14",
@@ -2736,7 +2724,7 @@
       },
       {
         "date": "2026-07-28",
-        "close": 339.529
+        "close": 339.5289
       },
       {
         "date": "2026-07-29",
@@ -3060,7 +3048,7 @@
       },
       {
         "date": "2026-11-19",
-        "close": 349.52
+        "close": 349.21
       }
     ]
   },
@@ -4696,6 +4684,20 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "NVIDIA Announces Upcoming Event for Financial Community",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
+        "published": "Thu, 19 Nov 2026 22:00:00 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+        "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+        "published": "Thu, 19 Nov 2026 20:00:15 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
         "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
         "published": "Thu, 19 Nov 2026 14:00:12 GMT",
@@ -4819,23 +4821,23 @@
         "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
         "published": "Mon, 16 Nov 2026 00:00:28 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-        "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
-        "published": "Fri, 13 Nov 2026 13:00:42 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
-        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
-        "published": "Thu, 12 Nov 2026 14:00:59 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
     "Alphabet": [
+      {
+        "company": "Alphabet",
+        "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+        "published": "Thu, 19 Nov 2026 20:30:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+        "published": "Thu, 19 Nov 2026 19:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
       {
         "company": "Alphabet",
         "title": "Introducing Tool Retrieval in the Gemini API",
@@ -4866,6 +4868,13 @@
       },
       {
         "company": "Alphabet",
+        "title": "Build strategic A/B tests to grow your ad performance.",
+        "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
+        "published": "Thu, 19 Nov 2026 17:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "Genie 4 is now available on the Gemini API.",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
         "published": "Thu, 19 Nov 2026 17:00:00 +0000",
@@ -4875,13 +4884,6 @@
         "company": "Alphabet",
         "title": "Let Gemini tackle repetitive chores on your Mac",
         "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
-        "published": "Thu, 19 Nov 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Build strategic A/B tests to grow your ad performance.",
-        "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
         "published": "Thu, 19 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4922,6 +4924,13 @@
       },
       {
         "company": "Alphabet",
+        "title": "Genie 4 is now available",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+        "published": "Wed, 18 Nov 2026 18:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "Google for Mexico: Technology impact that goes beyond business",
         "url": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/",
         "published": "Wed, 18 Nov 2026 18:00:00 +0000",
@@ -4932,20 +4941,6 @@
         "title": "Las Vegas race week brings big rewards to Google Play",
         "url": "https://blog.google/products-and-platforms/platforms/google-play/auction-google-play-las-vegas/",
         "published": "Wed, 18 Nov 2026 18:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Genie 4 is now available",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-        "published": "Wed, 18 Nov 2026 18:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Introducing Stitch Loop: A new way to build and evolve products",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
-        "published": "Wed, 18 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
       {
@@ -4964,16 +4959,9 @@
       },
       {
         "company": "Alphabet",
-        "title": "Drive your best ROI reaching new holiday shoppers with November’s Google Marketing Platform Drop.",
-        "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-november/",
-        "published": "Wed, 18 Nov 2026 14:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Cybersecurity tips and tools to keep you safe online",
-        "url": "https://blog.google/innovation-and-ai/technology/safety-security/cybersecurity-tips/",
-        "published": "Wed, 18 Nov 2026 14:00:00 +0000",
+        "title": "Introducing Stitch Loop: A new way to build and evolve products",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
+        "published": "Wed, 18 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
@@ -5129,6 +5117,34 @@
       },
       {
         "company": "OpenAI",
+        "title": "Deploying Daybreak Red",
+        "url": "https://openai.com/business/learn/deploying-daybreak-red",
+        "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "See PR scans in action",
+        "url": "https://openai.com/business/learn/pr-scans-demo",
+        "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Explore the Codex Security Plugin",
+        "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+        "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Get started with Daybreak Blue",
+        "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+        "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "The Silent Consensus",
         "url": "https://openai.com/index/the-silent-consensus",
         "published": "Wed, 18 Nov 2026 10:00:00 GMT",
@@ -5136,15 +5152,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-        "url": "https://openai.com/business/customer-stories/sumitomo-life",
+        "title": "Research acceleration: The jagged frontier",
+        "url": "https://openai.com/index/research-acceleration-jagged-frontier",
         "published": "Wed, 18 Nov 2026 08:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Research acceleration: The jagged frontier",
-        "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+        "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+        "url": "https://openai.com/business/customer-stories/sumitomo-life",
         "published": "Wed, 18 Nov 2026 08:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5164,15 +5180,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "title": "Advancing chip design with OpenAI models",
+        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
         "published": "Wed, 18 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Advancing chip design with OpenAI models",
-        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+        "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
         "published": "Wed, 18 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5335,34 +5351,6 @@
         "title": "Supporting research on AI and children’s safety",
         "url": "https://openai.com/index/children-first-declaration",
         "published": "Thu, 12 Nov 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "ChatGPT Ads increases its market presence in 44 countries",
-        "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
-        "published": "Thu, 12 Nov 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Gilbert + Tobin rethinks the business of law with AI",
-        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-        "published": "Thu, 12 Nov 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "ChatGPT Plus for veterans and servicemembers",
-        "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-        "published": "Wed, 11 Nov 2026 08:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-        "url": "https://openai.com/index/jiostar-vijay-seshadri",
-        "published": "Wed, 11 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
