@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-20T19:56:09.870425+00:00",
+  "retrieved_at": "2026-11-21T06:50:33.747344+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -34,10 +34,6 @@
   },
   "stocks": {
     "NVIDIA": [
-      {
-        "date": "2025-11-20",
-        "close": 180.2083
-      },
       {
         "date": "2025-11-21",
         "close": 178.4525
@@ -76,7 +72,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9842
+        "close": 181.9841
       },
       {
         "date": "2025-12-08",
@@ -180,7 +176,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7124
+        "close": 182.7125
       },
       {
         "date": "2026-01-15",
@@ -252,7 +248,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0998
+        "close": 188.0999
       },
       {
         "date": "2026-02-11",
@@ -300,7 +296,7 @@
       },
       {
         "date": "2026-02-27",
-        "close": 176.7763
+        "close": 176.7764
       },
       {
         "date": "2026-03-02",
@@ -328,7 +324,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3387
+        "close": 184.3386
       },
       {
         "date": "2026-03-11",
@@ -336,7 +332,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7223
+        "close": 182.7224
       },
       {
         "date": "2026-03-13",
@@ -360,7 +356,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3062
+        "close": 172.3061
       },
       {
         "date": "2026-03-23",
@@ -396,7 +392,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9855
+        "close": 176.9854
       },
       {
         "date": "2026-04-06",
@@ -1040,14 +1036,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 129.1399
+        "close": 125.53
       }
     ],
     "Alphabet": [
-      {
-        "date": "2025-11-20",
-        "close": 288.6992
-      },
       {
         "date": "2025-11-21",
         "close": 298.8827
@@ -1162,7 +1154,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9254
+        "close": 315.9255
       },
       {
         "date": "2026-01-06",
@@ -1206,7 +1198,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 327.7424
+        "close": 327.7425
       },
       {
         "date": "2026-01-22",
@@ -1250,7 +1242,7 @@
       },
       {
         "date": "2026-02-05",
-        "close": 330.6069
+        "close": 330.6068
       },
       {
         "date": "2026-02-06",
@@ -1294,7 +1286,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8853
+        "close": 310.8852
       },
       {
         "date": "2026-02-24",
@@ -1306,7 +1298,7 @@
       },
       {
         "date": "2026-02-26",
-        "close": 306.7832
+        "close": 306.7833
       },
       {
         "date": "2026-02-27",
@@ -1326,7 +1318,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2959
+        "close": 300.2958
       },
       {
         "date": "2026-03-06",
@@ -2050,14 +2042,10 @@
       },
       {
         "date": "2026-11-20",
-        "close": 270.77
+        "close": 265.29
       }
     ],
     "Apple": [
-      {
-        "date": "2025-11-20",
-        "close": 265.3257
-      },
       {
         "date": "2025-11-21",
         "close": 270.5474
@@ -2080,7 +2068,7 @@
       },
       {
         "date": "2025-12-01",
-        "close": 282.1171
+        "close": 282.1172
       },
       {
         "date": "2025-12-02",
@@ -2096,11 +2084,11 @@
       },
       {
         "date": "2025-12-05",
-        "close": 277.8122
+        "close": 277.8121
       },
       {
         "date": "2025-12-08",
-        "close": 276.9253
+        "close": 276.9252
       },
       {
         "date": "2025-12-09",
@@ -2108,11 +2096,11 @@
       },
       {
         "date": "2025-12-10",
-        "close": 277.8122
+        "close": 277.8121
       },
       {
         "date": "2025-12-11",
-        "close": 277.0647
+        "close": 277.0648
       },
       {
         "date": "2025-12-12",
@@ -2132,7 +2120,7 @@
       },
       {
         "date": "2025-12-18",
-        "close": 271.245
+        "close": 271.2451
       },
       {
         "date": "2025-12-19",
@@ -2160,7 +2148,7 @@
       },
       {
         "date": "2025-12-30",
-        "close": 272.1319
+        "close": 272.132
       },
       {
         "date": "2025-12-31",
@@ -2168,7 +2156,7 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.0692
+        "close": 270.0691
       },
       {
         "date": "2026-01-05",
@@ -2176,7 +2164,7 @@
       },
       {
         "date": "2026-01-06",
-        "close": 261.4492
+        "close": 261.4491
       },
       {
         "date": "2026-01-07",
@@ -2204,7 +2192,7 @@
       },
       {
         "date": "2026-01-15",
-        "close": 257.3136
+        "close": 257.3135
       },
       {
         "date": "2026-01-16",
@@ -2224,7 +2212,7 @@
       },
       {
         "date": "2026-01-23",
-        "close": 247.1788
+        "close": 247.1789
       },
       {
         "date": "2026-01-26",
@@ -2292,7 +2280,7 @@
       },
       {
         "date": "2026-02-18",
-        "close": 263.6787
+        "close": 263.6788
       },
       {
         "date": "2026-02-19",
@@ -2300,7 +2288,7 @@
       },
       {
         "date": "2026-02-20",
-        "close": 263.9082
+        "close": 263.9081
       },
       {
         "date": "2026-02-23",
@@ -2404,11 +2392,11 @@
       },
       {
         "date": "2026-03-30",
-        "close": 246.0038
+        "close": 246.0037
       },
       {
         "date": "2026-03-31",
-        "close": 253.1456
+        "close": 253.1455
       },
       {
         "date": "2026-04-01",
@@ -2420,7 +2408,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.2027
+        "close": 258.2026
       },
       {
         "date": "2026-04-07",
@@ -2444,11 +2432,11 @@
       },
       {
         "date": "2026-04-14",
-        "close": 258.1728
+        "close": 258.1727
       },
       {
         "date": "2026-04-15",
-        "close": 265.7535
+        "close": 265.7534
       },
       {
         "date": "2026-04-16",
@@ -2480,7 +2468,7 @@
       },
       {
         "date": "2026-04-27",
-        "close": 266.9304
+        "close": 266.9305
       },
       {
         "date": "2026-04-28",
@@ -2488,7 +2476,7 @@
       },
       {
         "date": "2026-04-29",
-        "close": 269.484
+        "close": 269.4839
       },
       {
         "date": "2026-04-30",
@@ -2520,7 +2508,7 @@
       },
       {
         "date": "2026-05-11",
-        "close": 292.2057
+        "close": 292.2058
       },
       {
         "date": "2026-05-12",
@@ -2620,7 +2608,7 @@
       },
       {
         "date": "2026-06-16",
-        "close": 298.7551
+        "close": 298.7552
       },
       {
         "date": "2026-06-17",
@@ -2628,7 +2616,7 @@
       },
       {
         "date": "2026-06-18",
-        "close": 297.5272
+        "close": 297.5271
       },
       {
         "date": "2026-06-22",
@@ -2688,7 +2676,7 @@
       },
       {
         "date": "2026-07-13",
-        "close": 316.7959
+        "close": 316.7958
       },
       {
         "date": "2026-07-14",
@@ -2732,7 +2720,7 @@
       },
       {
         "date": "2026-07-28",
-        "close": 339.529
+        "close": 339.5289
       },
       {
         "date": "2026-07-29",
@@ -3060,7 +3048,7 @@
       },
       {
         "date": "2026-11-20",
-        "close": 345.23
+        "close": 342.56
       }
     ]
   },
@@ -5129,6 +5117,13 @@
       },
       {
         "company": "OpenAI",
+        "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "url": "https://openai.com/business/customer-stories/hebbia",
+        "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "Can AI help scientists identify promising drug candidates?",
         "url": "https://openai.com/index/introducing-medchembench",
         "published": "Fri, 20 Nov 2026 00:00:00 GMT",
@@ -5150,13 +5145,6 @@
       },
       {
         "company": "OpenAI",
-        "title": "Deploying Daybreak Red",
-        "url": "https://openai.com/business/learn/deploying-daybreak-red",
-        "published": "Thu, 19 Nov 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
         "title": "See PR scans in action",
         "url": "https://openai.com/business/learn/pr-scans-demo",
         "published": "Thu, 19 Nov 2026 00:00:00 GMT",
@@ -5166,6 +5154,13 @@
         "company": "OpenAI",
         "title": "Get started with Daybreak Blue",
         "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+        "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Deploying Daybreak Red",
+        "url": "https://openai.com/business/learn/deploying-daybreak-red",
         "published": "Thu, 19 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5241,15 +5236,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Introducing OpenAI for Chile",
-        "url": "https://openai.com/index/introducing-openai-for-chile",
+        "title": "Astra for Law leads in legal intelligence",
+        "url": "https://openai.com/index/astra-law-6-2",
         "published": "Tue, 17 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Astra for Law leads in legal intelligence",
-        "url": "https://openai.com/index/astra-law-6-2",
+        "title": "Introducing OpenAI for Chile",
+        "url": "https://openai.com/index/introducing-openai-for-chile",
         "published": "Tue, 17 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5356,13 +5351,6 @@
         "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
         "url": "https://openai.com/business/customer-stories/amplitude",
         "published": "Thu, 12 Nov 2026 20:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Gondola doubles revenue as its team builds more with Codex",
-        "url": "https://openai.com/business/customer-stories/gondola",
-        "published": "Thu, 12 Nov 2026 12:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
