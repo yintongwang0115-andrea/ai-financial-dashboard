@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-23T07:14:25.285714+00:00",
+  "retrieved_at": "2026-11-23T23:44:46.769904+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -35,10 +35,6 @@
   "stocks": {
     "NVIDIA": [
       {
-        "date": "2025-11-21",
-        "close": 178.4525
-      },
-      {
         "date": "2025-11-24",
         "close": 182.1137
       },
@@ -72,7 +68,7 @@
       },
       {
         "date": "2025-12-05",
-        "close": 181.9841
+        "close": 181.9842
       },
       {
         "date": "2025-12-08",
@@ -232,7 +228,7 @@
       },
       {
         "date": "2026-02-04",
-        "close": 173.7834
+        "close": 173.7833
       },
       {
         "date": "2026-02-05",
@@ -240,7 +236,7 @@
       },
       {
         "date": "2026-02-06",
-        "close": 184.9772
+        "close": 184.9771
       },
       {
         "date": "2026-02-09",
@@ -1037,13 +1033,13 @@
       {
         "date": "2026-11-20",
         "close": 125.53
+      },
+      {
+        "date": "2026-11-23",
+        "close": 165.05
       }
     ],
     "Alphabet": [
-      {
-        "date": "2025-11-21",
-        "close": 298.8827
-      },
       {
         "date": "2025-11-24",
         "close": 317.7536
@@ -2043,13 +2039,13 @@
       {
         "date": "2026-11-20",
         "close": 265.29
+      },
+      {
+        "date": "2026-11-23",
+        "close": 282.1
       }
     ],
     "Apple": [
-      {
-        "date": "2025-11-21",
-        "close": 270.5475
-      },
       {
         "date": "2025-11-24",
         "close": 274.9621
@@ -2064,7 +2060,7 @@
       },
       {
         "date": "2025-11-28",
-        "close": 277.8819
+        "close": 277.882
       },
       {
         "date": "2025-12-01",
@@ -2084,11 +2080,11 @@
       },
       {
         "date": "2025-12-05",
-        "close": 277.8121
+        "close": 277.8122
       },
       {
         "date": "2025-12-08",
-        "close": 276.9252
+        "close": 276.9253
       },
       {
         "date": "2025-12-09",
@@ -2096,7 +2092,7 @@
       },
       {
         "date": "2025-12-10",
-        "close": 277.8121
+        "close": 277.8122
       },
       {
         "date": "2025-12-11",
@@ -2108,7 +2104,7 @@
       },
       {
         "date": "2025-12-15",
-        "close": 273.1584
+        "close": 273.1583
       },
       {
         "date": "2025-12-16",
@@ -2156,15 +2152,15 @@
       },
       {
         "date": "2026-01-02",
-        "close": 270.0691
+        "close": 270.0692
       },
       {
         "date": "2026-01-05",
-        "close": 266.3322
+        "close": 266.3321
       },
       {
         "date": "2026-01-06",
-        "close": 261.4492
+        "close": 261.4491
       },
       {
         "date": "2026-01-07",
@@ -2184,7 +2180,7 @@
       },
       {
         "date": "2026-01-13",
-        "close": 260.1437
+        "close": 260.1436
       },
       {
         "date": "2026-01-14",
@@ -3049,6 +3045,10 @@
       {
         "date": "2026-11-20",
         "close": 342.56
+      },
+      {
+        "date": "2026-11-23",
+        "close": 349.08
       }
     ]
   },
@@ -4684,6 +4684,20 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+        "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+        "published": "Mon, 23 Nov 2026 17:00:08 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
+        "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+        "published": "Mon, 23 Nov 2026 13:55:00 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "NVIDIA Announces Upcoming Event for Financial Community",
         "url": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
         "published": "Thu, 19 Nov 2026 22:00:00 GMT",
@@ -4807,23 +4821,44 @@
         "url": "https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery",
         "published": "Mon, 16 Nov 2026 16:00:00 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents",
-        "published": "Mon, 16 Nov 2026 16:00:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-        "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
-        "published": "Mon, 16 Nov 2026 00:00:28 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
     "Alphabet": [
+      {
+        "company": "Alphabet",
+        "title": "See what 6 builders are making with Gemini 4 Hydrogen",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/",
+        "published": "Mon, 23 Nov 2026 18:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Here are 4 things you didn’t know you could do with Gemini Canvas.",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
+        "published": "Mon, 23 Nov 2026 18:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "A more tailored Google Search that’s uniquely yours",
+        "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+        "published": "Mon, 23 Nov 2026 17:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Organize and share your holiday memories with these five updates in Google Photos.",
+        "url": "https://blog.google/products-and-platforms/products/photos/google-photo-tools-holiday-season-2026/",
+        "published": "Mon, 23 Nov 2026 17:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Introducing file slicing controls in the Gemini API",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
+        "published": "Mon, 23 Nov 2026 16:12:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
       {
         "company": "Alphabet",
         "title": "Get your year-end tasks done with new Connected Apps.",
@@ -4861,6 +4896,20 @@
       },
       {
         "company": "Alphabet",
+        "title": "Let Gemini tackle repetitive chores on your Mac",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+        "published": "Thu, 19 Nov 2026 17:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Build strategic A/B tests to grow your ad performance.",
+        "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
+        "published": "Thu, 19 Nov 2026 17:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
         "title": "Walter Isaacson on curiosity and creativity in the AI age.",
         "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
         "published": "Thu, 19 Nov 2026 17:00:00 +0000",
@@ -4884,20 +4933,6 @@
         "company": "Alphabet",
         "title": "Genie 4 is now available on the Gemini API.",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
-        "published": "Thu, 19 Nov 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Build strategic A/B tests to grow your ad performance.",
-        "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
-        "published": "Thu, 19 Nov 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Let Gemini tackle repetitive chores on your Mac",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
         "published": "Thu, 19 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4927,41 +4962,6 @@
         "title": "Google’s water stewardship commitments for local communities",
         "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/",
         "published": "Thu, 19 Nov 2026 10:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Introducing Gemini 4 Neon",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-        "published": "Wed, 18 Nov 2026 21:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Las Vegas race week brings big rewards to Google Play",
-        "url": "https://blog.google/products-and-platforms/platforms/google-play/auction-google-play-las-vegas/",
-        "published": "Wed, 18 Nov 2026 18:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Google for Mexico: Technology impact that goes beyond business",
-        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/",
-        "published": "Wed, 18 Nov 2026 18:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Genie 4 is now available",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-        "published": "Wed, 18 Nov 2026 18:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "Win the holiday shopping season with November’s Demand Gen Drop.",
-        "url": "https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/",
-        "published": "Wed, 18 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
     ],
@@ -5110,6 +5110,27 @@
     "OpenAI": [
       {
         "company": "OpenAI",
+        "title": "OpenAI and Cisco introduce Shirudo",
+        "url": "https://openai.com/index/introducing-shirudo",
+        "published": "Mon, 23 Nov 2026 21:20:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Connected intelligence for in-house legal",
+        "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+        "published": "Mon, 23 Nov 2026 08:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Richpanel helps companies automate 50% of support in 30 days",
+        "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+        "published": "Mon, 23 Nov 2026 08:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "Perplexity and Intelligence",
         "url": "https://openai.com/index/perplexity-and-intelligence",
         "published": "Sun, 22 Nov 2026 00:00:00 GMT",
@@ -5145,13 +5166,6 @@
       },
       {
         "company": "OpenAI",
-        "title": "Deploying Daybreak Red",
-        "url": "https://openai.com/business/learn/deploying-daybreak-red",
-        "published": "Thu, 19 Nov 2026 00:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
         "title": "See PR scans in action",
         "url": "https://openai.com/business/learn/pr-scans-demo",
         "published": "Thu, 19 Nov 2026 00:00:00 GMT",
@@ -5168,6 +5182,13 @@
         "company": "OpenAI",
         "title": "Explore the Codex Security Plugin",
         "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+        "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
+        "title": "Deploying Daybreak Red",
+        "url": "https://openai.com/business/learn/deploying-daybreak-red",
         "published": "Thu, 19 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5208,15 +5229,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Advancing chip design with OpenAI models",
-        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+        "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
         "published": "Wed, 18 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "title": "Advancing chip design with OpenAI models",
+        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
         "published": "Wed, 18 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5243,15 +5264,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Introducing OpenAI for Chile",
-        "url": "https://openai.com/index/introducing-openai-for-chile",
+        "title": "Astra for Law leads in legal intelligence",
+        "url": "https://openai.com/index/astra-law-6-2",
         "published": "Tue, 17 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Astra for Law leads in legal intelligence",
-        "url": "https://openai.com/index/astra-law-6-2",
+        "title": "Introducing OpenAI for Chile",
+        "url": "https://openai.com/index/introducing-openai-for-chile",
         "published": "Tue, 17 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5330,27 +5351,6 @@
         "title": "A step toward defining the Standard Model on a lattice",
         "url": "https://openai.com/index/step-toward-defining-the-standard-model",
         "published": "Sun, 15 Nov 2026 22:00:01 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Our new blog for science",
-        "url": "https://openai.com/index/our-new-blog-for-science",
-        "published": "Sun, 15 Nov 2026 22:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Introducing ChatGPT Wallet",
-        "url": "https://openai.com/index/introducing-chatgpt-wallet",
-        "published": "Fri, 13 Nov 2026 15:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-        "url": "https://openai.com/business/customer-stories/shield",
-        "published": "Fri, 13 Nov 2026 08:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
