@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-24T22:16:20.377907+00:00",
+  "retrieved_at": "2026-11-25T08:08:43.974543+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -40,7 +40,7 @@
       },
       {
         "date": "2025-11-26",
-        "close": 179.8292
+        "close": 179.8291
       },
       {
         "date": "2025-11-28",
@@ -168,7 +168,7 @@
       },
       {
         "date": "2026-01-14",
-        "close": 182.7124
+        "close": 182.7125
       },
       {
         "date": "2026-01-15",
@@ -240,7 +240,7 @@
       },
       {
         "date": "2026-02-10",
-        "close": 188.0998
+        "close": 188.0999
       },
       {
         "date": "2026-02-11",
@@ -316,7 +316,7 @@
       },
       {
         "date": "2026-03-10",
-        "close": 184.3387
+        "close": 184.3386
       },
       {
         "date": "2026-03-11",
@@ -324,7 +324,7 @@
       },
       {
         "date": "2026-03-12",
-        "close": 182.7223
+        "close": 182.7224
       },
       {
         "date": "2026-03-13",
@@ -348,7 +348,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.3062
+        "close": 172.3061
       },
       {
         "date": "2026-03-23",
@@ -384,7 +384,7 @@
       },
       {
         "date": "2026-04-02",
-        "close": 176.9855
+        "close": 176.9854
       },
       {
         "date": "2026-04-06",
@@ -1146,7 +1146,7 @@
       },
       {
         "date": "2026-01-05",
-        "close": 315.9254
+        "close": 315.9255
       },
       {
         "date": "2026-01-06",
@@ -1190,7 +1190,7 @@
       },
       {
         "date": "2026-01-21",
-        "close": 327.7424
+        "close": 327.7425
       },
       {
         "date": "2026-01-22",
@@ -1234,7 +1234,7 @@
       },
       {
         "date": "2026-02-05",
-        "close": 330.6069
+        "close": 330.6068
       },
       {
         "date": "2026-02-06",
@@ -1278,7 +1278,7 @@
       },
       {
         "date": "2026-02-23",
-        "close": 310.8853
+        "close": 310.8852
       },
       {
         "date": "2026-02-24",
@@ -1290,7 +1290,7 @@
       },
       {
         "date": "2026-02-26",
-        "close": 306.7832
+        "close": 306.7833
       },
       {
         "date": "2026-02-27",
@@ -1310,7 +1310,7 @@
       },
       {
         "date": "2026-03-05",
-        "close": 300.2959
+        "close": 300.2958
       },
       {
         "date": "2026-03-06",
@@ -2048,7 +2048,7 @@
     "Apple": [
       {
         "date": "2025-11-25",
-        "close": 276.0085
+        "close": 276.0084
       },
       {
         "date": "2025-11-26",
@@ -2080,7 +2080,7 @@
       },
       {
         "date": "2025-12-08",
-        "close": 276.9253
+        "close": 276.9252
       },
       {
         "date": "2025-12-09",
@@ -2092,7 +2092,7 @@
       },
       {
         "date": "2025-12-11",
-        "close": 277.0648
+        "close": 277.0647
       },
       {
         "date": "2025-12-12",
@@ -2152,11 +2152,11 @@
       },
       {
         "date": "2026-01-05",
-        "close": 266.3322
+        "close": 266.3321
       },
       {
         "date": "2026-01-06",
-        "close": 261.4491
+        "close": 261.4492
       },
       {
         "date": "2026-01-07",
@@ -2184,7 +2184,7 @@
       },
       {
         "date": "2026-01-15",
-        "close": 257.3135
+        "close": 257.3136
       },
       {
         "date": "2026-01-16",
@@ -2204,7 +2204,7 @@
       },
       {
         "date": "2026-01-23",
-        "close": 247.1789
+        "close": 247.1788
       },
       {
         "date": "2026-01-26",
@@ -2272,7 +2272,7 @@
       },
       {
         "date": "2026-02-18",
-        "close": 263.6788
+        "close": 263.6787
       },
       {
         "date": "2026-02-19",
@@ -2280,7 +2280,7 @@
       },
       {
         "date": "2026-02-20",
-        "close": 263.9081
+        "close": 263.9082
       },
       {
         "date": "2026-02-23",
@@ -2388,7 +2388,7 @@
       },
       {
         "date": "2026-03-31",
-        "close": 253.1455
+        "close": 253.1456
       },
       {
         "date": "2026-04-01",
@@ -2396,11 +2396,11 @@
       },
       {
         "date": "2026-04-02",
-        "close": 255.2702
+        "close": 255.2701
       },
       {
         "date": "2026-04-06",
-        "close": 258.2026
+        "close": 258.2027
       },
       {
         "date": "2026-04-07",
@@ -2424,11 +2424,11 @@
       },
       {
         "date": "2026-04-14",
-        "close": 258.1727
+        "close": 258.1728
       },
       {
         "date": "2026-04-15",
-        "close": 265.7534
+        "close": 265.7535
       },
       {
         "date": "2026-04-16",
@@ -2440,7 +2440,7 @@
       },
       {
         "date": "2026-04-20",
-        "close": 272.3566
+        "close": 272.3567
       },
       {
         "date": "2026-04-21",
@@ -2460,7 +2460,7 @@
       },
       {
         "date": "2026-04-27",
-        "close": 266.9305
+        "close": 266.9304
       },
       {
         "date": "2026-04-28",
@@ -2500,7 +2500,7 @@
       },
       {
         "date": "2026-05-11",
-        "close": 292.2058
+        "close": 292.2057
       },
       {
         "date": "2026-05-12",
@@ -2600,7 +2600,7 @@
       },
       {
         "date": "2026-06-16",
-        "close": 298.7552
+        "close": 298.7551
       },
       {
         "date": "2026-06-17",
@@ -2608,7 +2608,7 @@
       },
       {
         "date": "2026-06-18",
-        "close": 297.5271
+        "close": 297.5272
       },
       {
         "date": "2026-06-22",
@@ -2668,7 +2668,7 @@
       },
       {
         "date": "2026-07-13",
-        "close": 316.7958
+        "close": 316.7959
       },
       {
         "date": "2026-07-14",
@@ -2712,7 +2712,7 @@
       },
       {
         "date": "2026-07-28",
-        "close": 339.5289
+        "close": 339.529
       },
       {
         "date": "2026-07-29",
@@ -5138,6 +5138,13 @@
       },
       {
         "company": "OpenAI",
+        "title": "Clay helps sales teams win with Codex and ChatGPT",
+        "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+        "published": "Tue, 24 Nov 2026 00:00:00 GMT",
+        "source_feed": "https://openai.com/news/rss.xml"
+      },
+      {
+        "company": "OpenAI",
         "title": "OpenAI and Cisco introduce Shirudo",
         "url": "https://openai.com/index/introducing-shirudo",
         "published": "Mon, 23 Nov 2026 21:20:00 GMT",
@@ -5194,8 +5201,8 @@
       },
       {
         "company": "OpenAI",
-        "title": "Explore the Codex Security Plugin",
-        "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+        "title": "See PR scans in action",
+        "url": "https://openai.com/business/learn/pr-scans-demo",
         "published": "Thu, 19 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5208,8 +5215,8 @@
       },
       {
         "company": "OpenAI",
-        "title": "See PR scans in action",
-        "url": "https://openai.com/business/learn/pr-scans-demo",
+        "title": "Explore the Codex Security Plugin",
+        "url": "https://openai.com/business/learn/codex-security-plugin-demo",
         "published": "Thu, 19 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5292,15 +5299,15 @@
       },
       {
         "company": "OpenAI",
-        "title": "Astra for Law leads in legal intelligence",
-        "url": "https://openai.com/index/astra-law-6-2",
+        "title": "Introducing OpenAI for Chile",
+        "url": "https://openai.com/index/introducing-openai-for-chile",
         "published": "Tue, 17 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
       {
         "company": "OpenAI",
-        "title": "Introducing OpenAI for Chile",
-        "url": "https://openai.com/index/introducing-openai-for-chile",
+        "title": "Astra for Law leads in legal intelligence",
+        "url": "https://openai.com/index/astra-law-6-2",
         "published": "Tue, 17 Nov 2026 00:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       },
@@ -5344,13 +5351,6 @@
         "title": "Our first phase of embedded assessments",
         "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
         "published": "Mon, 16 Nov 2026 08:00:00 GMT",
-        "source_feed": "https://openai.com/news/rss.xml"
-      },
-      {
-        "company": "OpenAI",
-        "title": "Advancing computer-use agents for healthcare teams",
-        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-        "published": "Mon, 16 Nov 2026 06:00:00 GMT",
         "source_feed": "https://openai.com/news/rss.xml"
       }
     ]
