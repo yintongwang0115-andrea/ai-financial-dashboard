@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-26T07:57:24.570130+00:00",
+  "retrieved_at": "2026-11-26T21:20:34.591942+00:00",
   "companies": {
     "NVIDIA": {
       "ticker": "NVDA",
@@ -2048,7 +2048,7 @@
     "Apple": [
       {
         "date": "2025-11-26",
-        "close": 276.5865
+        "close": 276.5864
       },
       {
         "date": "2025-11-28",
@@ -2072,11 +2072,11 @@
       },
       {
         "date": "2025-12-05",
-        "close": 277.8121
+        "close": 277.8122
       },
       {
         "date": "2025-12-08",
-        "close": 276.9252
+        "close": 276.9253
       },
       {
         "date": "2025-12-09",
@@ -2084,15 +2084,15 @@
       },
       {
         "date": "2025-12-10",
-        "close": 277.8121
+        "close": 277.8122
       },
       {
         "date": "2025-12-11",
-        "close": 277.0648
+        "close": 277.0647
       },
       {
         "date": "2025-12-12",
-        "close": 277.3138
+        "close": 277.3139
       },
       {
         "date": "2025-12-15",
@@ -2108,7 +2108,7 @@
       },
       {
         "date": "2025-12-18",
-        "close": 271.2451
+        "close": 271.245
       },
       {
         "date": "2025-12-19",
@@ -2128,7 +2128,7 @@
       },
       {
         "date": "2025-12-26",
-        "close": 272.4509
+        "close": 272.4508
       },
       {
         "date": "2025-12-29",
@@ -2140,7 +2140,7 @@
       },
       {
         "date": "2025-12-31",
-        "close": 270.9162
+        "close": 270.9161
       },
       {
         "date": "2026-01-02",
@@ -2220,7 +2220,7 @@
       },
       {
         "date": "2026-01-30",
-        "close": 258.5792
+        "close": 258.5791
       },
       {
         "date": "2026-02-02",
@@ -2268,7 +2268,7 @@
       },
       {
         "date": "2026-02-18",
-        "close": 263.6788
+        "close": 263.6787
       },
       {
         "date": "2026-02-19",
@@ -2276,7 +2276,7 @@
       },
       {
         "date": "2026-02-20",
-        "close": 263.9081
+        "close": 263.9082
       },
       {
         "date": "2026-02-23",
@@ -2380,11 +2380,11 @@
       },
       {
         "date": "2026-03-30",
-        "close": 246.0037
+        "close": 246.0038
       },
       {
         "date": "2026-03-31",
-        "close": 253.1455
+        "close": 253.1456
       },
       {
         "date": "2026-04-01",
@@ -2396,7 +2396,7 @@
       },
       {
         "date": "2026-04-06",
-        "close": 258.2026
+        "close": 258.2027
       },
       {
         "date": "2026-04-07",
@@ -2420,11 +2420,11 @@
       },
       {
         "date": "2026-04-14",
-        "close": 258.1727
+        "close": 258.1728
       },
       {
         "date": "2026-04-15",
-        "close": 265.7534
+        "close": 265.7535
       },
       {
         "date": "2026-04-16",
@@ -2456,7 +2456,7 @@
       },
       {
         "date": "2026-04-27",
-        "close": 266.9305
+        "close": 266.9304
       },
       {
         "date": "2026-04-28",
@@ -2496,7 +2496,7 @@
       },
       {
         "date": "2026-05-11",
-        "close": 292.2058
+        "close": 292.2057
       },
       {
         "date": "2026-05-12",
@@ -2596,7 +2596,7 @@
       },
       {
         "date": "2026-06-16",
-        "close": 298.7552
+        "close": 298.7551
       },
       {
         "date": "2026-06-17",
@@ -2604,7 +2604,7 @@
       },
       {
         "date": "2026-06-18",
-        "close": 297.5271
+        "close": 297.5272
       },
       {
         "date": "2026-06-22",
@@ -2664,7 +2664,7 @@
       },
       {
         "date": "2026-07-13",
-        "close": 316.7958
+        "close": 316.7959
       },
       {
         "date": "2026-07-14",
@@ -2708,7 +2708,7 @@
       },
       {
         "date": "2026-07-28",
-        "close": 339.5289
+        "close": 339.529
       },
       {
         "date": "2026-07-29",
@@ -4684,6 +4684,13 @@
     "NVIDIA": [
       {
         "company": "NVIDIA",
+        "title": "Come for the Games, Stay for the Community With GeForce NOW",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+        "published": "Thu, 26 Nov 2026 14:00:22 GMT",
+        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
+      },
+      {
+        "company": "NVIDIA",
         "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
         "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
         "published": "Mon, 23 Nov 2026 17:00:08 GMT",
@@ -4814,16 +4821,16 @@
         "url": "https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing",
         "published": "Mon, 16 Nov 2026 16:00:00 GMT",
         "source_feed": "https://nvidianews.nvidia.com/rss.xml"
-      },
-      {
-        "company": "NVIDIA",
-        "title": "NVIDIA Expands Vera CPU Platform to Accelerate Scientific Discovery",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery",
-        "published": "Mon, 16 Nov 2026 16:00:00 GMT",
-        "source_feed": "https://nvidianews.nvidia.com/rss.xml"
       }
     ],
     "Alphabet": [
+      {
+        "company": "Alphabet",
+        "title": "15 years of investing in Colombia’s talent and future",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/15-years-investing-colombia-talent-future/",
+        "published": "Thu, 26 Nov 2026 18:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
       {
         "company": "Alphabet",
         "title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
@@ -4931,22 +4938,8 @@
       },
       {
         "company": "Alphabet",
-        "title": "Build strategic A/B tests to grow your ad performance.",
-        "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
-        "published": "Thu, 19 Nov 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
         "title": "Walter Isaacson on curiosity and creativity in the AI age.",
         "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-        "published": "Thu, 19 Nov 2026 17:00:00 +0000",
-        "source_feed": "https://blog.google/rss/"
-      },
-      {
-        "company": "Alphabet",
-        "title": "A smarter way to track and buy clean energy",
-        "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/",
         "published": "Thu, 19 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       },
@@ -4961,6 +4954,13 @@
         "company": "Alphabet",
         "title": "Let Gemini tackle repetitive chores on your Mac",
         "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+        "published": "Thu, 19 Nov 2026 17:00:00 +0000",
+        "source_feed": "https://blog.google/rss/"
+      },
+      {
+        "company": "Alphabet",
+        "title": "Build strategic A/B tests to grow your ad performance.",
+        "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
         "published": "Thu, 19 Nov 2026 17:00:00 +0000",
         "source_feed": "https://blog.google/rss/"
       }
